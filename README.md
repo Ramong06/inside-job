@@ -4,7 +4,7 @@
 
 ## What is it?
 
-We want to create a database that holds information about companies that users are interested in starting a career with. The database will pull information like company bio, history, financial information, and latest news. This is going to be useful for users who need information about companies they want to interview for or want to research how to start up their own company.
+Develop an app that holds information about companies that users are interested in starting a career with. The database will pull information like company bio, history, financial information, and latest news. This is going to be useful for users who need information about companies they want to interview for or want to research how to start up their own company.
 
 ## Technologies
 
@@ -17,9 +17,9 @@ Ehson -
 Tolu-
 Mina -
 
-UI/UX & User Flow
--Welcome Page with a Navbar
+## UI/UX & User Flow
 
+- Welcome Page with Navbar
 - If users want to sign up so they can save searches there is a log in button
 - Search Bar where they can start searching for company by name
 - Once you click on a company name a sub menu will pop up with nav bar - info, history, financial info, graphs, etc.
