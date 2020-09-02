@@ -12,10 +12,10 @@ React, Node, MongoDB/Mongoose, Chrome, multiple APIs, Chart JS, Bootstrap, Passp
 
 ## Team Member Responsibilities
 
-Ramon -
-Ehson -
-Tolu-
-Mina -
+Ramon - Back-End/Database
+Ehson - Project Management 
+Tolu- Research
+Mina - Front-End
 
 ## UI/UX & User Flow
 
