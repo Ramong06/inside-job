@@ -14,4 +14,4 @@ const incomeStatement = function (ticker) {
     );
 }
 
-export { companyProfile, incomeStatement };
+export default { companyProfile, incomeStatement };
