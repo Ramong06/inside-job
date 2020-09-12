@@ -5,7 +5,7 @@ import API from "../../utils/FinanceAPI";
 function Search() {
     const [search, setSearch] = useState("");
     const [companyName, setCompanyName] = useState("");
-    const [ticker, setTicker]
+    const [ticker, setTicker] = useState("");
 
     useEffect(() => {
         if (!search)
@@ -21,14 +21,15 @@ function Search() {
             });
     }, [search]);
 
-    API.companyProfile("Apple")
-            .then(res => {
-                if (res.length === 0) {
-                    throw new Error("No results found.");
-                }
-                setTicker(res[0]["symbol"]);
-                setCompanyName(res[0]["companyName"]);
-            });
+    API.companyProfile("apple")
+        .then(res => {
+            if (res.length === 0) {
+                throw new Error("No results found.");
+            }
+            console.log(res);
+            setTicker(res.data[0]["symbol"]);
+            setCompanyName(res.data[0]["name"]);
+        });
 
     const handleInputChange = event => {
         setSearch(event.target.value);
