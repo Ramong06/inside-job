@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import SearchForm from "../SearchForm";
 import API from "../../utils/FinanceAPI";
 
-function Search() {
+function Home() {
     const [search, setSearch] = useState("");
     const [companyName, setCompanyName] = useState("");
     const [ticker, setTicker] = useState("");
@@ -48,4 +48,4 @@ function Search() {
     );
 }
 
-export default Search;
+export default Home;
