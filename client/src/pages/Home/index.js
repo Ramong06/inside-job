@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import SearchForm from "../SearchForm";
+import SearchForm from "../../components/SearchForm";
 import API from "../../utils/FinanceAPI";
 
 function Home() {
