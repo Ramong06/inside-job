@@ -2,16 +2,15 @@ import React from "react";
 
 function SearchForm(props) {
     return (
-        <form className="search">
             <div className="form-group">
                 <input
                     value={props.search}
-                    onSubmit={props.handleSubmit}
-                    name="term"
+                    onChange={props.handleInputChange}
+                    name="results"
                     className="form-control"
                 />
+                <button onClick={props.handleFormSubmit}>Submit</button>
             </div>
-        </form>
     );
 }
 
