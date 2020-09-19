@@ -21,8 +21,10 @@
     "nodemon": "^1.18.7"
   },
   "dependencies": {
+    "bootstrap": "^4.5.2",
     "express": "^4.16.3",
     "if-env": "^1.0.4",
-    "mongoose": "^5.8.11"
+    "mongoose": "^5.8.11",
+    "react": "^16.13.1"
   }
 }
