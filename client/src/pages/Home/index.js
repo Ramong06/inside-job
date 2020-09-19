@@ -31,8 +31,6 @@ function Home() {
                 handleInputChange={handleInputChange}
                 results={search}
             />
-                <h1>Company: {companyName}</h1>
-                <h1>Ticker: {ticker}</h1>
         </div>
     );
 }
