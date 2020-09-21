@@ -3,35 +3,10 @@ import SearchForm from "../../components/SearchForm";
 import NavBar from "../../components/Navbar";
 import API from "../../utils/FinanceAPI";
 
-function Home() {
-  const [search, setSearch] = useState("");
-  const [companyName, setCompanyName] = useState("");
-  const [ticker, setTicker] = useState("");
-
-  const handleInputChange = (event) => {
-    setSearch(event.target.value);
-  };
-
-  const handleFormSubmit = (event) => {
-    event.preventDefault();
-
-    API.companyProfile(search).then((res) => {
-      if (res.length === 0) {
-        throw new Error("No results found.");
-      }
-      setTicker(res.data[0]["symbol"]);
-      setCompanyName(res.data[0]["name"]);
-    });
-  };
-
+function Home({ handleSearchResults }) {
   return (
     <div>
-      <NavBar />
-      <SearchForm
-        handleFormSubmit={handleFormSubmit}
-        handleInputChange={handleInputChange}
-        results={search}
-      />
+      <SearchForm handleSearchResults={handleSearchResults} />
     </div>
   );
 }

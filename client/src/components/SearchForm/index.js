@@ -1,15 +1,37 @@
-import React from "react";
+import React, { useState } from "react";
+import API from "../../utils/FinanceAPI";
+import { useHistory } from "react-router-dom";
 
-function SearchForm(props) {
+
+function SearchForm({handleSearchResults}) {
+    const [search, setSearch] = useState("");
+    const history = useHistory();
+
+    const handleInputChange = event => {
+        setSearch(event.target.value);
+    };
+
+    const handleFormSubmit = event => {
+        event.preventDefault();
+        
+        API.companyProfile(search)
+            .then(res => {
+                if (res.length === 0) {
+                    throw new Error("No results found.");
+                }
+                handleSearchResults(res.data, history);
+            });
+    };
+
     return (
             <div className="form-group">
                 <input
-                    value={props.search}
-                    onChange={props.handleInputChange}
+                    value={search}
+                    onChange={handleInputChange}
                     name="results"
                     className="form-control"
                 />
-                <button onClick={props.handleFormSubmit}>Submit</button>
+                <button onClick={handleFormSubmit}>Submit</button>
             </div>
     );
 }
