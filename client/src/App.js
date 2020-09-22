@@ -22,21 +22,21 @@ function App() {
 
     history.push("results");
   };
-
-  return (
-    <Router>
-      <Navbar />
-      <Route exact path="/">
-        <Home handleSearchResults={handleSearchResults} />
-      </Route>
-      <Route exact path="/results">
-        <Results searchData={searchData} />
-      </Route>
-      <Route exact path="/company/:ticker">
-        <Company />
-      </Route>
-    </Router>
-  );
-}
+  
+    return (
+      <Router>
+        <Navbar />
+        <Route exact path="/">
+          <Home handleSearchResults={handleSearchResults} />
+        </Route>
+        <Route exact path="/results">
+          <Results handleSearchResults={handleSearchResults} searchData={searchData}/>
+        </Route>
+        <Route exact path="/company">
+          <Company handleSearchResults={handleSearchResults}/>
+        </Route>
+      </Router>
+    );
+  }
 
 export default App;
