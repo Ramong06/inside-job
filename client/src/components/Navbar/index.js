@@ -19,3 +19,5 @@ function Navbar() {
 }
 
 export default Navbar;
+
+//background of navbar should be #388087 with #F6F6F2 font from color scheme colors
