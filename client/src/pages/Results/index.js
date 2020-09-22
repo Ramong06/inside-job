@@ -2,11 +2,11 @@ import React, { useState, useEffect } from "react";
 
 
 
-function Results({ searchData }) {
-    console.log(searchData);
+function Results({ searchData , handleSearchResults}) {
 
     return (
         <React.Fragment>
+            <SearchForm handleSearchResults={handleSearchResults} />
             {searchData.length ? <div>
                 <ul>
                     {searchData.map(company => {

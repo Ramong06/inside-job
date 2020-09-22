@@ -23,10 +23,10 @@ function App() {
           <Home handleSearchResults={handleSearchResults} />
         </Route>
         <Route exact path="/results">
-          <Results searchData={searchData}/>
+          <Results handleSearchResults={handleSearchResults} searchData={searchData}/>
         </Route>
-        <Route exact path="/company/:ticker">
-          <Company />
+        <Route exact path="/company">
+          <Company handleSearchResults={handleSearchResults}/>
         </Route>
       </Router>
     );
