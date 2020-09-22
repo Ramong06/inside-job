@@ -32,7 +32,7 @@ function App() {
       <Route exact path="/results">
         <Results handleSearchResults={handleSearchResults} searchData={searchData}/>
       </Route>
-      <Route exact path="/company">
+      <Route exact path="/company/:ticker">
         <Company handleSearchResults={handleSearchResults}/>
       </Route>
     </Router>
