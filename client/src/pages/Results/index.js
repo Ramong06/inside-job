@@ -1,4 +1,6 @@
 import React, { useState, useEffect } from "react";
+import { Link } from "react-router-dom";
+
 
 function Results({ searchData , handleSearchResults}) {
 
@@ -8,11 +10,11 @@ function Results({ searchData , handleSearchResults}) {
             {searchData.length ? <div>
                 <ul>
                     {searchData.map(company => {
-                        return (
+                        <Link to={"company/" + company.symbol}>
                             <li>
                                 {company.name}
                             </li>
-                        );
+                        </Link>
                     })}
                     
                 </ul>
