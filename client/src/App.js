@@ -10,6 +10,7 @@ import Home from "./pages/Home";
 import Results from "./pages/Results";
 import logo from "./logo.svg";
 import "./App.css";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   const [searchData, setSearchData] = useState({});
