@@ -445,7 +445,7 @@
 },
 { 
  
-    "name" : "FORD"S COLONY COUNTRY CLUB", 
+    "name" : "FORD'S COLONY COUNTRY CLUB", 
     "salary" : {}
 },
 { 
@@ -580,7 +580,7 @@
 },
 { 
  
-    "name" : "Pinellas County Sheriff"s Office", 
+    "name" : "Pinellas County Sheriff's Office", 
     "salary" : {}
 },
 { 
@@ -1250,7 +1250,7 @@
 },
 { 
  
-    "name" : "DJ"s Landscape Management", 
+    "name" : "DJ's Landscape Management", 
     "salary" : {"Crew Leader": "$14.26 per hour", "Supervisor": "$49,464 per year", "Snow Plow Operator": "$35.49 per hour"}
 },
 { 
@@ -1640,7 +1640,7 @@
 },
 { 
  
-    "name" : "Reser"s Fine Foods", 
+    "name" : "Reser's Fine Foods", 
     "salary" : {"Production Worker": "$9.85 per hour", "Machine Operator": "$10.81 per hour", "Production Supervisor": "$46,030 per year"}
 },
 { 
@@ -1750,7 +1750,7 @@
 },
 { 
  
-    "name" : "Olga"s Kitchen", 
+    "name" : "Olga's Kitchen", 
     "salary" : {"Server": "$9.07 per hour", "Kitchen Team Member": "$10.71 per hour", "Cook": "$10.22 per hour"}
 },
 { 
@@ -2190,7 +2190,7 @@
 },
 { 
  
-    "name" : "Kirkland"s", 
+    "name" : "Kirkland's", 
     "salary" : {"Sales Associate": "$9.29 per hour", "Assistant Manager": "$11.26 per hour", "Team Member": "$9.34 per hour"}
 },
 { 
@@ -2230,7 +2230,7 @@
 },
 { 
  
-    "name" : "Houston"s Restaurant", 
+    "name" : "Houston's Restaurant", 
     "salary" : {"Server": "$16.00 per hour", "Bartender": "$15.70 per hour", "Greeter": "$18.39 per hour"}
 },
 { 
@@ -2270,7 +2270,7 @@
 },
 { 
  
-    "name" : "The Chefs" Warehouse", 
+    "name" : "The Chefs' Warehouse", 
     "salary" : {"Sales Associate": "$46,701 per year", "Warehouse Worker": "$15.42 per hour", "Delivery Driver": "$16.85 per hour"}
 },
 { 
@@ -2450,7 +2450,7 @@
 },
 { 
  
-    "name" : "Lizard"s Thicket", 
+    "name" : "Lizard's Thicket", 
     "salary" : {"Cashier": "$9.24 per hour", "Cook": "$10.44 per hour", "Prep Cook": "$10.88 per hour"}
 },
 { 
@@ -2780,7 +2780,7 @@
 },
 { 
  
-    "name" : "LaRosa"s Pizzeria", 
+    "name" : "LaRosa's Pizzeria", 
     "salary" : {"Cook": "$9.70 per hour", "Delivery Driver": "$22,296 per year", "Server": "$20,904 per year"}
 },
 { 
@@ -3040,7 +3040,7 @@
 },
 { 
  
-    "name" : "Sal"s Heating and Cooling, Inc.", 
+    "name" : "Sal's Heating and Cooling, Inc.", 
     "salary" : {}
 },
 { 
@@ -3450,7 +3450,7 @@
 },
 { 
  
-    "name" : "St. Joseph"s Center", 
+    "name" : "St. Joseph's Center", 
     "salary" : {"Direct Support Professional": "$12.43 per hour", "Licensed Practical Nurse": "$16.00 per hour", "Senior Maintenance Person": "$12.01 per hour"}
 },
 { 
@@ -3615,7 +3615,7 @@
 },
 { 
  
-    "name" : "Mark"s Cleaning Service", 
+    "name" : "Mark's Cleaning Service", 
     "salary" : {}
 },
 { 
@@ -4000,7 +4000,7 @@
 },
 { 
  
-    "name" : "Macey"s", 
+    "name" : "Macey's", 
     "salary" : {"Courtesy Associate": "$8.36 per hour", "Cashier": "$8.66 per hour", "Produce Clerk": "$9.47 per hour"}
 },
 { 
@@ -4025,7 +4025,7 @@
 },
 { 
  
-    "name" : "Jack Link"s Protein Snacks", 
+    "name" : "Jack Link's Protein Snacks", 
     "salary" : {"Production Worker": "$15.17 per hour", "Laborer": "$14.50 per hour", "Material Handler": "$14.51 per hour"}
 },
 { 
@@ -4045,7 +4045,7 @@
 },
 { 
  
-    "name" : "Torchy"s Tacos", 
+    "name" : "Torchy's Tacos", 
     "salary" : {"Cashier": "$12.90 per hour", "Food Runner": "$11.06 per hour", "Dishwasher": "$11.21 per hour"}
 },
 { 
@@ -4155,7 +4155,7 @@
 },
 { 
  
-    "name" : "Prince George"s County Public Schools", 
+    "name" : "Prince George's County Public Schools", 
     "salary" : {"Teacher": "$63,579 per year", "Substitute Teacher": "$104 per day", "Bus Driver": "$30,193 per year"}
 },
 { 
@@ -4365,7 +4365,7 @@
 },
 { 
  
-    "name" : "Calluna"s Gardens", 
+    "name" : "Calluna's Gardens", 
     "salary" : {}
 },
 { 
@@ -4660,7 +4660,7 @@
 },
 { 
  
-    "name" : "NYC Administration for Children"s Services", 
+    "name" : "NYC Administration for Children's Services", 
     "salary" : {"Protection Specialist": "$52,410 per year", "Attorney": "$79,454 per year", "Childcare Provider": "$39,663 per year"}
 },
 { 
@@ -4750,7 +4750,7 @@
 },
 { 
  
-    "name" : "St. Anne"s", 
+    "name" : "St. Anne's", 
     "salary" : {"Residential Counselor": "$16.60 per hour", "Program Assistant": "$15.44 per hour", "Partner": "$16.52 per hour"}
 },
 { 
@@ -5010,7 +5010,7 @@
 },
 { 
  
-    "name" : "Saint Luke"s Health System", 
+    "name" : "Saint Luke's Health System", 
     "salary" : {"Registered Nurse": "$32.72 per hour", "Nursing Assistant": "$14.18 per hour", "Office Specialist": "$13.33 per hour"}
 },
 { 
@@ -5035,7 +5035,7 @@
 },
 { 
  
-    "name" : "Leavitt"s Freight Service", 
+    "name" : "Leavitt's Freight Service", 
     "salary" : {"Truck Driver": "$75,563 per year", "Regional Driver": "$71,119 per year"}
 },
 { 
@@ -5100,7 +5100,7 @@
 },
 { 
  
-    "name" : "Joe"s Kansas City Bar-B-Que", 
+    "name" : "Joe's Kansas City Bar-B-Que", 
     "salary" : {"Sandwich Maker": "$11.53 per hour", "Restaurant Manager": "$50,144 per year", "Meat Cutter": "$13.86 per hour"}
 },
 { 
@@ -5461,7 +5461,7 @@
 { 
  
     "name" : "Family F.O.C.U.S.", 
-    "salary" : {\"Teacher"s Aide\": "$11.18 per hour", "Teacher": "$12.85 per hour", "Preschool Teacher": "$12.99 per hour"}
+    "salary" : {"Teacher's Aide": "$11.18 per hour", "Teacher": "$12.85 per hour", "Preschool Teacher": "$12.99 per hour"}
 },
 { 
  
@@ -5895,7 +5895,7 @@
 },
 { 
  
-    "name" : "Altar"d State", 
+    "name" : "Altar'd State", 
     "salary" : {"Brand Representative": "$11.40 per hour", "Sales Associate": "$10.90 per hour", "Brand Ambassador": "$9.17 per hour"}
 },
 { 
@@ -5940,7 +5940,7 @@
 },
 { 
  
-    "name" : "MARSHALL"S INC.", 
+    "name" : "MARSHALL's INC.", 
     "salary" : {"Senior HVAC Technician": "$28.50 per hour", "HVAC Installer": "$27.00 per hour", "Boiler Technician": "$29.90 per hour"}
 },
 { 
@@ -5955,7 +5955,7 @@
 },
 { 
  
-    "name" : "St. John"s School and College", 
+    "name" : "St. John's School and College", 
     "salary" : {}
 },
 { 
@@ -6380,7 +6380,7 @@
 },
 { 
  
-    "name" : "Schlotzsky"s", 
+    "name" : "Schlotzsky's", 
     "salary" : {"Cashier": "$9.92 per hour", "Customer Service Associate / Cashier": "$9.95 per hour", "Kitchen Team Member": "$10.47 per hour"}
 },
 { 
@@ -6440,7 +6440,7 @@
 },
 { 
  
-    "name" : "Family & Children"s Center", 
+    "name" : "Family & Children's Center", 
     "salary" : {}
 },
 { 
@@ -6495,7 +6495,7 @@
 },
 { 
  
-    "name" : "Sotheby"s International Realty", 
+    "name" : "Sotheby's International Realty", 
     "salary" : {"Realtor": "$86,165 per year", "Real Estate Associate": "$187,578 per year", "Administrative Assistant": "$17.12 per hour"}
 },
 { 
@@ -6645,7 +6645,7 @@
 },
 { 
  
-    "name" : "America"s Car-Mart", 
+    "name" : "America's Car-Mart", 
     "salary" : {"Account Representative": "$11.71 per hour", "General Manager": "$68,239 per year", "Office Manager": "$11.97 per hour"}
 },
 { 
@@ -6665,7 +6665,7 @@
 },
 { 
  
-    "name" : "Hardee"s", 
+    "name" : "Hardee's", 
     "salary" : {"Cashier": "$8.44 per hour", "Crew Member": "$9.67 per hour", "Cook": "$8.99 per hour"}
 },
 { 
@@ -6705,7 +6705,7 @@
 },
 { 
  
-    "name" : "Buc-ee"s", 
+    "name" : "Buc-ee's", 
     "salary" : {"Cashier": "$16.01 per hour", "Deli Associate": "$13.98 per hour", "Food Service Worker": "$14.29 per hour"}
 },
 { 
@@ -6910,7 +6910,7 @@
 },
 { 
  
-    "name" : "Frank"s Basement Systems", 
+    "name" : "Frank's Basement Systems", 
     "salary" : {}
 },
 { 
@@ -6970,7 +6970,7 @@
 },
 { 
  
-    "name" : "Dr. Bronner"s", 
+    "name" : "Dr. Bronner's", 
     "salary" : {}
 },
 { 
@@ -7210,7 +7210,7 @@
 },
 { 
  
-    "name" : "Red"s Catering and Cafe", 
+    "name" : "Red's Catering and Cafe", 
     "salary" : {}
 },
 { 
@@ -7650,7 +7650,7 @@
 },
 { 
  
-    "name" : "Katherine"s Place at Wedington", 
+    "name" : "Katherine's Place at Wedington", 
     "salary" : {"Nursing Assistant": "$11.10 per hour", "Charge Nurse": "$50,647 per year"}
 },
 { 
@@ -7660,7 +7660,7 @@
 },
 { 
  
-    "name" : "Piner"s Nursing Home", 
+    "name" : "Piner's Nursing Home", 
     "salary" : {}
 },
 { 
@@ -7685,7 +7685,7 @@
 },
 { 
  
-    "name" : "Milio"s Sandwiches", 
+    "name" : "Milio's Sandwiches", 
     "salary" : {"Delivery Driver": "$11.67 per hour", "General Manager": "$38,160 per year", "Crew Member": "$11.20 per hour"}
 },
 { 
@@ -8060,7 +8060,7 @@
 },
 { 
  
-    "name" : "Vicki"s Little Rascals Petcare", 
+    "name" : "Vicki's Little Rascals Petcare", 
     "salary" : {"Dog Walker": "$17.73 per hour", "Pet Sitter": "$16.98 per hour"}
 },
 { 
@@ -8385,7 +8385,7 @@
 },
 { 
  
-    "name" : "Children"s Home of Poughkeepsie", 
+    "name" : "Children's Home of Poughkeepsie", 
     "salary" : {"Youth Counselor": "$15.56 per hour", "Assistant Supervisor": "$19.08 per hour", "Registered Nurse": "$28.39 per hour"}
 },
 { 
@@ -8475,7 +8475,7 @@
 },
 { 
  
-    "name" : "BOB"S STORES", 
+    "name" : "BOB's STORES", 
     "salary" : {"Sales Associate": "$11.28 per hour", "Retail Sales Associate": "$10.29 per hour", "Department Manager": "$38,350 per year"}
 },
 { 
@@ -9055,7 +9055,7 @@
 },
 { 
  
-    "name" : "World"s Finest Chocolate", 
+    "name" : "World's Finest Chocolate", 
     "salary" : {"Independent Representative": "$50,445 per year", "Intern": "$13.96 per hour", "Sales Representative": "$49,029 per year"}
 },
 { 
@@ -9070,7 +9070,7 @@
 },
 { 
  
-    "name" : "Livingood"s Inc", 
+    "name" : "Livingood's Inc", 
     "salary" : {"Delivery Driver": "$12.00 per hour", "Sales Associate": "$44,725 per year"}
 },
 { 
@@ -9180,7 +9180,7 @@
 },
 { 
  
-    "name" : "Poet"s Walk Memory Care", 
+    "name" : "Poet's Walk Memory Care", 
     "salary" : {"Nursing Assistant": "$12.48 per hour", "Receptionist": "$10.70 per hour", "Housekeeper": "$11.18 per hour"}
 },
 { 
@@ -9330,7 +9330,7 @@
 },
 { 
  
-    "name" : "Domino"s", 
+    "name" : "Domino's", 
     "salary" : {"Delivery Driver": "$13.86 per hour", "Customer Service Representative": "$10.94 per hour", "Assistant Manager": "$12.17 per hour"}
 },
 { 
@@ -9690,7 +9690,7 @@
 },
 { 
  
-    "name" : "Sam"s Xpress Car Wash", 
+    "name" : "Sam's Xpress Car Wash", 
     "salary" : {"Crew Member": "$8.74 per hour", "Site Manager": "$56,418 per year", "Car Wash Attendant": "$12.79 per hour"}
 },
 { 
@@ -9750,7 +9750,7 @@
 },
 { 
  
-    "name" : "Hudson"s Bay Company", 
+    "name" : "Hudson's Bay Company", 
     "salary" : {"Packer": "$12.74 per hour", "Customer Service Representative": "$12.23 per hour", "Sales Associate": "$25,648 per year"}
 },
 { 
@@ -9910,7 +9910,7 @@
 },
 { 
  
-    "name" : "Bob"s Discount Furniture", 
+    "name" : "Bob's Discount Furniture", 
     "salary" : {"Sales Associate": "$61,511 per year", "Office Assistant": "$12.27 per hour", "Warehouse Worker": "$13.77 per hour"}
 },
 { 
@@ -10010,7 +10010,7 @@
 },
 { 
  
-    "name" : "Sharon"s Heating & Air Conditioning, Inc.", 
+    "name" : "Sharon's Heating & Air Conditioning, Inc.", 
     "salary" : {"HVAC Technician": "$19.48 per hour", "HVAC Installer": "$22.84 per hour", "Boiler Technician": "$25.85 per hour"}
 },
 { 
@@ -10071,7 +10071,7 @@
 { 
  
     "name" : "Peregrine Health Services", 
-    "salary" : {"State Tested Nursing Assistant": "$15.70 per hour", "Licensed Practical Nurse": "$25.12 per hour", \"Nurse"s Aide\": "$13.89 per hour"}
+    "salary" : {"State Tested Nursing Assistant": "$15.70 per hour", "Licensed Practical Nurse": "$25.12 per hour", \"Nurse's Aide\": "$13.89 per hour"}
 },
 { 
  
@@ -10160,7 +10160,7 @@
 },
 { 
  
-    "name" : "Trav"s Outfitter", 
+    "name" : "Trav's Outfitter", 
     "salary" : {}
 },
 { 
@@ -10255,7 +10255,7 @@
 },
 { 
  
-    "name" : "Redner"s Markets", 
+    "name" : "Redner's Markets", 
     "salary" : {"Cashier": "$9.22 per hour", "Deli Associate": "$9.41 per hour", "Customer Service Associate / Cashier": "$8.99 per hour"}
 },
 { 
@@ -10295,7 +10295,7 @@
 },
 { 
  
-    "name" : "Carter"s Carpet Restoration", 
+    "name" : "Carter's Carpet Restoration", 
     "salary" : {}
 },
 { 
@@ -10355,7 +10355,7 @@
 },
 { 
  
-    "name" : "Murphy Harpst Children"s Centers", 
+    "name" : "Murphy Harpst Children's Centers", 
     "salary" : {}
 },
 { 
@@ -10735,7 +10735,7 @@
 },
 { 
  
-    "name" : "Children"s Healthcare of Atlanta", 
+    "name" : "Children's Healthcare of Atlanta", 
     "salary" : {"Registered Nurse": "$62,630 per year", "Registrations Manager": "$31,729 per year", "Patient Access Manager": "$69,813 per year"}
 },
 { 
@@ -10770,7 +10770,7 @@
 },
 { 
  
-    "name" : "Coscino"s Italian Grill", 
+    "name" : "Coscino's Italian Grill", 
     "salary" : {"Pizza Cook": "$12.74 per hour", "Prep Cook": "$12.43 per hour"}
 },
 { 
@@ -10920,7 +10920,7 @@
 },
 { 
  
-    "name" : "Buddy"s Pizza", 
+    "name" : "Buddy's Pizza", 
     "salary" : {"Pizza Cook": "$10.41 per hour", "Server": "$12.68 per hour"}
 },
 { 
@@ -10965,7 +10965,7 @@
 },
 { 
  
-    "name" : "Francesca"s", 
+    "name" : "Francesca's", 
     "salary" : {"Stylist": "$8.86 per hour", "Retail Assistant Manager": "$10.57 per hour", "Sales Lead": "$11.30 per hour"}
 },
 { 
@@ -11140,7 +11140,7 @@
 },
 { 
  
-    "name" : "Morrie"s Automotive Group", 
+    "name" : "Morrie's Automotive Group", 
     "salary" : {"Car Sales Executive": "$69,132 per year", "Sales Consultant": "$55,045 per year", "Accounting Assistant": "$16.80 per hour"}
 },
 { 
@@ -11256,7 +11256,7 @@
 { 
  
     "name" : "Montefiore", 
-    "salary" : {"State Tested Nursing Assistant": "$13.94 per hour", "Shift Leader": "$13.96 per hour", \"Nurse"s Aide\": "$12.00 per hour"}
+    "salary" : {"State Tested Nursing Assistant": "$13.94 per hour", "Shift Leader": "$13.96 per hour", \"Nurse's Aide\": "$12.00 per hour"}
 },
 { 
  
@@ -11400,7 +11400,7 @@
 },
 { 
  
-    "name" : "Belfonte"s Carwash", 
+    "name" : "Belfonte's Carwash", 
     "salary" : {}
 },
 { 
@@ -11655,7 +11655,7 @@
 },
 { 
  
-    "name" : "St. Patrick"s Residence", 
+    "name" : "St. Patrick's Residence", 
     "salary" : {}
 },
 { 
@@ -11665,7 +11665,7 @@
 },
 { 
  
-    "name" : "Texas Children"s Hospital", 
+    "name" : "Texas Children's Hospital", 
     "salary" : {"Registered Nurse": "$43.46 per hour", "Certified Medical Assistant": "$38,145 per year", "Medical Assistant": "$15.63 per hour"}
 },
 { 
@@ -11725,7 +11725,7 @@
 },
 { 
  
-    "name" : "J. Alexander"s Restaurants", 
+    "name" : "J. Alexander's Restaurants", 
     "salary" : {"Server": "$33,693 per year", "Bartender": "$14.20 per hour", "Host/Hostess": "$13.20 per hour"}
 },
 { 
@@ -12150,7 +12150,7 @@
 },
 { 
  
-    "name" : "Children"s Home Society of Florida", 
+    "name" : "Children's Home Society of Florida", 
     "salary" : {"Case Manager": "$32,522 per year", "Support Worker": "$11.54 per hour", "Clinical Counselor": "$35,183 per year"}
 },
 { 
@@ -12175,7 +12175,7 @@
 },
 { 
  
-    "name" : "St. Anthony"s Healthcare and Rehab", 
+    "name" : "St. Anthony's Healthcare and Rehab", 
     "salary" : {"Nursing Assistant": "$11.33 per hour", "Licensed Practical Nurse": "$23.56 per hour", "Dietary Aide": "$9.52 per hour"}
 },
 { 
@@ -12220,7 +12220,7 @@
 },
 { 
  
-    "name" : "St. Ann"s Community", 
+    "name" : "St. Ann's Community", 
     "salary" : {}
 },
 { 
@@ -12295,7 +12295,7 @@
 },
 { 
  
-    "name" : "JD"S AUTO REPAIR & PERFORMANCE CENTER", 
+    "name" : "JD's AUTO REPAIR & PERFORMANCE CENTER", 
     "salary" : {}
 },
 { 
@@ -12865,7 +12865,7 @@
 },
 { 
  
-    "name" : "Avery"s Pet Styling Salon and Boutique", 
+    "name" : "Avery's Pet Styling Salon and Boutique", 
     "salary" : {}
 },
 { 
@@ -12985,7 +12985,7 @@
 },
 { 
  
-    "name" : "Leader"s Casual Furniture", 
+    "name" : "Leader's Casual Furniture", 
     "salary" : {"Forklift Operator": "$10.00 per hour", "Cutter": "$17.14 per hour"}
 },
 { 
@@ -13335,7 +13335,7 @@
 },
 { 
  
-    "name" : "Little Sunshine"s Playhouse & Preschool", 
+    "name" : "Little Sunshine's Playhouse & Preschool", 
     "salary" : {"Teacher": "$10.17 per hour", "Preschool Teacher": "$12.63 per hour", "School Principal": "$27,615 per year"}
 },
 { 
@@ -13540,7 +13540,7 @@
 },
 { 
  
-    "name" : "TRIG"S", 
+    "name" : "TRIG's", 
     "salary" : {"Customer Service Associate / Cashier": "$8.36 per hour", "Associate": "$9.29 per hour"}
 },
 { 
@@ -13575,7 +13575,7 @@
 },
 { 
  
-    "name" : "People"s United Bank", 
+    "name" : "People's United Bank", 
     "salary" : {"Customer Service Representative": "$15.93 per hour", "Finance Associate": "$32,462 per year", "Banker": "$17.41 per hour"}
 },
 { 
@@ -13615,7 +13615,7 @@
 },
 { 
  
-    "name" : "Children"s Hospital of the King"s Daughters", 
+    "name" : "Children's Hospital of the King's Daughters", 
     "salary" : {"Medical Assistant": "$11.48 per hour", "Patient Access Manager": "$23,876 per year", "Licensed Practical Nurse": "$33,565 per year"}
 },
 { 
@@ -13770,7 +13770,7 @@
 },
 { 
  
-    "name" : "Brink"s Incorporated", 
+    "name" : "Brink's Incorporated", 
     "salary" : {"Messenger": "$58,617 per year", "Logistics Associate": "$38,448 per year", "Teller": "$12.73 per hour"}
 },
 { 
@@ -13925,7 +13925,7 @@
 },
 { 
  
-    "name" : "K-BOB"S Steakhouse", 
+    "name" : "K-BOB's Steakhouse", 
     "salary" : {"Restaurant Manager": "$57,578 per year", "Relocation Specialist": "$49,029 per year", "Kitchen Manager": "$49,752 per year"}
 },
 { 
@@ -13950,7 +13950,7 @@
 },
 { 
  
-    "name" : "Nightingale"s Nursing & Attendants", 
+    "name" : "Nightingale's Nursing & Attendants", 
     "salary" : {"Personal Care Assistant": "$9.45 per hour", "Nurse": "$57,139 per year", "Nursing Assistant": "$9.11 per hour"}
 },
 { 
@@ -14100,7 +14100,7 @@
 },
 { 
  
-    "name" : "All Children"s Hospital", 
+    "name" : "All Children's Hospital", 
     "salary" : {}
 },
 { 
@@ -14135,7 +14135,7 @@
 },
 { 
  
-    "name" : "Dunham"s Sports", 
+    "name" : "Dunham's Sports", 
     "salary" : {"Sales Associate": "$8.69 per hour", "Cashier": "$7.96 per hour", "Team Member": "$7.67 per hour"}
 },
 { 
@@ -14556,7 +14556,7 @@
 { 
  
     "name" : "ANDRUS", 
-    "salary" : {"Cook": "$13.56 per hour", "Youth Counselor": "$13.20 per hour", \"Teacher"s Aide\": "$13.37 per hour"}
+    "salary" : {"Cook": "$13.56 per hour", "Youth Counselor": "$13.20 per hour", \"Teacher's Aide\": "$13.37 per hour"}
 },
 { 
  
@@ -15035,7 +15035,7 @@
 },
 { 
  
-    "name" : "Famous Dave"s", 
+    "name" : "Famous Dave's", 
     "salary" : {"Server": "$11.02 per hour", "Bartender": "$11.62 per hour", "Host/Hostess": "$9.87 per hour"}
 },
 { 
@@ -15095,7 +15095,7 @@
 },
 { 
  
-    "name" : "The Children"s Village", 
+    "name" : "The Children's Village", 
     "salary" : {}
 },
 { 
@@ -15290,7 +15290,7 @@
 },
 { 
  
-    "name" : "Ollie"s Bargain Outlet", 
+    "name" : "Ollie's Bargain Outlet", 
     "salary" : {"Sales Associate": "$10.44 per hour", "Customer Service Representative": "$9.63 per hour", "Sales Manager": "$10.14 per hour"}
 },
 { 
@@ -15515,7 +15515,7 @@
 },
 { 
  
-    "name" : "Chuy"s", 
+    "name" : "Chuy's", 
     "salary" : {"Server": "$25,312 per year", "Host/Hostess": "$10.45 per hour", "Bartender": "$30,457 per year"}
 },
 { 
@@ -15770,7 +15770,7 @@
 },
 { 
  
-    "name" : "Colonna"s Shipyard, Inc", 
+    "name" : "Colonna's Shipyard, Inc", 
     "salary" : {"Painter": "$16.56 per hour", "Pipefitter": "$20.67 per hour"}
 },
 { 
@@ -15955,7 +15955,7 @@
 },
 { 
  
-    "name" : "AsheBridge Children"s Academy", 
+    "name" : "AsheBridge Children's Academy", 
     "salary" : {"Teacher": "$12.30 per hour", "Lead Teacher": "$12.13 per hour", "Preschool Teacher": "$11.97 per hour"}
 },
 { 
@@ -16040,7 +16040,7 @@
 },
 { 
  
-    "name" : "Driscoll"s", 
+    "name" : "Driscoll's", 
     "salary" : {"Greenhouse Worker": "$13.96 per hour", "Solutions Manager": "$162,549 per year", "Senior Analyst": "$76,000 per year"}
 },
 { 
@@ -16070,7 +16070,7 @@
 },
 { 
  
-    "name" : "Jerry"s Home Improvement", 
+    "name" : "Jerry's Home Improvement", 
     "salary" : {"Sales Representative": "$36,772 per year", "Stocker": "$12.45 per hour", "Merchandiser": "$13.66 per hour"}
 },
 { 
@@ -16095,7 +16095,7 @@
 },
 { 
  
-    "name" : "Presbyterian Children"s Homes and Services", 
+    "name" : "Presbyterian Children's Homes and Services", 
     "salary" : {"Case Manager": "$34,192 per year", "Childcare Provider": "$8.58 per hour", "Therapist": "$37,999 per year"}
 },
 { 
@@ -16285,7 +16285,7 @@
 },
 { 
  
-    "name" : "Newk"s Eatery", 
+    "name" : "Newk's Eatery", 
     "salary" : {"Server": "$10.69 per hour", "Server/Cashier": "$11.08 per hour", "Dishwasher": "$10.29 per hour"}
 },
 { 
@@ -16530,7 +16530,7 @@
 },
 { 
  
-    "name" : "King"s Hawaiian", 
+    "name" : "King's Hawaiian", 
     "salary" : {"Packer": "$11.87 per hour", "Production Assistant": "$32,877 per year", "Cake Decorator": "$12.75 per hour"}
 },
 { 
@@ -16825,7 +16825,7 @@
 },
 { 
  
-    "name" : "CHILDREN"S HEALTH COUNCIL", 
+    "name" : "CHILDREN's HEALTH COUNCIL", 
     "salary" : {"Behavioral Specialist": "$100,772 per year", "School Teacher": "$74,678 per year", "Classroom Assistant": "$49,774 per year"}
 },
 { 
@@ -16880,7 +16880,7 @@
 },
 { 
  
-    "name" : "East Tennessee Children"s Hospital", 
+    "name" : "East Tennessee Children's Hospital", 
     "salary" : {}
 },
 { 
@@ -17000,7 +17000,7 @@
 },
 { 
  
-    "name" : "Lady Jane"s Haircuts for Men", 
+    "name" : "Lady Jane's Haircuts for Men", 
     "salary" : {"Stylist": "$49,769 per year", "Hair Stylist": "$12.15 per hour", "Manager": "$41,932 per year"}
 },
 { 
@@ -17335,7 +17335,7 @@
 },
 { 
  
-    "name" : "Stew Leonard"s", 
+    "name" : "Stew Leonard's", 
     "salary" : {"Cashier": "$11.93 per hour", "Baker": "$12.73 per hour", "Deli Associate": "$12.36 per hour"}
 },
 { 
@@ -17410,7 +17410,7 @@
 },
 { 
  
-    "name" : "Beck"s Hybrids", 
+    "name" : "Beck's Hybrids", 
     "salary" : {}
 },
 { 
@@ -17635,7 +17635,7 @@
 },
 { 
  
-    "name" : "Jersey Mike"s Subs", 
+    "name" : "Jersey Mike's Subs", 
     "salary" : {"Shift Leader": "$11.97 per hour", "Crew Member": "$11.57 per hour", "Assistant Manager": "$13.57 per hour"}
 },
 { 
@@ -17890,7 +17890,7 @@
 },
 { 
  
-    "name" : "Menchie"s Frozen Yogurt", 
+    "name" : "Menchie's Frozen Yogurt", 
     "salary" : {"Team Member": "$9.71 per hour", "Shift Leader": "$10.37 per hour", "Cashier": "$10.86 per hour"}
 },
 { 
@@ -18175,7 +18175,7 @@
 },
 { 
  
-    "name" : "Humphrey"s Cleaning Service LLC", 
+    "name" : "Humphrey's Cleaning Service LLC", 
     "salary" : {}
 },
 { 
@@ -18250,7 +18250,7 @@
 },
 { 
  
-    "name" : "Papa John"s", 
+    "name" : "Papa John's", 
     "salary" : {"Delivery Driver": "$11.77 per hour", "Manager": "$10.47 per hour", "Assistant Manager": "$11.29 per hour"}
 },
 { 
@@ -18510,7 +18510,7 @@
 },
 { 
  
-    "name" : "Heron"s Key", 
+    "name" : "Heron's Key", 
     "salary" : {}
 },
 { 
@@ -18640,7 +18640,7 @@
 },
 { 
  
-    "name" : "Shepherd"s Hollow Golf Club", 
+    "name" : "Shepherd's Hollow Golf Club", 
     "salary" : {}
 },
 { 
@@ -18865,7 +18865,7 @@
 },
 { 
  
-    "name" : "Children"s Learning Adventure", 
+    "name" : "Children's Learning Adventure", 
     "salary" : {"Teacher": "$11.95 per hour", "Lead Teacher": "$33,670 per year", "Preschool Teacher": "$13.31 per hour"}
 },
 { 
@@ -19265,7 +19265,7 @@
 },
 { 
  
-    "name" : "Lee"s Sandwiches", 
+    "name" : "Lee's Sandwiches", 
     "salary" : {"Cashier": "$9.14 per hour", "Sandwich Maker": "$13.00 per hour", "Supervisor": "$12.15 per hour"}
 },
 { 
@@ -19340,7 +19340,7 @@
 },
 { 
  
-    "name" : "Cabela"s Inc.", 
+    "name" : "Cabela's Inc.", 
     "salary" : {"Outfitter": "$10.84 per hour", "Customer Service Representative": "$10.65 per hour", "Sales Associate": "$11.09 per hour"}
 },
 { 
@@ -19750,7 +19750,7 @@
 },
 { 
  
-    "name" : "Children"s Hospital Los Angeles", 
+    "name" : "Children's Hospital Los Angeles", 
     "salary" : {"Partner": "$17.54 per hour", "Registered Nurse": "$97,677 per year", "Admitting Representative": "$41,291 per year"}
 },
 { 
@@ -19765,7 +19765,7 @@
 },
 { 
  
-    "name" : "Anthony"s Coal Fired Pizza", 
+    "name" : "Anthony's Coal Fired Pizza", 
     "salary" : {"General Manager": "$72,161 per year", "Bartender": "$31,606 per year", "Line Cook/Prep Cook": "$14.29 per hour"}
 },
 { 
@@ -19830,7 +19830,7 @@
 },
 { 
  
-    "name" : "Dr. Reddy"s Laboratories", 
+    "name" : "Dr. Reddy's Laboratories", 
     "salary" : {}
 },
 { 
@@ -20305,7 +20305,7 @@
 },
 { 
  
-    "name" : "Pete"s RV Center", 
+    "name" : "Pete's RV Center", 
     "salary" : {"Service Technician": "$24.79 per hour", "Parts Specialist": "$16.53 per hour", "RV Technician": "$20.05 per hour"}
 },
 { 
@@ -20320,7 +20320,7 @@
 },
 { 
  
-    "name" : "Rubio"s Coastal Grill", 
+    "name" : "Rubio's Coastal Grill", 
     "salary" : {"Shift Leader": "$13.90 per hour", "Guest Service Agent": "$11.42 per hour", "Line Cook": "$11.47 per hour"}
 },
 { 
@@ -20365,7 +20365,7 @@
 },
 { 
  
-    "name" : "Cooper"s Hawk Winery & Restaurants", 
+    "name" : "Cooper's Hawk Winery & Restaurants", 
     "salary" : {"Server": "$30,081 per year", "Line Cook": "$14.56 per hour", "Room Attendant": "$13.46 per hour"}
 },
 { 
@@ -20965,7 +20965,7 @@
 },
 { 
  
-    "name" : "Omaha"s Henry Doorly Zoo and Aquarium", 
+    "name" : "Omaha's Henry Doorly Zoo and Aquarium", 
     "salary" : {"Customer Service Representative": "$9.31 per hour", "Cashier": "$9.49 per hour", "Crew Member": "$9.69 per hour"}
 },
 { 
@@ -21145,7 +21145,7 @@
 },
 { 
  
-    "name" : "BJ"S Restaurant & Brewhouse", 
+    "name" : "BJ's Restaurant & Brewhouse", 
     "salary" : {"Server": "$10.66 per hour", "Line Cook": "$15.16 per hour", "Host/Hostess": "$11.32 per hour"}
 },
 { 
@@ -21390,7 +21390,7 @@
 },
 { 
  
-    "name" : "Miller"s Health Systems", 
+    "name" : "Miller's Health Systems", 
     "salary" : {"Nursing Assistant": "$12.35 per hour", "Registered Nurse - Operating Room": "$23.53 per hour", "Registered Nurse": "$25.72 per hour"}
 },
 { 
@@ -21605,7 +21605,7 @@
 },
 { 
  
-    "name" : "Ridley"s Family Markets", 
+    "name" : "Ridley's Family Markets", 
     "salary" : {"Deli Associate": "$9.75 per hour", "Customer Service Associate / Cashier": "$9.44 per hour", "Grocery Manager": "$16.42 per hour"}
 },
 { 
@@ -22170,7 +22170,7 @@
 },
 { 
  
-    "name" : "Romeo"s Pizza Polaris", 
+    "name" : "Romeo's Pizza Polaris", 
     "salary" : {}
 },
 { 
@@ -22445,7 +22445,7 @@
 },
 { 
  
-    "name" : "DICK"S Sporting Goods", 
+    "name" : "DICK's Sporting Goods", 
     "salary" : {"Sales Associate": "$11.13 per hour", "Retail Sales Associate": "$25,266 per year", "Customer Service Representative": "$23,537 per year"}
 },
 { 
@@ -22665,7 +22665,7 @@
 },
 { 
  
-    "name" : "Macy"s", 
+    "name" : "Macy's", 
     "salary" : {"Sales Associate": "$10.68 per hour", "Customer Service Representative": "$30,506 per year", "Retail Sales Associate": "$30,867 per year"}
 },
 { 
@@ -23010,7 +23010,7 @@
 },
 { 
  
-    "name" : "St Anthony"s Gardens", 
+    "name" : "St Anthony's Gardens", 
     "salary" : {}
 },
 { 
@@ -23045,7 +23045,7 @@
 },
 { 
  
-    "name" : "Conrad"s Tire Express and Total Car Care", 
+    "name" : "Conrad's Tire Express and Total Car Care", 
     "salary" : {"Tire Technician": "$33,466 per year", "Automotive Technician": "$10.65 per hour", "Store Manager": "$55,238 per year"}
 },
 { 
@@ -23150,7 +23150,7 @@
 },
 { 
  
-    "name" : "Peyton"s Learning Place", 
+    "name" : "Peyton's Learning Place", 
     "salary" : {"Associate Teacher": "$8.99 per hour", "Preschool Teacher": "$9.40 per hour", "Daycare Teacher": "$9.25 per hour"}
 },
 { 
@@ -23190,7 +23190,7 @@
 },
 { 
  
-    "name" : "Children"s Health", 
+    "name" : "Children's Health", 
     "salary" : {"Registered Nurse": "$45.64 per hour", "Respiratory Therapist": "$28.05 per hour", "Patient Access Manager": "$54,157 per year"}
 },
 { 
@@ -23561,7 +23561,7 @@
 { 
  
     "name" : null, 
-    "salary" : {"Nursing Assistant": "$12.84 per hour", "Cook": "$12.01 per hour", \"Nurse"s Aide\": "$13.45 per hour"}
+    "salary" : {"Nursing Assistant": "$12.84 per hour", "Cook": "$12.01 per hour", \"Nurse's Aide\": "$13.45 per hour"}
 },
 { 
  
@@ -23570,7 +23570,7 @@
 },
 { 
  
-    "name" : "Michigan"s Adventure", 
+    "name" : "Michigan's Adventure", 
     "salary" : {"Lifeguard": "$10.21 per hour", "Associate": "$55,056 per year", "Ride Operator": "$8.46 per hour"}
 },
 { 
@@ -23805,7 +23805,7 @@
 },
 { 
  
-    "name" : "Bubba"s 33", 
+    "name" : "Bubba's 33", 
     "salary" : {"Server": "$31,735 per year", "Bartender": "$31,653 per year", "Host/Hostess": "$26,621 per year"}
 },
 { 
@@ -24140,7 +24140,7 @@
 },
 { 
  
-    "name" : "Blain"s Farm & Fleet (Blain Supply, Inc.)", 
+    "name" : "Blain's Farm & Fleet (Blain Supply, Inc.)", 
     "salary" : {"Cashier": "$9.93 per hour", "Sales Associate": "$10.96 per hour", "Customer Service Associate / Cashier": "$10.34 per hour"}
 },
 { 
@@ -24255,7 +24255,7 @@
 },
 { 
  
-    "name" : "Bob Ward"s Sports & Outdoors", 
+    "name" : "Bob Ward's Sports & Outdoors", 
     "salary" : {}
 },
 { 
@@ -24350,7 +24350,7 @@
 },
 { 
  
-    "name" : "Thiel"s Home Solutions", 
+    "name" : "Thiel's Home Solutions", 
     "salary" : {"Sales Representative": "$122,573 per year", "Install": "$63,335 per year", "Call Center Representative": "$12.80 per hour"}
 },
 { 
@@ -24395,12 +24395,12 @@
 },
 { 
  
-    "name" : "Ann & Robert H. Lurie Children"s Hospital of Chicago", 
+    "name" : "Ann & Robert H. Lurie Children's Hospital of Chicago", 
     "salary" : {"Customer Service Representative": "$46,297 per year", "Administrative Assistant": "$16.68 per hour", "Medical Assistant": "$14.96 per hour"}
 },
 { 
  
-    "name" : "McDonald"s", 
+    "name" : "McDonald's", 
     "salary" : {"Crew Member": "$10.51 per hour", "Cashier": "$10.87 per hour", "Fast Food Attendant": "$10.16 per hour"}
 },
 { 
@@ -24690,7 +24690,7 @@
 },
 { 
  
-    "name" : "Master"s Transportation Inc", 
+    "name" : "Master's Transportation Inc", 
     "salary" : {}
 },
 { 
@@ -25090,7 +25090,7 @@
 },
 { 
  
-    "name" : "North Bay Children"s Center", 
+    "name" : "North Bay Children's Center", 
     "salary" : {"Teacher": "$16.77 per hour", "Preschool Teacher": "$18.59 per hour", "Early Childhood Teacher": "$18.70 per hour"}
 },
 { 
@@ -25140,7 +25140,7 @@
 },
 { 
  
-    "name" : "Eddie V"s", 
+    "name" : "Eddie V's", 
     "salary" : {"Host/Hostess": "$19.20 per hour", "Sous Chef": "$60,830 per year", "Line Cook": "$19.98 per hour"}
 },
 { 
@@ -25505,7 +25505,7 @@
 },
 { 
  
-    "name" : "Stewart"s Shops", 
+    "name" : "Stewart's Shops", 
     "salary" : {"Partner": "$12.83 per hour", "Shift Manager": "$13.63 per hour", "Cashier": "$10.48 per hour"}
 },
 { 
@@ -25580,7 +25580,7 @@
 },
 { 
  
-    "name" : "Daisy"s Imagination Station", 
+    "name" : "Daisy's Imagination Station", 
     "salary" : {"Daycare Teacher": "$8.66 per hour", "Cook": "$8.49 per hour"}
 },
 { 
@@ -25655,7 +25655,7 @@
 },
 { 
  
-    "name" : "Woof"s Play & Stay", 
+    "name" : "Woof's Play & Stay", 
     "salary" : {}
 },
 { 
@@ -25735,7 +25735,7 @@
 },
 { 
  
-    "name" : "Dunham"s Asphalt Services, Inc.", 
+    "name" : "Dunham's Asphalt Services, Inc.", 
     "salary" : {}
 },
 { 
@@ -25775,7 +25775,7 @@
 },
 { 
  
-    "name" : "Water"s Edge Dermatology", 
+    "name" : "Water's Edge Dermatology", 
     "salary" : {"Medical Assistant": "$17.25 per hour", "Medical Receptionist": "$14.24 per hour", "Certified Medical Assistant": "$17.98 per hour"}
 },
 { 
@@ -26265,7 +26265,7 @@
 },
 { 
  
-    "name" : "Modell"s Sporting Goods", 
+    "name" : "Modell's Sporting Goods", 
     "salary" : {"Sales Associate": "$11.49 per hour", "Cashier/Sales": "$9.55 per hour", "Cashier": "$10.99 per hour"}
 },
 { 
@@ -26330,7 +26330,7 @@
 },
 { 
  
-    "name" : "Spencer"s Gifts", 
+    "name" : "Spencer's Gifts", 
     "salary" : {"Sales Associate": "$7.83 per hour", "Sales Manager": "$9.67 per hour", "Assistant Manager": "$11.38 per hour"}
 },
 { 
@@ -26685,7 +26685,7 @@
 },
 { 
  
-    "name" : "Bergner"s", 
+    "name" : "Bergner's", 
     "salary" : {"Sales Associate": "$8.95 per hour", "Customer Service Representative": "$9.21 per hour"}
 },
 { 
@@ -26711,7 +26711,7 @@
 { 
  
     "name" : "HACAP", 
-    "salary" : {\"Teacher"s Aide II\": "$14.32 per hour", "Substitute Teacher": "$10.94 per hour", "Early Childhood Teacher": "$20.40 per hour"}
+    "salary" : {\"Teacher's Aide II\": "$14.32 per hour", "Substitute Teacher": "$10.94 per hour", "Early Childhood Teacher": "$20.40 per hour"}
 },
 { 
  
@@ -27080,7 +27080,7 @@
 },
 { 
  
-    "name" : "Westside Children"s Therapy", 
+    "name" : "Westside Children's Therapy", 
     "salary" : {}
 },
 { 
@@ -27875,7 +27875,7 @@
 },
 { 
  
-    "name" : "Noah"s Pool Service", 
+    "name" : "Noah's Pool Service", 
     "salary" : {}
 },
 { 
@@ -27975,7 +27975,7 @@
 },
 { 
  
-    "name" : "Sikkema"s Equipment", 
+    "name" : "Sikkema's Equipment", 
     "salary" : {}
 },
 { 
@@ -28490,7 +28490,7 @@
 },
 { 
  
-    "name" : "Wolfer"s Home Services", 
+    "name" : "Wolfer's Home Services", 
     "salary" : {"Lead Generation Specialist": "$14.30 per hour", "HVAC Technician": "$25.10 per hour", "Plumber": "$32.17 per hour"}
 },
 { 
@@ -28570,7 +28570,7 @@
 },
 { 
  
-    "name" : "Uncle Giuseppe"s Marketplace", 
+    "name" : "Uncle Giuseppe's Marketplace", 
     "salary" : {"Deli Associate": "$13.64 per hour", "Cashier": "$11.88 per hour", "Bookkeeper": "$14.28 per hour"}
 },
 { 
@@ -28600,7 +28600,7 @@
 },
 { 
  
-    "name" : "Buehler"s Fresh Foods", 
+    "name" : "Buehler's Fresh Foods", 
     "salary" : {"Line Cook": "$11.18 per hour", "Bagger": "$8.61 per hour", "Caterer/Server": "$12.00 per hour"}
 },
 { 
@@ -28655,7 +28655,7 @@
 },
 { 
  
-    "name" : "Miyoko"s Kitchen", 
+    "name" : "Miyoko's Kitchen", 
     "salary" : {"Brand Ambassador": "$22.00 per hour", "Sanitation Worker": "$17.09 per hour", "Production Lead": "$18.94 per hour"}
 },
 { 
@@ -29165,7 +29165,7 @@
 },
 { 
  
-    "name" : "Team Elmer"s", 
+    "name" : "Team Elmer's", 
     "salary" : {}
 },
 { 
@@ -29625,7 +29625,7 @@
 },
 { 
  
-    "name" : "Akron Children"s Hospital", 
+    "name" : "Akron Children's Hospital", 
     "salary" : {"Registered Nurse": "$53,891 per year", "Medical Assistant": "$27,367 per year", "Licensed Practical Nurse": "$43,399 per year"}
 },
 { 
@@ -30290,7 +30290,7 @@
 },
 { 
  
-    "name" : "Children"s Hospital of New Orleans", 
+    "name" : "Children's Hospital of New Orleans", 
     "salary" : {}
 },
 { 
@@ -30500,7 +30500,7 @@
 },
 { 
  
-    "name" : "Dexter"s of Windermere", 
+    "name" : "Dexter's of Windermere", 
     "salary" : {}
 },
 { 
@@ -30715,7 +30715,7 @@
 },
 { 
  
-    "name" : "Beck"s Shoes", 
+    "name" : "Beck's Shoes", 
     "salary" : {"Sales Associate": "$14.32 per hour", "Assistant Manager": "$18.37 per hour", "Store Manager": "$20.79 per hour"}
 },
 { 
@@ -31230,7 +31230,7 @@
 },
 { 
  
-    "name" : "Lou Malnati"s Pizzeria", 
+    "name" : "Lou Malnati's Pizzeria", 
     "salary" : {"Host/Hostess": "$25,762 per year", "Server": "$36,800 per year", "Busser": "$20,876 per year"}
 },
 { 
@@ -31400,7 +31400,7 @@
 },
 { 
  
-    "name" : "Galasso"s Bakery", 
+    "name" : "Galasso's Bakery", 
     "salary" : {"Route Sales Representative": "$18.71 per hour", "Maintenance Mechanic": "$21.11 per hour", "Production Assistant": "$14.38 per hour"}
 },
 { 
@@ -31810,7 +31810,7 @@
 },
 { 
  
-    "name" : "Bertucci"s Italian Restaurant", 
+    "name" : "Bertucci's Italian Restaurant", 
     "salary" : {"Bartender": "$25,228 per year", "Host/Hostess": "$12.14 per hour", "Cook": "$12.61 per hour"}
 },
 { 
@@ -32065,7 +32065,7 @@
 },
 { 
  
-    "name" : "Carondelet St. Joseph"s Hospital", 
+    "name" : "Carondelet St. Joseph's Hospital", 
     "salary" : {}
 },
 { 
@@ -32500,7 +32500,7 @@
 },
 { 
  
-    "name" : "Hall"s culligan Water", 
+    "name" : "Hall's culligan Water", 
     "salary" : {"Sales Representative": "$40,794 per year", "Outside Sales Representative": "$55,626 per year"}
 },
 { 
@@ -32735,7 +32735,7 @@
 },
 { 
  
-    "name" : "St Paul"s Senior Services", 
+    "name" : "St Paul's Senior Services", 
     "salary" : {"Internal Medicine Physician": "$223,624 per year", "Family Medicine Physician": "$223,624 per year", "Server": "$13.49 per hour"}
 },
 { 
@@ -33090,7 +33090,7 @@
 },
 { 
  
-    "name" : "LJ"s Bistro and Bar", 
+    "name" : "LJ's Bistro and Bar", 
     "salary" : {"Line Cook": "$18.39 per hour", "Dishwasher": "$14.77 per hour", "Prep Cook": "$15.38 per hour"}
 },
 { 
@@ -33170,7 +33170,7 @@
 },
 { 
  
-    "name" : "Cook"s Pest Control", 
+    "name" : "Cook's Pest Control", 
     "salary" : {"Pest Control Technician": "$35,643 per year", "Technician": "$16.18 per hour", "Inspector": "$48,317 per year"}
 },
 { 
@@ -33235,7 +33235,7 @@
 },
 { 
  
-    "name" : "Pilgrim"s Pride", 
+    "name" : "Pilgrim's Pride", 
     "salary" : {"Deboner": "$11.22 per hour", "Production Worker": "$12.92 per hour", "Packer": "$12.77 per hour"}
 },
 { 
@@ -33380,7 +33380,7 @@
 },
 { 
  
-    "name" : "Gold"s Gym", 
+    "name" : "Gold's Gym", 
     "salary" : {"Front Desk Agent": "$11.25 per hour", "Personal Trainer": "$19.20 per hour", "Fitness Consultant": "$37,273 per year"}
 },
 { 
@@ -34165,7 +34165,7 @@
 },
 { 
  
-    "name" : "Disney"s Hilton Head Island Resort", 
+    "name" : "Disney's Hilton Head Island Resort", 
     "salary" : {}
 },
 { 
@@ -34525,7 +34525,7 @@
 },
 { 
  
-    "name" : "Driscoll Children"s Hospital", 
+    "name" : "Driscoll Children's Hospital", 
     "salary" : {"Patient Access Manager": "$16.08 per hour", "Registered Nurse": "$67,448 per year", "Nurse": "$60,136 per year"}
 },
 { 
@@ -35176,7 +35176,7 @@
 { 
  
     "name" : "Kidango, Inc.", 
-    "salary" : {\"Teacher"s Aide\": "$16.76 per hour", "Associate Teacher": "$23.40 per hour", "School Principal": "$19.08 per hour"}
+    "salary" : {\"Teacher's Aide\": "$16.76 per hour", "Associate Teacher": "$23.40 per hour", "School Principal": "$19.08 per hour"}
 },
 { 
  
@@ -35215,7 +35215,7 @@
 },
 { 
  
-    "name" : "Turner"s Furniture", 
+    "name" : "Turner's Furniture", 
     "salary" : {"Interior Designer": "$59,763 per year", "Warehouse Worker": "$9.25 per hour", "Sales Representative": "$51,965 per year"}
 },
 { 
@@ -35271,7 +35271,7 @@
 { 
  
     "name" : "Little Newtons", 
-    "salary" : {\"Teacher"s Aide\": "$12.92 per hour", "Teacher": "$17.88 per hour", "Assistant Teacher": "$17.38 per hour"}
+    "salary" : {\"Teacher's Aide\": "$12.92 per hour", "Teacher": "$17.88 per hour", "Assistant Teacher": "$17.38 per hour"}
 },
 { 
  
@@ -35465,7 +35465,7 @@
 },
 { 
  
-    "name" : "Coborn"s", 
+    "name" : "Coborn's", 
     "salary" : {"Cashier": "$9.09 per hour", "Deli Associate": "$10.64 per hour", "Customer Service Representative": "$10.19 per hour"}
 },
 { 
@@ -35535,7 +35535,7 @@
 },
 { 
  
-    "name" : "Victoria"s Secret", 
+    "name" : "Victoria's Secret", 
     "salary" : {"Sales Associate": "$11.83 per hour", "Sales Support Representative": "$12.75 per hour", "Cashier/Sales": "$12.33 per hour"}
 },
 { 
@@ -35740,7 +35740,7 @@
 },
 { 
  
-    "name" : "Salsarita"s", 
+    "name" : "Salsarita's", 
     "salary" : {"Team Member": "$8.26 per hour", "Manager": "$37,384 per year", "Assistant Manager": "$24,436 per year"}
 },
 { 
@@ -35965,7 +35965,7 @@
 },
 { 
  
-    "name" : "Mama Fu"s Asian House", 
+    "name" : "Mama Fu's Asian House", 
     "salary" : {"Cashier": "$8.93 per hour", "Cook": "$11.05 per hour", "General Manager": "$52,706 per year"}
 },
 { 
@@ -36515,7 +36515,7 @@
 },
 { 
  
-    "name" : "Visconti"s Italian Restaurant", 
+    "name" : "Visconti's Italian Restaurant", 
     "salary" : {"Bartender": "$12.66 per hour", "Host/Hostess": "$12.39 per hour", "Server": "$11.50 per hour"}
 },
 { 
@@ -36735,7 +36735,7 @@
 },
 { 
  
-    "name" : "Witch"s Hat Brewing Company", 
+    "name" : "Witch's Hat Brewing Company", 
     "salary" : {}
 },
 { 
@@ -36990,7 +36990,7 @@
 },
 { 
  
-    "name" : "Saint Mary"s University of Minnesota", 
+    "name" : "Saint Mary's University of Minnesota", 
     "salary" : {}
 },
 { 
@@ -37095,7 +37095,7 @@
 },
 { 
  
-    "name" : "Kane"s Furniture", 
+    "name" : "Kane's Furniture", 
     "salary" : {"Customer Service Representative": "$10.73 per hour", "Delivery Driver": "$637 per week", "Sales Associate": "$69,371 per year"}
 },
 { 
@@ -37210,7 +37210,7 @@
 },
 { 
  
-    "name" : "Boar"s Head", 
+    "name" : "Boar's Head", 
     "salary" : {"Warehouse Worker": "$13.40 per hour", "Forklift Operator": "$14.33 per hour", "Order Picker": "$14.00 per hour"}
 },
 { 
@@ -37585,7 +37585,7 @@
 },
 { 
  
-    "name" : "Giordano"s", 
+    "name" : "Giordano's", 
     "salary" : {"Host/Hostess": "$10.55 per hour", "Restaurant Manager": "$15.04 per hour", "Cook": "$12.31 per hour"}
 },
 { 
@@ -37725,7 +37725,7 @@
 },
 { 
  
-    "name" : "Harbor"s Edge", 
+    "name" : "Harbor's Edge", 
     "salary" : {}
 },
 { 
@@ -38175,7 +38175,7 @@
 },
 { 
  
-    "name" : "Antun"s", 
+    "name" : "Antun's", 
     "salary" : {"Server": "$14.47 per hour", "Bartender": "$12.26 per hour", "Sales Coordinator": "$23.38 per hour"}
 },
 { 
@@ -38265,7 +38265,7 @@
 },
 { 
  
-    "name" : "See"s Candies", 
+    "name" : "See's Candies", 
     "salary" : {"Sales Associate": "$12.74 per hour", "Customer Service Representative": "$12.91 per hour", "Seasonal Associate": "$12.16 per hour"}
 },
 { 
@@ -38465,12 +38465,12 @@
 },
 { 
  
-    "name" : "Logan"s Roadhouse", 
+    "name" : "Logan's Roadhouse", 
     "salary" : {"Server": "$17,967 per year", "Host/Hostess": "$8.66 per hour", "Bartender": "$11.97 per hour"}
 },
 { 
  
-    "name" : "Ford"s Garage", 
+    "name" : "Ford's Garage", 
     "salary" : {"Host/Hostess": "$10.49 per hour", "Restaurant Manager": "$54,774 per year"}
 },
 { 
@@ -38506,7 +38506,7 @@
 { 
  
     "name" : "B HOMECARE", 
-    "salary" : {\"Nurse"s Aide\": "$15.47 per hour", "Caregiver": "$14.16 per hour", "Registered Nurse - Operating Room": "$17.24 per hour"}
+    "salary" : {\"Nurse's Aide\": "$15.47 per hour", "Caregiver": "$14.16 per hour", "Registered Nurse - Operating Room": "$17.24 per hour"}
 },
 { 
  
@@ -38550,7 +38550,7 @@
 },
 { 
  
-    "name" : "Culver"s", 
+    "name" : "Culver's", 
     "salary" : {"Crew Member": "$11.10 per hour", "Team Member": "$10.33 per hour", "Cashier": "$8.84 per hour"}
 },
 { 
@@ -38635,7 +38635,7 @@
 },
 { 
  
-    "name" : "Elizabeth Seton Children"s", 
+    "name" : "Elizabeth Seton Children's", 
     "salary" : {"Registered Nurse": "$79,393 per year", "Nursing Assistant": "$40,532 per year", "Respiratory Therapist": "$76,557 per year"}
 },
 { 
@@ -38755,7 +38755,7 @@
 },
 { 
  
-    "name" : "IMO"S PIZZA", 
+    "name" : "IMO's PIZZA", 
     "salary" : {"Pizza Cook": "$9.77 per hour", "Delivery Driver": "$12.81 per hour", "Counter Person": "$8.93 per hour"}
 },
 { 
@@ -38865,7 +38865,7 @@
 },
 { 
  
-    "name" : "Porter"s of American Retail Services", 
+    "name" : "Porter's of American Retail Services", 
     "salary" : {"Customer Service Associate / Cashier": "$13.39 per hour", "Assistant Manager": "$17.27 per hour", "District Manager": "$64,704 per year"}
 },
 { 
@@ -39055,7 +39055,7 @@
 },
 { 
  
-    "name" : "Oregano"s Pizza Bistro", 
+    "name" : "Oregano's Pizza Bistro", 
     "salary" : {"Host/Hostess": "$11.23 per hour", "Bartender": "$35,017 per year", "Line Cook": "$15.53 per hour"}
 },
 { 
@@ -39370,7 +39370,7 @@
 },
 { 
  
-    "name" : "Rady Children"s Hospital - San Diego", 
+    "name" : "Rady Children's Hospital - San Diego", 
     "salary" : {"Medical Assistant": "$16.30 per hour", "Patient Access Representative II": "$38,586 per year", "Patient Access Representative III": "$18.49 per hour"}
 },
 { 
@@ -39585,7 +39585,7 @@
 },
 { 
  
-    "name" : "Doctor"s Choice Home Care, Inc.", 
+    "name" : "Doctor's Choice Home Care, Inc.", 
     "salary" : {"Licensed Practical Nurse": "$26.72 per hour", "Registered Nurse - Home Health": "$42.43 per hour", "Office Assistant": "$15.81 per hour"}
 },
 { 
@@ -39710,7 +39710,7 @@
 },
 { 
  
-    "name" : "St. Vincent"s Medical Center", 
+    "name" : "St. Vincent's Medical Center", 
     "salary" : {"Registered Nurse": "$60,824 per year", "Patient Care Technician": "$33,565 per year", "Nursing Assistant": "$31,601 per year"}
 },
 { 
@@ -39785,7 +39785,7 @@
 },
 { 
  
-    "name" : "Diane"s Beachwear", 
+    "name" : "Diane's Beachwear", 
     "salary" : {"Sales Associate": "$11.04 per hour", "Store Manager": "$17.61 per hour", "Retail Assistant Manager": "$13.36 per hour"}
 },
 { 
@@ -39795,7 +39795,7 @@
 },
 { 
  
-    "name" : "Houlihan"s Restaurants Inc", 
+    "name" : "Houlihan's Restaurants Inc", 
     "salary" : {"Server": "$11.47 per hour", "Bartender": "$29,522 per year", "Line Cook": "$16.20 per hour"}
 },
 { 
@@ -39885,7 +39885,7 @@
 },
 { 
  
-    "name" : "Hungry Howie"s Pizza", 
+    "name" : "Hungry Howie's Pizza", 
     "salary" : {"Delivery Driver": "$13.09 per hour", "Insider": "$8.56 per hour", "Assistant Manager": "$11.78 per hour"}
 },
 { 
@@ -39910,12 +39910,12 @@
 },
 { 
  
-    "name" : "Sullivan"s Steakhouse", 
+    "name" : "Sullivan's Steakhouse", 
     "salary" : {"Server": "$12.10 per hour", "Host/Hostess": "$12.06 per hour", "Bartender": "$37,472 per year"}
 },
 { 
  
-    "name" : "Coach"s Neighborhood Grill", 
+    "name" : "Coach's Neighborhood Grill", 
     "salary" : {"General Manager": "$48,488 per year", "Kitchen Manager": "$37,107 per year", "Line Cook/Prep Cook": "$10.09 per hour"}
 },
 { 
@@ -40085,7 +40085,7 @@
 },
 { 
  
-    "name" : "St. David"s Center for Child & Family Development", 
+    "name" : "St. David's Center for Child & Family Development", 
     "salary" : {"Direct Support Professional": "$12.53 per hour", "Tutor": "$12.40 per hour", "Personal Care Assistant": "$12.00 per hour"}
 },
 { 
@@ -40650,7 +40650,7 @@
 },
 { 
  
-    "name" : "Andy"s Frozen Custard", 
+    "name" : "Andy's Frozen Custard", 
     "salary" : {"Associate": "$9.39 per hour", "Crew Member": "$9.55 per hour", "Sales Associate": "$8.75 per hour"}
 },
 { 
@@ -40695,7 +40695,7 @@
 },
 { 
  
-    "name" : "JOE HUDSON"S COLLISION CENTER", 
+    "name" : "JOE HUDSON's COLLISION CENTER", 
     "salary" : {"Parts Manager": "$13.86 per hour", "Estimator": "$46,986 per year", "Painter": "$58,911 per year"}
 },
 { 
@@ -40715,7 +40715,7 @@
 },
 { 
  
-    "name" : "Allsup"s", 
+    "name" : "Allsup's", 
     "salary" : {"Clerk": "$8.92 per hour", "Customer Service Associate / Cashier": "$9.04 per hour", "Cashier": "$9.80 per hour"}
 },
 { 
@@ -40765,7 +40765,7 @@
 },
 { 
  
-    "name" : "Sam Choy"s Kai Lanai", 
+    "name" : "Sam Choy's Kai Lanai", 
     "salary" : {}
 },
 { 
@@ -41215,7 +41215,7 @@
 },
 { 
  
-    "name" : "Lee"s Famous Recipe Chicken", 
+    "name" : "Lee's Famous Recipe Chicken", 
     "salary" : {"Cook": "$8.49 per hour", "Cashier": "$8.25 per hour", "Crew Member": "$8.16 per hour"}
 },
 { 
@@ -41270,7 +41270,7 @@
 },
 { 
  
-    "name" : "St. Peter"s Health Partners", 
+    "name" : "St. Peter's Health Partners", 
     "salary" : {"Registered Nurse": "$64,088 per year", "Medical Assistant": "$26,936 per year", "Cook": "$14.25 per hour"}
 },
 { 
@@ -41725,7 +41725,7 @@
 },
 { 
  
-    "name" : "Nationwide Children"s Hospital", 
+    "name" : "Nationwide Children's Hospital", 
     "salary" : {"Registered Nurse": "$25.35 per hour", "Patient Access Manager": "$15.73 per hour", "Administrative Assistant": "$39,255 per year"}
 },
 { 
@@ -41970,7 +41970,7 @@
 },
 { 
  
-    "name" : "Martin"s Super Markets", 
+    "name" : "Martin's Super Markets", 
     "salary" : {"Cashier": "$10.51 per hour", "Deli Associate": "$10.43 per hour", "Customer Service Associate / Cashier": "$9.92 per hour"}
 },
 { 
@@ -41980,7 +41980,7 @@
 },
 { 
  
-    "name" : "Dave & Buster"s", 
+    "name" : "Dave & Buster's", 
     "salary" : {"Server": "$10.97 per hour", "Bartender": "$32,226 per year", "Front Desk Agent": "$12.57 per hour"}
 },
 { 
@@ -42035,7 +42035,7 @@
 },
 { 
  
-    "name" : "Alzheimer"s Association", 
+    "name" : "Alzheimer's Association", 
     "salary" : {"Consultant": "$45,692 per year", "Regional Director": "$58,638 per year", "Program Director": "$57,915 per year"}
 },
 { 
@@ -42465,7 +42465,7 @@
 },
 { 
  
-    "name" : "Klein"s Pharmacy", 
+    "name" : "Klein's Pharmacy", 
     "salary" : {}
 },
 { 
@@ -42885,7 +42885,7 @@
 },
 { 
  
-    "name" : "Lucky"s Market", 
+    "name" : "Lucky's Market", 
     "salary" : {"Front End Associate": "$12.36 per hour", "Culinary": "$11.46 per hour", "Cashier": "$10.08 per hour"}
 },
 { 
@@ -42920,7 +42920,7 @@
 },
 { 
  
-    "name" : "Steve & Kate"s Camp", 
+    "name" : "Steve & Kate's Camp", 
     "salary" : {"Camp Counselor": "$18.87 per hour", "Counselor": "$12.27 per hour", "Site Director": "$72,000 per year"}
 },
 { 
@@ -43120,7 +43120,7 @@
 },
 { 
  
-    "name" : "Children"s Home of Jefferson County", 
+    "name" : "Children's Home of Jefferson County", 
     "salary" : {"Direct Care Worker": "$15.82 per hour", "Case Planner": "$31,939 per year", "Case Worker": "$33,191 per year"}
 },
 { 
@@ -43190,7 +43190,7 @@
 },
 { 
  
-    "name" : "Schwan"s Home Delivery", 
+    "name" : "Schwan's Home Delivery", 
     "salary" : {"Route Sales Representative": "$45,834 per year", "Area Manager": "$78,840 per year", "Warehouse Worker": "$16.11 per hour"}
 },
 { 
@@ -43735,7 +43735,7 @@
 },
 { 
  
-    "name" : "America"s Incredible Pizza Company", 
+    "name" : "America's Incredible Pizza Company", 
     "salary" : {}
 },
 { 
@@ -43760,7 +43760,7 @@
 },
 { 
  
-    "name" : "Peet"s Coffee & Tea", 
+    "name" : "Peet's Coffee & Tea", 
     "salary" : {"Barista": "$12.52 per hour", "Shift Leader": "$14.71 per hour", "Retail Sales Associate": "$11.01 per hour"}
 },
 { 
@@ -43785,7 +43785,7 @@
 },
 { 
  
-    "name" : "Max & Erma"s", 
+    "name" : "Max & Erma's", 
     "salary" : {"Server": "$49,046 per year", "General Manager": "$45,852 per year", "Line Cook": "$12.33 per hour"}
 },
 { 
@@ -43875,7 +43875,7 @@
 },
 { 
  
-    "name" : "Godshall"s Quality Meats, Inc.", 
+    "name" : "Godshall's Quality Meats, Inc.", 
     "salary" : {"Packager": "$11.60 per hour", "Production Worker": "$11.90 per hour", "Production Associate": "$11.46 per hour"}
 },
 { 
@@ -44530,7 +44530,7 @@
 },
 { 
  
-    "name" : "St. Luke"s University Health Network", 
+    "name" : "St. Luke's University Health Network", 
     "salary" : {"Registered Nurse": "$60,731 per year", "Patient Access Manager": "$27,378 per year", "Medical Receptionist": "$14.76 per hour"}
 },
 { 
@@ -45065,7 +45065,7 @@
 },
 { 
  
-    "name" : "It"s Just Lunch", 
+    "name" : "It's Just Lunch", 
     "salary" : {"Data Specialist": "$49,752 per year", "Director": "$32,842 per year", "Executive": "$54,206 per year"}
 },
 { 
@@ -45310,7 +45310,7 @@
 },
 { 
  
-    "name" : "SKIPPERBUD"S", 
+    "name" : "SKIPPERBUD's", 
     "salary" : {"Service Writer": "$39,597 per year", "Receptionist": "$11.18 per hour", "Sales Professional": "$45,287 per year"}
 },
 { 
@@ -45655,7 +45655,7 @@
 },
 { 
  
-    "name" : "Chili"s", 
+    "name" : "Chili's", 
     "salary" : {"Server": "$29,451 per year", "Host/Hostess": "$29,935 per year", "Bartender": "$28,059 per year"}
 },
 { 
@@ -45815,7 +45815,7 @@
 },
 { 
  
-    "name" : "Young"s Electrical Contracting Inc", 
+    "name" : "Young's Electrical Contracting Inc", 
     "salary" : {"Electrician": "$20.37 per hour", "Inventory Associate": "$10.46 per hour", "Warehouse Worker": "$9.32 per hour"}
 },
 { 
@@ -45950,7 +45950,7 @@
 },
 { 
  
-    "name" : "Dreyer"s Grand Ice Cream", 
+    "name" : "Dreyer's Grand Ice Cream", 
     "salary" : {"Ice Cream Maker": "$14.16 per hour", "Warehouse Worker": "$16.79 per hour"}
 },
 { 
@@ -46250,7 +46250,7 @@
 },
 { 
  
-    "name" : "Sonny"s BBQ", 
+    "name" : "Sonny's BBQ", 
     "salary" : {"Server": "$13.05 per hour", "Dishwasher": "$9.02 per hour", "Cashier": "$8.59 per hour"}
 },
 { 
@@ -46595,7 +46595,7 @@
 },
 { 
  
-    "name" : "Braum"s Ice Cream and Dairy Stores", 
+    "name" : "Braum's Ice Cream and Dairy Stores", 
     "salary" : {"Crew Member": "$9.00 per hour", "Cashier": "$9.86 per hour", "Assistant Manager": "$35,721 per year"}
 },
 { 
@@ -46705,7 +46705,7 @@
 },
 { 
  
-    "name" : "The Children"s Place", 
+    "name" : "The Children's Place", 
     "salary" : {"Sales Associate": "$10.13 per hour", "Cashier/Sales": "$10.87 per hour", "Store Manager": "$44,151 per year"}
 },
 { 
@@ -46780,7 +46780,7 @@
 },
 { 
  
-    "name" : "Portillo"s", 
+    "name" : "Portillo's", 
     "salary" : {"Cashier": "$24,673 per year", "Crew Member": "$11.86 per hour", "Cook": "$27,138 per year"}
 },
 { 
@@ -46885,7 +46885,7 @@
 },
 { 
  
-    "name" : "Arby"s", 
+    "name" : "Arby's", 
     "salary" : {"Crew Member": "$9.79 per hour", "Cashier": "$9.82 per hour", "Shift Manager": "$11.68 per hour"}
 },
 { 
@@ -47050,7 +47050,7 @@
 },
 { 
  
-    "name" : "Children"s Hope Alliance", 
+    "name" : "Children's Hope Alliance", 
     "salary" : {"Youth Worker": "$27,106 per year", "Childcare Provider": "$27,146 per year"}
 },
 { 
@@ -47125,7 +47125,7 @@
 },
 { 
  
-    "name" : "Root"s Incorporated", 
+    "name" : "Root's Incorporated", 
     "salary" : {}
 },
 { 
@@ -47170,7 +47170,7 @@
 },
 { 
  
-    "name" : "Lowe"s", 
+    "name" : "Lowe's", 
     "salary" : {"Customer Service Representative": "$12.78 per hour", "Cashier": "$12.68 per hour", "Customer Service Associate / Cashier": "$12.21 per hour"}
 },
 { 
@@ -47230,7 +47230,7 @@
 },
 { 
  
-    "name" : "The Children"s Center", 
+    "name" : "The Children's Center", 
     "salary" : {"School Principal": "$15.33 per hour", "Substitute Teacher": "$9.71 per hour", "Preschool Teacher": "$12.68 per hour"}
 },
 { 
@@ -47240,7 +47240,7 @@
 },
 { 
  
-    "name" : "Waldbaum"s", 
+    "name" : "Waldbaum's", 
     "salary" : {"Stocking Associate": "$9.01 per hour", "Customer Service Associate / Cashier": "$10.08 per hour", "Maintenance Person": "$11.63 per hour"}
 },
 { 
@@ -47250,7 +47250,7 @@
 },
 { 
  
-    "name" : "Moore"s Electrical & Mechanical", 
+    "name" : "Moore's Electrical & Mechanical", 
     "salary" : {"Journeyman Electrician": "$42,691 per year", "Electrical Helper": "$11.78 per hour", "Service Technician": "$31.59 per hour"}
 },
 { 
@@ -47395,7 +47395,7 @@
 },
 { 
  
-    "name" : "Bandana"s Bar-B-Q", 
+    "name" : "Bandana's Bar-B-Q", 
     "salary" : {"Server": "$18,210 per year", "Manager": "$41,772 per year", "General Manager": "$45,916 per year"}
 },
 { 
@@ -47430,7 +47430,7 @@
 },
 { 
  
-    "name" : "Claire"s", 
+    "name" : "Claire's", 
     "salary" : {"Retail Assistant Manager": "$10.06 per hour", "Assistant Manager": "$12.32 per hour", "Sales Associate": "$10.72 per hour"}
 },
 { 
@@ -47545,7 +47545,7 @@
 },
 { 
  
-    "name" : "Sliman"s Dodge Jeep Chrysler RAM", 
+    "name" : "Sliman's Dodge Jeep Chrysler RAM", 
     "salary" : {}
 },
 { 
@@ -47645,7 +47645,7 @@
 },
 { 
  
-    "name" : "Not Your Average Joe"s", 
+    "name" : "Not Your Average Joe's", 
     "salary" : {"Server": "$687 per week", "Bartender": "$663 per week", "Line Cook": "$18.27 per hour"}
 },
 { 
@@ -47690,7 +47690,7 @@
 },
 { 
  
-    "name" : "Milo"s Hamburgers", 
+    "name" : "Milo's Hamburgers", 
     "salary" : {"Cashier": "$10.99 per hour", "Crew Member": "$9.30 per hour", "Assistant Manager": "$34,207 per year"}
 },
 { 
@@ -47985,7 +47985,7 @@
 },
 { 
  
-    "name" : "1788 Chicken DBA Zaxby"s", 
+    "name" : "1788 Chicken DBA Zaxby's", 
     "salary" : {"Restaurant Staff": "$10.39 per hour", "Restaurant Manager": "$50,292 per year", "Assistant General Manager": "$14.71 per hour"}
 },
 { 
@@ -48325,7 +48325,7 @@
 },
 { 
  
-    "name" : "Katherine"s Keepers", 
+    "name" : "Katherine's Keepers", 
     "salary" : {"Nursing Assistant": "$13.24 per hour", "Home Health Aide": "$12.34 per hour", "In Home Caregiver": "$12.32 per hour"}
 },
 { 
@@ -48580,7 +48580,7 @@
 },
 { 
  
-    "name" : "St. Michael"s Inc.", 
+    "name" : "St. Michael's Inc.", 
     "salary" : {}
 },
 { 
@@ -48605,7 +48605,7 @@
 },
 { 
  
-    "name" : "Mimi"s Cafe", 
+    "name" : "Mimi's Cafe", 
     "salary" : {"Server": "$25,712 per year", "Host/Hostess": "$9.92 per hour", "Bartender": "$30,431 per year"}
 },
 { 
@@ -48990,7 +48990,7 @@
 },
 { 
  
-    "name" : "Taco John"s", 
+    "name" : "Taco John's", 
     "salary" : {"Crew Member": "$9.70 per hour", "Cashier": "$9.63 per hour", "Shift Manager": "$12.03 per hour"}
 },
 { 
@@ -49030,12 +49030,12 @@
 },
 { 
  
-    "name" : "Lilly"s on the Lake", 
+    "name" : "Lilly's on the Lake", 
     "salary" : {"Restaurant Manager": "$37,417 per year", "Customer Service Manager": "$9.25 per hour", "Floor Manager": "$9.59 per hour"}
 },
 { 
  
-    "name" : "Garman"s Cleaning", 
+    "name" : "Garman's Cleaning", 
     "salary" : {"Cleaner": "$11.02 per hour", "Office Cleaner": "$10.19 per hour", "House Cleaner": "$10.67 per hour"}
 },
 { 
@@ -49090,7 +49090,7 @@
 },
 { 
  
-    "name" : "Ezell"s Famous Chicken", 
+    "name" : "Ezell's Famous Chicken", 
     "salary" : {"Host/Hostess": "$14.30 per hour", "Manager": "$48,381 per year", "Shift Leader": "$15.65 per hour"}
 },
 { 
@@ -49255,7 +49255,7 @@
 },
 { 
  
-    "name" : "Lin"s Market | Associated Food Stores, Inc", 
+    "name" : "Lin's Market | Associated Food Stores, Inc", 
     "salary" : {}
 },
 { 
@@ -49565,7 +49565,7 @@
 },
 { 
  
-    "name" : "Carl"s Jr.", 
+    "name" : "Carl's Jr.", 
     "salary" : {"Cashier": "$11.33 per hour", "Shift Leader": "$13.28 per hour", "Cook": "$12.15 per hour"}
 },
 { 
@@ -49605,7 +49605,7 @@
 },
 { 
  
-    "name" : "Ken"s Foods", 
+    "name" : "Ken's Foods", 
     "salary" : {"Sanitation Worker": "$108,767 per year", "Forklift Operator": "$15.94 per hour", "Mixer": "$45,653 per year"}
 },
 { 
@@ -49695,7 +49695,7 @@
 },
 { 
  
-    "name" : "O"Charley"s", 
+    "name" : "O"Charley's", 
     "salary" : {"Server": "$25,471 per year", "Host/Hostess": "$22,832 per year", "Bartender": "$23,626 per year"}
 },
 { 
@@ -49755,7 +49755,7 @@
 },
 { 
  
-    "name" : "SGT. Clean"s Car Wash", 
+    "name" : "SGT. Clean's Car Wash", 
     "salary" : {"Customer Service Representative": "$10.98 per hour", "Sales Advisor": "$11.02 per hour", "Administrative Assistant": "$13.93 per hour"}
 },
 { 
@@ -50030,7 +50030,7 @@
 },
 { 
      
-    "name" : "Aunt Martha"s Health & Wellness", 
+    "name" : "Aunt Martha's Health & Wellness", 
     "salary" : {"Case Manager": "$38,477 per year", "Medical Assistant": "$26,760 per year", "Care Coordinator": "$41,965 per year"}
 },
 { 
@@ -50130,7 +50130,7 @@
 },
 { 
      
-    "name" : "Barry"s Bootcamp", 
+    "name" : "Barry's Bootcamp", 
     "salary" : {"Front Desk Agent": "$12.57 per hour", "Maintenance Person": "$12.40 per hour"}
 },
 { 
@@ -50145,12 +50145,12 @@
 },
 { 
      
-    "name" : "Fleming"s Prime Steakhouse & Wine Bar", 
+    "name" : "Fleming's Prime Steakhouse & Wine Bar", 
     "salary" : {"Server": "$9.97 per hour", "Bartender": "$45,893 per year", "Host/Hostess": "$12.17 per hour"}
 },
 { 
      
-    "name" : "Hill"s Pet Nutrition", 
+    "name" : "Hill's Pet Nutrition", 
     "salary" : {}
 },
 { 
@@ -50420,7 +50420,7 @@
 },
 { 
      
-    "name" : "Craig"s Cruisers", 
+    "name" : "Craig's Cruisers", 
     "salary" : {}
 },
 { 
@@ -51270,7 +51270,7 @@
 },
 { 
      
-    "name" : "Saint Mary"s Home of Erie", 
+    "name" : "Saint Mary's Home of Erie", 
     "salary" : {}
 },
 { 
@@ -51905,7 +51905,7 @@
 },
 { 
      
-    "name" : "Conn"s Home Plus", 
+    "name" : "Conn's Home Plus", 
     "salary" : {"Sales Associate": "$11.16 per hour", "Customer Service Representative": "$11.27 per hour", "Collection Agent": "$14.00 per hour"}
 },
 { 
@@ -51970,7 +51970,7 @@
 },
 { 
      
-    "name" : "Denny"s", 
+    "name" : "Denny's", 
     "salary" : {"Server": "$10.67 per hour", "Cook": "$12.09 per hour", "Host/Hostess": "$10.23 per hour"}
 },
 { 
@@ -52135,7 +52135,7 @@
 },
 { 
      
-    "name" : "Jet"s Pizza", 
+    "name" : "Jet's Pizza", 
     "salary" : {"Delivery Driver": "$13.93 per hour", "Manager": "$11.35 per hour", "Crew Member": "$9.79 per hour"}
 },
 { 
@@ -52145,7 +52145,7 @@
 },
 { 
      
-    "name" : "Lucille"s Smokehouse Bar-B-Que", 
+    "name" : "Lucille's Smokehouse Bar-B-Que", 
     "salary" : {"Server": "$8.84 per hour", "Host/Hostess": "$9.83 per hour", "Bartender": "$36,367 per year"}
 },
 { 
@@ -52385,7 +52385,7 @@
 },
 { 
      
-    "name" : "Malcho"s Car Wash", 
+    "name" : "Malcho's Car Wash", 
     "salary" : {}
 },
 { 
@@ -52430,7 +52430,7 @@
 },
 { 
      
-    "name" : "Gibault Children"s Services", 
+    "name" : "Gibault Children's Services", 
     "salary" : {"Mental Health Technician": "$10.36 per hour", "Direct Care Worker": "$9.99 per hour"}
 },
 { 
@@ -52660,7 +52660,7 @@
 },
 { 
      
-    "name" : "McAlister"s Deli", 
+    "name" : "McAlister's Deli", 
     "salary" : {"Cashier": "$10.37 per hour", "Server/Cashier": "$9.98 per hour", "Cook": "$10.34 per hour"}
 },
 { 
@@ -52830,7 +52830,7 @@
 },
 { 
      
-    "name" : "Frieda"s Specialty Produce", 
+    "name" : "Frieda's Specialty Produce", 
     "salary" : {}
 },
 { 
@@ -52840,7 +52840,7 @@
 },
 { 
      
-    "name" : "Pepper"s Grill & Sports Pub", 
+    "name" : "Pepper's Grill & Sports Pub", 
     "salary" : {}
 },
 { 
@@ -53055,7 +53055,7 @@
 },
 { 
      
-    "name" : "Hickman"s Family Farms", 
+    "name" : "Hickman's Family Farms", 
     "salary" : {"Truck Driver": "$18.27 per hour", "Local Driver": "$17.31 per hour", "Equipment Operator": "$18.17 per hour"}
 },
 { 
@@ -53120,7 +53120,7 @@
 },
 { 
      
-    "name" : "Ted"s Montana Grill", 
+    "name" : "Ted's Montana Grill", 
     "salary" : {"Line Cook": "$13.40 per hour", "Server": "$29,701 per year", "Bartender": "$26,249 per year"}
 },
 { 
@@ -53210,7 +53210,7 @@
 },
 { 
      
-    "name" : "Binny"s Beverage Depot", 
+    "name" : "Binny's Beverage Depot", 
     "salary" : {"Sales Associate": "$10.74 per hour", "Retail Sales Associate": "$13.61 per hour", "Sales Representative": "$14.81 per hour"}
 },
 { 
@@ -53675,12 +53675,12 @@
 },
 { 
      
-    "name" : "Maggie"s Farm Marijuana", 
+    "name" : "Maggie's Farm Marijuana", 
     "salary" : {"Marijuana Budtender": "$12.59 per hour", "Laborer": "$11.64 per hour", "Trimmer": "$12.32 per hour"}
 },
 { 
      
-    "name" : "Obed & Isaac"s Microbrewery and Eatery", 
+    "name" : "Obed & Isaac's Microbrewery and Eatery", 
     "salary" : {"Line Cook": "$13.37 per hour", "Dishwasher": "$11.03 per hour", "Host/Hostess": "$10.01 per hour"}
 },
 { 
@@ -54060,7 +54060,7 @@
 },
 { 
      
-    "name" : "John"s Pharmacy", 
+    "name" : "John's Pharmacy", 
     "salary" : {}
 },
 { 
@@ -54080,7 +54080,7 @@
 },
 { 
      
-    "name" : "Northwood Children"s Services", 
+    "name" : "Northwood Children's Services", 
     "salary" : {}
 },
 { 
@@ -54090,7 +54090,7 @@
 },
 { 
      
-    "name" : "Children"s Hospital of Wisconsin", 
+    "name" : "Children's Hospital of Wisconsin", 
     "salary" : {}
 },
 { 
@@ -54610,7 +54610,7 @@
 },
 { 
      
-    "name" : "Georgio"s Pizza & Pasta", 
+    "name" : "Georgio's Pizza & Pasta", 
     "salary" : {"Delivery Driver": "$11.45 per hour", "Pizza Cook": "$13.42 per hour"}
 },
 { 
@@ -54710,7 +54710,7 @@
 },
 { 
      
-    "name" : "Papa Murphy"s", 
+    "name" : "Papa Murphy's", 
     "salary" : {"Crew Member": "$10.24 per hour", "Shift Manager": "$10.48 per hour", "Assistant Manager": "$10.97 per hour"}
 },
 { 
@@ -54975,7 +54975,7 @@
 },
 { 
      
-    "name" : "Montefiore St. Luke"s Cornwall", 
+    "name" : "Montefiore St. Luke's Cornwall", 
     "salary" : {"Patient Assistant": "$15.88 per hour", "Medical Scribe": "$15.00 per hour"}
 },
 { 
@@ -55360,12 +55360,12 @@
 },
 { 
      
-    "name" : "Nando"s", 
+    "name" : "Nando's", 
     "salary" : {"Cashier": "$11.31 per hour", "Host/Cashier": "$10.93 per hour", "Food Runner": "$10.94 per hour"}
 },
 { 
      
-    "name" : "Shoney"s", 
+    "name" : "Shoney's", 
     "salary" : {"Server": "$17.97 per hour", "Assistant Manager": "$34,152 per year", "Cook": "$8.75 per hour"}
 },
 { 
@@ -55590,7 +55590,7 @@
 },
 { 
      
-    "name" : "BJ"s Wholesale Club", 
+    "name" : "BJ's Wholesale Club", 
     "salary" : {"Cashier": "$24,847 per year", "Deli Associate": "$28,506 per year", "Member Services Representative": "$35,799 per year"}
 },
 { 
@@ -55610,7 +55610,7 @@
 },
 { 
      
-    "name" : "Children"s Therapy Place, Inc.", 
+    "name" : "Children's Therapy Place, Inc.", 
     "salary" : {"Occupational Therapist": "$76,843 per year", "Receptionist": "$10.95 per hour", "Interventionist": "$19.36 per hour"}
 },
 { 
@@ -55800,7 +55800,7 @@
 },
 { 
      
-    "name" : "Friendly"s", 
+    "name" : "Friendly's", 
     "salary" : {"Server": "$13.68 per hour", "Cook": "$12.22 per hour", "Fountain Worker": "$10.43 per hour"}
 },
 { 
@@ -56241,7 +56241,7 @@
 { 
      
     "name" : "Minds Over Matter Childcare", 
-    "salary" : {\"Teacher"s Aide\": "$9.00 per hour", "Early Childhood Teacher": "$10.00 per hour"}
+    "salary" : {\"Teacher's Aide\": "$9.00 per hour", "Early Childhood Teacher": "$10.00 per hour"}
 },
 { 
      
@@ -56270,7 +56270,7 @@
 },
 { 
      
-    "name" : "Phoenix Children"s Hospital", 
+    "name" : "Phoenix Children's Hospital", 
     "salary" : {"Patient Access Manager": "$15.25 per hour", "Medical Assistant": "$37,123 per year", "Health Unit Coordinator": "$47,722 per year"}
 },
 { 
@@ -56411,7 +56411,7 @@
 { 
      
     "name" : "The Association for the Developmentally Disabled", 
-    "salary" : {"Direct Support Professional": "$11.22 per hour", "Activity Leader": "$10.74 per hour", \"Teacher"s Aide\": "$11.64 per hour"}
+    "salary" : {"Direct Support Professional": "$11.22 per hour", "Activity Leader": "$10.74 per hour", \"Teacher's Aide\": "$11.64 per hour"}
 },
 { 
      
@@ -56670,7 +56670,7 @@
 },
 { 
      
-    "name" : "Frank"s Detail, Inc.", 
+    "name" : "Frank's Detail, Inc.", 
     "salary" : {"Automotive Detailer": "$13.53 per hour", "Auto Body Technician": "$13.27 per hour"}
 },
 { 
@@ -57215,7 +57215,7 @@
 },
 { 
      
-    "name" : "Magoo"s Pet Outlet", 
+    "name" : "Magoo's Pet Outlet", 
     "salary" : {"Human Resources Specialist": "$12.29 per hour", "Customer Service Associate / Cashier": "$9.15 per hour", "Store Manager": "$685 per week"}
 },
 { 
@@ -57275,7 +57275,7 @@
 },
 { 
      
-    "name" : "Nader"s Pest Raiders", 
+    "name" : "Nader's Pest Raiders", 
     "salary" : {"Lawn Technician": "$41,305 per year", "Customer Care Manager": "$13.20 per hour", "Pest Control Technician": "$45,412 per year"}
 },
 { 
@@ -57450,7 +57450,7 @@
 },
 { 
      
-    "name" : "GK"s Custom Polishing, Inc.", 
+    "name" : "GK's Custom Polishing, Inc.", 
     "salary" : {"Cleaner": "$13.64 per hour", "Detailer": "$12.17 per hour", "Maintenance Technician": "$13.04 per hour"}
 },
 { 
@@ -57930,7 +57930,7 @@
 },
 { 
      
-    "name" : "S & C Electric Company", 
+    "name" : 's & C Electric Company", 
     "salary" : {}
 },
 { 
@@ -58125,7 +58125,7 @@
 },
 { 
      
-    "name" : "CHOC Children"s", 
+    "name" : "CHOC Children's", 
     "salary" : {"Medical Assistant": "$38,039 per year", "Patient Services Representative": "$17.32 per hour", "Charge Nurse": "$80,902 per year"}
 },
 { 
@@ -58190,7 +58190,7 @@
 },
 { 
      
-    "name" : "Costello"s Ace Hardware", 
+    "name" : "Costello's Ace Hardware", 
     "salary" : {}
 },
 { 
@@ -58575,7 +58575,7 @@
 },
 { 
      
-    "name" : "Isabelle"s Kitchen", 
+    "name" : "Isabelle's Kitchen", 
     "salary" : {"Food Preparation Worker": "$12.99 per hour", "Production Worker": "$12.50 per hour"}
 },
 { 
@@ -58615,7 +58615,7 @@
 },
 { 
      
-    "name" : "Applebee"s", 
+    "name" : "Applebee's", 
     "salary" : {"Server": "$12.55 per hour", "Host/Hostess": "$10.84 per hour", "Bartender": "$27,194 per year"}
 },
 { 
@@ -58825,7 +58825,7 @@
 },
 { 
      
-    "name" : "Abby"s Legendary Pizza", 
+    "name" : "Abby's Legendary Pizza", 
     "salary" : {"Cook": "$10.31 per hour", "Assistant Manager": "$34,579 per year", "Delivery Driver": "$11.12 per hour"}
 },
 { 
@@ -58881,7 +58881,7 @@
 { 
      
     "name" : "Northern Arizona Council of Governments", 
-    "salary" : {"Program Specialist": "$16.94 per hour", \"Teacher"s Aide\": "$12.71 per hour", "School Principal": "$17.30 per hour"}
+    "salary" : {"Program Specialist": "$16.94 per hour", \"Teacher's Aide\": "$12.71 per hour", "School Principal": "$17.30 per hour"}
 },
 { 
      
@@ -58906,7 +58906,7 @@
 { 
      
     "name" : "PEARLVIEW REHAB AND WELLNESS CENTER", 
-    "salary" : {"State Tested Nursing Assistant": "$13.05 per hour", "Registered Nurse": "$26.20 per hour", \"Nurse"s Aide\": "$11.25 per hour"}
+    "salary" : {"State Tested Nursing Assistant": "$13.05 per hour", "Registered Nurse": "$26.20 per hour", \"Nurse's Aide\": "$11.25 per hour"}
 },
 { 
      
@@ -58970,7 +58970,7 @@
 },
 { 
      
-    "name" : "P.F. Chang"s China Bistro, Inc.", 
+    "name" : "P.F. Chang's China Bistro, Inc.", 
     "salary" : {"Server": "$12.73 per hour", "Host/Hostess": "$11.99 per hour", "Bartender": "$39,227 per year"}
 },
 { 
@@ -59210,7 +59210,7 @@
 },
 { 
      
-    "name" : "Friedman"s Home Improvement", 
+    "name" : "Friedman's Home Improvement", 
     "salary" : {"Yard Worker": "$17.88 per hour", "Customer Service Associate / Cashier": "$13.89 per hour", "Cashier": "$14.73 per hour"}
 },
 { 
@@ -59315,7 +59315,7 @@
 },
 { 
      
-    "name" : "Bomberger"s Store, Inc.", 
+    "name" : "Bomberger's Store, Inc.", 
     "salary" : {}
 },
 { 
@@ -59325,7 +59325,7 @@
 },
 { 
      
-    "name" : "Sullivan"s Tire Pros & Auto Service", 
+    "name" : "Sullivan's Tire Pros & Auto Service", 
     "salary" : {}
 },
 { 
@@ -59450,7 +59450,7 @@
 },
 { 
      
-    "name" : "Carrabba"s Italian Grill", 
+    "name" : "Carrabba's Italian Grill", 
     "salary" : {"Server": "$13.16 per hour", "Bartender": "$26,042 per year", "Line Cook": "$13.52 per hour"}
 },
 { 
@@ -59525,7 +59525,7 @@
 },
 { 
      
-    "name" : "Schneiderman"s Furniture", 
+    "name" : "Schneiderman's Furniture", 
     "salary" : {"Warehouse Worker": "$13.22 per hour", "Delivery Driver": "$17.97 per hour", "Design Consultant": "$62,579 per year"}
 },
 { 
@@ -60605,7 +60605,7 @@
 },
 { 
      
-    "name" : "Boscov"s Department Store", 
+    "name" : "Boscov's Department Store", 
     "salary" : {"Sales Associate": "$45,559 per year", "Customer Service Representative": "$9.92 per hour", "Cashier": "$10.01 per hour"}
 },
 { 
@@ -61096,7 +61096,7 @@
 { 
      
     "name" : "Saratoga County Economic Opportunity Council", 
-    "salary" : {\"Teacher"s Aide\": "$11.22 per hour", "Preschool Teacher": "$14.49 per hour", "Home Visitor": "$12.57 per hour"}
+    "salary" : {\"Teacher's Aide\": "$11.22 per hour", "Preschool Teacher": "$14.49 per hour", "Home Visitor": "$12.57 per hour"}
 },
 { 
      
@@ -61335,7 +61335,7 @@
 },
 { 
      
-    "name" : "Sam"s mart", 
+    "name" : "Sam's mart", 
     "salary" : {"Assistant Manager": "$12.10 per hour", "Customer Service Representative": "$10.96 per hour", "Retail Sales Associate": "$9.50 per hour"}
 },
 { 
@@ -61440,7 +61440,7 @@
 },
 { 
      
-    "name" : "Van Abel"s of Hollandtown", 
+    "name" : "Van Abel's of Hollandtown", 
     "salary" : {}
 },
 { 
@@ -61655,7 +61655,7 @@
 },
 { 
      
-    "name" : "Figi"s Companies", 
+    "name" : "Figi's Companies", 
     "salary" : {}
 },
 { 
@@ -61670,7 +61670,7 @@
 },
 { 
      
-    "name" : "Marco"s Pizza", 
+    "name" : "Marco's Pizza", 
     "salary" : {"Delivery Driver": "$13.94 per hour", "Shift Leader": "$10.84 per hour", "Insider": "$9.47 per hour"}
 },
 { 
@@ -62010,7 +62010,7 @@
 },
 { 
      
-    "name" : "The Children"s Village", 
+    "name" : "The Children's Village", 
     "salary" : {"Youth Specialist": "$28,876 per year", "Social Worker": "$47,301 per year", "Assistant Teacher": "$9.32 per hour"}
 },
 { 
@@ -62030,12 +62030,12 @@
 },
 { 
      
-    "name" : "Jimmy John"s Sandwiches", 
+    "name" : "Jimmy John's Sandwiches", 
     "salary" : {"Delivery Driver": "$12.91 per hour", "Sandwich Maker": "$10.25 per hour", "Assistant Manager": "$12.44 per hour"}
 },
 { 
      
-    "name" : "Lucile Packard Children"s Hospital Stanford", 
+    "name" : "Lucile Packard Children's Hospital Stanford", 
     "salary" : {"Sonographer": "$122,500 per year", "Respiratory Care Practitioner": "$96,145 per year", "Senior Clinical Nurse": "$169,986 per year"}
 },
 { 
@@ -62095,7 +62095,7 @@
 },
 { 
      
-    "name" : "ROCKY"S PIZZA", 
+    "name" : "ROCKY's PIZZA", 
     "salary" : {}
 },
 { 
@@ -62831,7 +62831,7 @@
 { 
      
     "name" : "Woodlands Home Care, LLC", 
-    "salary" : {"Licensed Practical Nurse": "$19.80 per hour", \"Nurse"s Aide\": "$12.62 per hour", "Assistant in Nursing": "$18.23 per hour"}
+    "salary" : {"Licensed Practical Nurse": "$19.80 per hour", \"Nurse's Aide\": "$12.62 per hour", "Assistant in Nursing": "$18.23 per hour"}
 },
 { 
      
@@ -62970,7 +62970,7 @@
 },
 { 
      
-    "name" : "Godshall"s Quality Meats (Daniel Weaver Company)", 
+    "name" : "Godshall's Quality Meats (Daniel Weaver Company)", 
     "salary" : {"Production Worker": "$11.99 per hour", "Quality Assurance Technician": "$15.61 per hour", "Production Associate": "$11.99 per hour"}
 },
 { 
@@ -62990,7 +62990,7 @@
 },
 { 
      
-    "name" : "St. Luke"s Hospital", 
+    "name" : "St. Luke's Hospital", 
     "salary" : {"Registered Nurse": "$64,089 per year", "Nursing Assistant": "$14.79 per hour", "Housekeeper": "$11.83 per hour"}
 },
 { 
@@ -63141,7 +63141,7 @@
 { 
      
     "name" : "Enid Public Schools", 
-    "salary" : {"Teacher": "$39,495 per year", \"Teacher"s Aide\": "$9.96 per hour", "Senior Custodian": "$10.45 per hour"}
+    "salary" : {"Teacher": "$39,495 per year", \"Teacher's Aide\": "$9.96 per hour", "Senior Custodian": "$10.45 per hour"}
 },
 { 
      
@@ -63180,12 +63180,12 @@
 },
 { 
      
-    "name" : "Noland"s Roofing, Inc.", 
+    "name" : "Noland's Roofing, Inc.", 
     "salary" : {"Sales Associate": "$79,994 per year", "Sales Consultant": "$82,243 per year", "Estimator": "$82,243 per year"}
 },
 { 
      
-    "name" : "Taziki"s Mediterranean Cafe", 
+    "name" : "Taziki's Mediterranean Cafe", 
     "salary" : {"Server": "$9.04 per hour", "Shift Leader": "$13.15 per hour", "Cashier": "$21,746 per year"}
 },
 { 
@@ -63245,7 +63245,7 @@
 },
 { 
      
-    "name" : "CJ"s Professional Satellites", 
+    "name" : "CJ's Professional Satellites", 
     "salary" : {"Satellite Installer": "$56,275 per year", "Satellite Technician": "$56,395 per year", "Install": "$62,151 per year"}
 },
 { 
@@ -63480,7 +63480,7 @@
 },
 { 
      
-    "name" : "Eagle Valley Children"s Home", 
+    "name" : "Eagle Valley Children's Home", 
     "salary" : {"Direct Care Worker": "$13.10 per hour", "Respite Worker": "$13.10 per hour", "Janitor": "$11.05 per hour"}
 },
 { 
@@ -63930,7 +63930,7 @@
 },
 { 
      
-    "name" : "Children"s Hospital & Medical Center - Omaha", 
+    "name" : "Children's Hospital & Medical Center - Omaha", 
     "salary" : {}
 },
 { 
@@ -64160,7 +64160,7 @@
 },
 { 
      
-    "name" : "Ruth"s Chris Steak House", 
+    "name" : "Ruth's Chris Steak House", 
     "salary" : {"Server": "$35,728 per year", "Bartender": "$39,504 per year", "Host/Hostess": "$11.88 per hour"}
 },
 { 
@@ -64265,7 +64265,7 @@
 },
 { 
      
-    "name" : "Beefalo Bob"s", 
+    "name" : "Beefalo Bob's", 
     "salary" : {}
 },
 { 
@@ -64305,7 +64305,7 @@
 },
 { 
      
-    "name" : "Casey"s General Store", 
+    "name" : "Casey's General Store", 
     "salary" : {"Cashier": "$9.97 per hour", "Cook": "$10.19 per hour", "Customer Service Associate / Cashier": "$10.15 per hour"}
 },
 { 
@@ -64380,7 +64380,7 @@
 },
 { 
      
-    "name" : "Jeremiah"s Italian Ice", 
+    "name" : "Jeremiah's Italian Ice", 
     "salary" : {"Server": "$9.27 per hour", "Shift Leader": "$11.15 per hour", "Store Manager": "$39,111 per year"}
 },
 { 
@@ -64560,7 +64560,7 @@
 },
 { 
      
-    "name" : "McCoy"s Building Supply", 
+    "name" : "McCoy's Building Supply", 
     "salary" : {"Crew Member": "$10.07 per hour", "Cashier": "$10.16 per hour", "Customer Service Associate / Cashier": "$10.00 per hour"}
 },
 { 
@@ -64580,7 +64580,7 @@
 },
 { 
      
-    "name" : "Cincinnati Children"s Hospital", 
+    "name" : "Cincinnati Children's Hospital", 
     "salary" : {"Customer Service Representative": "$25,305 per year", "Administrative Assistant": "$36,909 per year", "Mental Health Technician": "$18.02 per hour"}
 },
 { 
@@ -64695,7 +64695,7 @@
 },
 { 
      
-    "name" : "PAM"s Auto", 
+    "name" : "PAM's Auto", 
     "salary" : {"Sales Representative": "$59,812 per year", "Quality Assurance Analyst": "$20,048 per year", "Dismantler": "$22,142 per year"}
 },
 { 
@@ -64725,7 +64725,7 @@
 },
 { 
      
-    "name" : "S Nimbus LLC", 
+    "name" : 's Nimbus LLC", 
     "salary" : {}
 },
 { 
@@ -64755,7 +64755,7 @@
 },
 { 
      
-    "name" : "Men"s Wearhouse", 
+    "name" : "Men's Wearhouse", 
     "salary" : {"Customer Service Representative": "$24,720 per year", "Fashion Consultant": "$39,438 per year", "Assistant Manager": "$37,021 per year"}
 },
 { 
@@ -64975,7 +64975,7 @@
 },
 { 
      
-    "name" : "Montgomery"s", 
+    "name" : "Montgomery's", 
     "salary" : {}
 },
 { 
@@ -65085,7 +65085,7 @@
 },
 { 
      
-    "name" : "Maggiano"s Little Italy", 
+    "name" : "Maggiano's Little Italy", 
     "salary" : {"Server": "$34,340 per year", "Bartender": "$13.52 per hour", "Host/Hostess": "$11.49 per hour"}
 },
 { 
@@ -65260,7 +65260,7 @@
 },
 { 
      
-    "name" : "Miller"s Merry Manor", 
+    "name" : "Miller's Merry Manor", 
     "salary" : {"Nursing Assistant": "$10.58 per hour", "Registered Nurse": "$24.36 per hour", "Licensed Practical Nurse": "$37,836 per year"}
 },
 { 
@@ -65280,7 +65280,7 @@
 },
 { 
      
-    "name" : "Noah"s New York Bagels", 
+    "name" : "Noah's New York Bagels", 
     "salary" : {"Shift Leader": "$14.60 per hour", "Baker": "$15.68 per hour", "General Manager": "$60,340 per year"}
 },
 { 
@@ -65545,7 +65545,7 @@
 },
 { 
      
-    "name" : "Michael"s Transportation Service, Inc. (MTS)", 
+    "name" : "Michael's Transportation Service, Inc. (MTS)", 
     "salary" : {"Bus Driver": "$21.41 per hour", "Commercial Driver": "$20.46 per hour", "Tractor Trailer Driver": "$22.41 per hour"}
 },
 { 
@@ -65635,7 +65635,7 @@
 },
 { 
      
-    "name" : "Ralphie"s Restaurant - Sports Eatery", 
+    "name" : "Ralphie's Restaurant - Sports Eatery", 
     "salary" : {}
 },
 { 
@@ -66120,7 +66120,7 @@
 },
 { 
      
-    "name" : "Prairie St. John"s", 
+    "name" : "Prairie St. John's", 
     "salary" : {"Psychiatric Technician": "$14.81 per hour", "Registered Nurse": "$30.13 per hour"}
 },
 { 
@@ -66130,7 +66130,7 @@
 },
 { 
      
-    "name" : "Bernatello"s Foods", 
+    "name" : "Bernatello's Foods", 
     "salary" : {"Production Worker": "$10.08 per hour", "Machine Operator": "$16.27 per hour", "Mixer": "$14.33 per hour"}
 },
 { 
@@ -66400,7 +66400,7 @@
 },
 { 
      
-    "name" : "Fazoli"s", 
+    "name" : "Fazoli's", 
     "salary" : {"Cashier": "$8.19 per hour", "Associate": "$8.59 per hour", "Associate Manager": "$10.28 per hour"}
 },
 { 
@@ -66515,7 +66515,7 @@
 },
 { 
      
-    "name" : "Landry"s Seafood House", 
+    "name" : "Landry's Seafood House", 
     "salary" : {}
 },
 { 
@@ -66540,7 +66540,7 @@
 },
 { 
      
-    "name" : "Charlie"s Produce", 
+    "name" : "Charlie's Produce", 
     "salary" : {"Order Picker": "$44,299 per year", "Forklift Operator": "$32,907 per year", "Truck Driver": "$62,780 per year"}
 },
 { 
@@ -66665,7 +66665,7 @@
 },
 { 
      
-    "name" : "Grassi & Co., CPA"s P.C", 
+    "name" : "Grassi & Co., CPA's P.C", 
     "salary" : {}
 },
 { 
@@ -66795,7 +66795,7 @@
 },
 { 
      
-    "name" : "Shari"s Cafe and Pies", 
+    "name" : "Shari's Cafe and Pies", 
     "salary" : {"Server": "$12.29 per hour", "Dishwasher": "$12.45 per hour", "Assistant Manager": "$42,293 per year"}
 },
 { 
@@ -66930,7 +66930,7 @@
 },
 { 
      
-    "name" : "DomAdi"s Deli", 
+    "name" : "DomAdi's Deli", 
     "salary" : {"Sandwich Maker": "$12.79 per hour", "Prep Cook": "$12.39 per hour"}
 },
 { 
@@ -67485,7 +67485,7 @@
 },
 { 
      
-    "name" : "CiCi"s Pizza", 
+    "name" : "CiCi's Pizza", 
     "salary" : {"Cashier": "$8.65 per hour", "Team Member": "$8.79 per hour", "General Manager": "$40,270 per year"}
 },
 { 
@@ -67815,7 +67815,7 @@
 },
 { 
      
-    "name" : "Lori"s Gifts, Inc.", 
+    "name" : "Lori's Gifts, Inc.", 
     "salary" : {"Sales Associate": "$11.34 per hour", "Store Manager": "$16.07 per hour", "Assistant Manager": "$11.28 per hour"}
 },
 { 
@@ -67860,7 +67860,7 @@
 },
 { 
      
-    "name" : "Aaron"s", 
+    "name" : "Aaron's", 
     "salary" : {"Sales Manager": "$13.03 per hour", "Customer Service Representative": "$27,483 per year", "Account Manager": "$36,696 per year"}
 },
 { 
@@ -67890,7 +67890,7 @@
 },
 { 
      
-    "name" : "Methodist Children"s Home Society", 
+    "name" : "Methodist Children's Home Society", 
     "salary" : {}
 },
 { 
@@ -68125,7 +68125,7 @@
 },
 { 
      
-    "name" : "St. Christopher"s Hospital for Children", 
+    "name" : "St. Christopher's Hospital for Children", 
     "salary" : {"Registered Nurse": "$71,551 per year", "Housekeeper": "$13.00 per hour"}
 },
 { 
@@ -68145,7 +68145,7 @@
 },
 { 
      
-    "name" : "Al"s Sporting Goods", 
+    "name" : "Al's Sporting Goods", 
     "salary" : {}
 },
 { 
@@ -68185,12 +68185,12 @@
 },
 { 
      
-    "name" : "Shorty"s Pizza and Smoked Meat", 
+    "name" : "Shorty's Pizza and Smoked Meat", 
     "salary" : {}
 },
 { 
      
-    "name" : "Mom"s Design Build", 
+    "name" : "Mom's Design Build", 
     "salary" : {"Landscape Foreman": "$29.07 per hour", "Carpenter": "$22.43 per hour", "Lead Carpenter": "$22.43 per hour"}
 },
 { 
@@ -68550,7 +68550,7 @@
 },
 { 
      
-    "name" : "Children"s Hospital of Philadelphia", 
+    "name" : "Children's Hospital of Philadelphia", 
     "salary" : {"Patient Services Representative": "$18.29 per hour", "Registered Nurse": "$69,235 per year", "Food Service Worker": "$31,210 per year"}
 },
 { 
@@ -68760,7 +68760,7 @@
 },
 { 
      
-    "name" : "Children"s Hospital Colorado", 
+    "name" : "Children's Hospital Colorado", 
     "salary" : {"Registered Nurse": "$65,437 per year", "Patient Services Representative": "$29,880 per year", "Nurse": "$61,487 per year"}
 },
 { 
@@ -68785,7 +68785,7 @@
 },
 { 
      
-    "name" : "Parry"s Pizza", 
+    "name" : "Parry's Pizza", 
     "salary" : {"Cook/Dishwasher": "$11.08 per hour", "Server": "$8.66 per hour", "General Manager": "$50,598 per year"}
 },
 { 
@@ -68975,7 +68975,7 @@
 },
 { 
      
-    "name" : "Zaxby"s", 
+    "name" : "Zaxby's", 
     "salary" : {"Cashier": "$8.87 per hour", "Cook": "$8.94 per hour", "Customer Service Associate / Cashier": "$10.06 per hour"}
 },
 { 
@@ -69065,7 +69065,7 @@
 },
 { 
      
-    "name" : "Auntie Anne"s", 
+    "name" : "Auntie Anne's", 
     "salary" : {"Crew Member": "$9.44 per hour", "Cashier": "$10.01 per hour", "Shift Leader": "$10.32 per hour"}
 },
 { 
@@ -69190,7 +69190,7 @@
 },
 { 
      
-    "name" : "Life"s WORC", 
+    "name" : "Life's WORC", 
     "salary" : {"Direct Support Professional": "$13.76 per hour", "Counselor": "$14.98 per hour", "Residential Manager": "$22.99 per hour"}
 },
 { 
@@ -69220,7 +69220,7 @@
 },
 { 
      
-    "name" : "Buddy"s Home Furnishings", 
+    "name" : "Buddy's Home Furnishings", 
     "salary" : {"Sales Manager": "$12.72 per hour", "Delivery Driver": "$11.48 per hour", "General Manager": "$51,489 per year"}
 },
 { 
@@ -69600,7 +69600,7 @@
 },
 { 
      
-    "name" : "JC"s BBQ & Grill", 
+    "name" : "JC's BBQ & Grill", 
     "salary" : {}
 },
 { 
@@ -69670,7 +69670,7 @@
 },
 { 
      
-    "name" : "John"s Incredible Pizza Company", 
+    "name" : "John's Incredible Pizza Company", 
     "salary" : {"Party Host": "$9.90 per hour", "Attendant": "$9.25 per hour", "Party Hostess": "$9.01 per hour"}
 },
 { 
@@ -69850,7 +69850,7 @@
 },
 { 
      
-    "name" : "Smith"s Food and Drug", 
+    "name" : "Smith's Food and Drug", 
     "salary" : {"Courtesy Associate": "$8.78 per hour", "Deli Associate": "$12.20 per hour", "Customer Service Associate / Cashier": "$13.20 per hour"}
 },
 { 
@@ -70015,7 +70015,7 @@
 },
 { 
      
-    "name" : "Fred"s", 
+    "name" : "Fred's", 
     "salary" : {"Cashier": "$8.23 per hour", "Store Manager": "$46,378 per year", "Pharmacy Technician": "$11.33 per hour"}
 },
 { 
@@ -70035,7 +70035,7 @@
 },
 { 
      
-    "name" : "Valley Children"s Healthcare", 
+    "name" : "Valley Children's Healthcare", 
     "salary" : {}
 },
 { 
@@ -70216,7 +70216,7 @@
 { 
      
     "name" : "EduKids, Inc.", 
-    "salary" : {\"Teacher"s Aide\": "$11.80 per hour", "Lead Teacher": "$15.44 per hour", "Preschool Teacher": "$14.48 per hour"}
+    "salary" : {\"Teacher's Aide\": "$11.80 per hour", "Lead Teacher": "$15.44 per hour", "Preschool Teacher": "$14.48 per hour"}
 },
 { 
      
@@ -70320,7 +70320,7 @@
 },
 { 
      
-    "name" : "Cook Children"s Health Care System", 
+    "name" : "Cook Children's Health Care System", 
     "salary" : {"Registered Nurse": "$74,272 per year", "Licensed Vocational Nurse": "$46,294 per year", "Patient Access Representative II": "$17.30 per hour"}
 },
 { 
@@ -70400,7 +70400,7 @@
 },
 { 
      
-    "name" : "St. Coletta"s of Illinois", 
+    "name" : "St. Coletta's of Illinois", 
     "salary" : {"Direct Support Professional": "$11.35 per hour", "Residential Aide": "$10.43 per hour", "Special Education Teacher": "$14.00 per hour"}
 },
 { 
@@ -70525,7 +70525,7 @@
 },
 { 
      
-    "name" : "The Children"s Home of Kingston", 
+    "name" : "The Children's Home of Kingston", 
     "salary" : {"Childcare Provider": "$12.32 per hour", "Cook": "$14.02 per hour", "Social Worker": "$46,974 per year"}
 },
 { 
@@ -70650,7 +70650,7 @@
 },
 { 
      
-    "name" : "Children"s Happy Teeth", 
+    "name" : "Children's Happy Teeth", 
     "salary" : {}
 },
 { 
@@ -70835,7 +70835,7 @@
 },
 { 
      
-    "name" : "Babbitt"s Sports Center", 
+    "name" : "Babbitt's Sports Center", 
     "salary" : {"Shipping and Receiving Clerk": "$10.40 per hour", "Customer Service Representative": "$11.45 per hour", "Parts Specialist": "$10.31 per hour"}
 },
 { 
@@ -70955,7 +70955,7 @@
 },
 { 
      
-    "name" : "Landry"s Inc.", 
+    "name" : "Landry's Inc.", 
     "salary" : {"Host/Hostess": "$10.93 per hour", "Server": "$32,175 per year", "Retail Sales Associate": "$9.42 per hour"}
 },
 { 
@@ -71015,7 +71015,7 @@
 },
 { 
      
-    "name" : "CJ"s Tire & Automotive", 
+    "name" : "CJ's Tire & Automotive", 
     "salary" : {"Automotive Technician": "$68,158 per year", "Assistant Store Manager": "$50,000 per year", "Automotive Mechanic": "$70,000 per year"}
 },
 { 
@@ -71030,7 +71030,7 @@
 },
 { 
      
-    "name" : "Anna"s House", 
+    "name" : "Anna's House", 
     "salary" : {"Host/Hostess": "$11.77 per hour", "Line Cook": "$13.23 per hour", "Dishwasher": "$11.19 per hour"}
 },
 { 
@@ -71120,7 +71120,7 @@
 },
 { 
      
-    "name" : "Frank"s Servicenter Inc.", 
+    "name" : "Frank's Servicenter Inc.", 
     "salary" : {"Service Writer": "$62,126 per year", "Automotive Mechanic": "$60,570 per year"}
 },
 { 
@@ -71135,7 +71135,7 @@
 },
 { 
      
-    "name" : "Children"s Minnesota", 
+    "name" : "Children's Minnesota", 
     "salary" : {}
 },
 { 
@@ -71325,7 +71325,7 @@
 },
 { 
      
-    "name" : "T-Bone"s Marketplace", 
+    "name" : "T-Bone's Marketplace", 
     "salary" : {}
 },
 { 
@@ -71390,7 +71390,7 @@
 },
 { 
      
-    "name" : "Robertson"s Ready Mix", 
+    "name" : "Robertson's Ready Mix", 
     "salary" : {"Truck Driver": "$16.30 per hour", "Driver": "$18.06 per hour", "Equipment Operator": "$20.64 per hour"}
 },
 { 
@@ -71550,7 +71550,7 @@
 },
 { 
      
-    "name" : "Jerry"s Nugget Casino", 
+    "name" : "Jerry's Nugget Casino", 
     "salary" : {"Dealer": "$8.25 per hour", "Sports Writer": "$8.85 per hour", "Bartender": "$11.68 per hour"}
 },
 { 
@@ -71580,7 +71580,7 @@
 },
 { 
      
-    "name" : "People"s Care", 
+    "name" : "People's Care", 
     "salary" : {"Direct Support Professional": "$14.57 per hour", "Direct Support Professional II": "$15.78 per hour", "Instructor": "$12.94 per hour"}
 },
 { 
@@ -71640,7 +71640,7 @@
 },
 { 
      
-    "name" : "Fry"s Electronics", 
+    "name" : "Fry's Electronics", 
     "salary" : {"Customer Service Representative": "$10.39 per hour", "Sales Associate": "$9.19 per hour", "Sales Representative": "$8.79 per hour"}
 },
 { 
@@ -71941,7 +71941,7 @@
 { 
      
     "name" : "T. C. Harris School", 
-    "salary" : {"Direct Support Professional": "$12.14 per hour", "Program Supervisor": "$13.72 per hour", \"Teacher"s Aide\": "$12.39 per hour"}
+    "salary" : {"Direct Support Professional": "$12.14 per hour", "Program Supervisor": "$13.72 per hour", \"Teacher's Aide\": "$12.39 per hour"}
 },
 { 
      
@@ -72075,7 +72075,7 @@
 },
 { 
      
-    "name" : "Jack"s Family Restaurants", 
+    "name" : "Jack's Family Restaurants", 
     "salary" : {"Cashier": "$8.35 per hour", "Assistant Manager": "$602 per week", "Crew Member": "$8.89 per hour"}
 },
 { 
@@ -72161,7 +72161,7 @@
 { 
      
     "name" : "Gersh Academy", 
-    "salary" : {"Paraprofessional": "$13.96 per hour", \"Teacher"s Aide\": "$16.04 per hour", "Speech Language Pathologist": "$64,610 per year"}
+    "salary" : {"Paraprofessional": "$13.96 per hour", \"Teacher's Aide\": "$16.04 per hour", "Speech Language Pathologist": "$64,610 per year"}
 },
 { 
      
@@ -72320,7 +72320,7 @@
 },
 { 
      
-    "name" : "Knott"s Berry Farm", 
+    "name" : "Knott's Berry Farm", 
     "salary" : {"Guest Service Agent": "$9.82 per hour", "Ride Operator": "$10.48 per hour", "Sales Associate": "$9.70 per hour"}
 },
 { 
@@ -72370,7 +72370,7 @@
 },
 { 
      
-    "name" : "Carondelet St. Mary"s Hospital", 
+    "name" : "Carondelet St. Mary's Hospital", 
     "salary" : {}
 },
 { 
@@ -72425,7 +72425,7 @@
 },
 { 
      
-    "name" : "Pappy"s Pet Lodge", 
+    "name" : "Pappy's Pet Lodge", 
     "salary" : {"Technician": "$9.50 per hour", "Kennel Technician": "$8.89 per hour", "Guest Service Agent": "$10.49 per hour"}
 },
 { 
@@ -72605,7 +72605,7 @@
 },
 { 
      
-    "name" : "Oliver"s Pizza & Pub", 
+    "name" : "Oliver's Pizza & Pub", 
     "salary" : {}
 },
 { 
@@ -72680,12 +72680,12 @@
 },
 { 
      
-    "name" : "Michael"s Cafe", 
+    "name" : "Michael's Cafe", 
     "salary" : {}
 },
 { 
      
-    "name" : "Texas Woman"s University", 
+    "name" : "Texas Woman's University", 
     "salary" : {"Administrative Assistant": "$2,500 per month", "Senior Secretary": "$2,427 per month", "Academic Advisor": "$2,822 per month"}
 },
 { 
@@ -72735,7 +72735,7 @@
 },
 { 
      
-    "name" : "Deaconess Women"s Hospital of Southern Indiana", 
+    "name" : "Deaconess Women's Hospital of Southern Indiana", 
     "salary" : {}
 },
 { 
@@ -72940,7 +72940,7 @@
 },
 { 
      
-    "name" : "Pasado"s Safe Haven", 
+    "name" : "Pasado's Safe Haven", 
     "salary" : {}
 },
 { 
@@ -73105,7 +73105,7 @@
 },
 { 
      
-    "name" : "Moe"s Southwest Grill", 
+    "name" : "Moe's Southwest Grill", 
     "salary" : {"Crew Member": "$10.79 per hour", "Cashier": "$9.62 per hour", "Shift Leader": "$11.29 per hour"}
 },
 { 
@@ -73295,7 +73295,7 @@
 },
 { 
      
-    "name" : "Patxi"s Pizza", 
+    "name" : "Patxi's Pizza", 
     "salary" : {"Server": "$9.98 per hour", "Bartender": "$14.78 per hour", "Delivery Driver": "$15.22 per hour"}
 },
 { 
@@ -73540,7 +73540,7 @@
 },
 { 
      
-    "name" : "Uncle Julio"s", 
+    "name" : "Uncle Julio's", 
     "salary" : {"Server": "$31,720 per year", "Bartender": "$727 per week", "Host/Hostess": "$10.19 per hour"}
 },
 { 
@@ -73995,7 +73995,7 @@
 },
 { 
      
-    "name" : "Mickey"s Linen", 
+    "name" : "Mickey's Linen", 
     "salary" : {"Route Sales Representative": "$49,052 per year", "Laborer": "$13.75 per hour", "Production Associate": "$11.73 per hour"}
 },
 { 
@@ -74410,7 +74410,7 @@
 },
 { 
      
-    "name" : "San Gabriel Children"s Center", 
+    "name" : "San Gabriel Children's Center", 
     "salary" : {"Residential Counselor": "$14.53 per hour", "Behavioral Specialist": "$17.16 per hour", "Behavioral Health Professional": "$16.00 per hour"}
 },
 { 
@@ -74435,7 +74435,7 @@
 },
 { 
      
-    "name" : "Episcopal Children"s Services", 
+    "name" : "Episcopal Children's Services", 
     "salary" : {}
 },
 { 
@@ -74805,7 +74805,7 @@
 },
 { 
      
-    "name" : "David"s Bridal", 
+    "name" : "David's Bridal", 
     "salary" : {"Stylist": "$12.23 per hour", "Customer Service Representative": "$10.48 per hour", "Bridal Consultant": "$11.90 per hour"}
 },
 { 
@@ -75160,7 +75160,7 @@
 },
 { 
      
-    "name" : "Pinocchio"s Restaurant", 
+    "name" : "Pinocchio's Restaurant", 
     "salary" : {}
 },
 { 
@@ -75255,7 +75255,7 @@
 },
 { 
      
-    "name" : "Chico"s FAS", 
+    "name" : "Chico's FAS", 
     "salary" : {"Sales Associate": "$11.69 per hour", "Customer Service Representative": "$14.46 per hour", "Sales Lead": "$13.27 per hour"}
 },
 { 
@@ -75640,7 +75640,7 @@
 },
 { 
      
-    "name" : "Ruby"s Place", 
+    "name" : "Ruby's Place", 
     "salary" : {}
 },
 { 
@@ -75695,7 +75695,7 @@
 },
 { 
      
-    "name" : "Josh"s Frogs", 
+    "name" : "Josh's Frogs", 
     "salary" : {"Technician": "$12.28 per hour", "Shipping and Receiving Clerk": "$11.23 per hour", "Animal Technician": "$10.05 per hour"}
 },
 { 
@@ -75725,7 +75725,7 @@
 },
 { 
      
-    "name" : "Bachman"s Inc.", 
+    "name" : "Bachman's Inc.", 
     "salary" : {"Stocking Associate": "$12.09 per hour", "Customer Service Representative": "$14.35 per hour", "Merchandiser": "$12.96 per hour"}
 },
 { 
@@ -75775,7 +75775,7 @@
 },
 { 
      
-    "name" : "S & R Quisberg Inc", 
+    "name" : 's & R Quisberg Inc", 
     "salary" : {"Customer Service Associate / Cashier": "$9.98 per hour", "Deli Associate": "$10.70 per hour"}
 },
 { 
@@ -75870,7 +75870,7 @@
 },
 { 
      
-    "name" : "Sendik"s Food Markets", 
+    "name" : "Sendik's Food Markets", 
     "salary" : {}
 },
 { 
@@ -75961,7 +75961,7 @@
 { 
      
     "name" : "Hillcrest Health & Rehabilitation Center", 
-    "salary" : {"Nursing Assistant": "$10.96 per hour", \"Nurse"s Aide\": "$10.85 per hour", "Kitchen Assistant": "$9.10 per hour"}
+    "salary" : {"Nursing Assistant": "$10.96 per hour", \"Nurse's Aide\": "$10.85 per hour", "Kitchen Assistant": "$9.10 per hour"}
 },
 { 
      
@@ -76095,7 +76095,7 @@
 },
 { 
      
-    "name" : "High"s", 
+    "name" : "High's", 
     "salary" : {}
 },
 { 
@@ -76230,7 +76230,7 @@
 },
 { 
      
-    "name" : "Romano"s Macaroni Grill", 
+    "name" : "Romano's Macaroni Grill", 
     "salary" : {"Server": "$11.96 per hour", "Chef": "$13.52 per hour", "Bartender": "$12.21 per hour"}
 },
 { 
@@ -76241,7 +76241,7 @@
 { 
      
     "name" : "Central MO Community Action (CMCA)", 
-    "salary" : {\"Teacher"s Aide\": "$9.63 per hour", "Preschool Teacher": "$13.63 per hour", "Teaching Assistant": "$12.00 per hour"}
+    "salary" : {\"Teacher's Aide\": "$9.63 per hour", "Preschool Teacher": "$13.63 per hour", "Teaching Assistant": "$12.00 per hour"}
 },
 { 
      
@@ -76545,7 +76545,7 @@
 },
 { 
      
-    "name" : "Family and Children"s Services of Central Maryland", 
+    "name" : "Family and Children's Services of Central Maryland", 
     "salary" : {"Therapist": "$58,479 per year", "Case Manager": "$21.00 per hour", "Behavioral Therapist": "$59,314 per year"}
 },
 { 
@@ -76965,7 +76965,7 @@
 },
 { 
      
-    "name" : "RJ"s Transportation", 
+    "name" : "RJ's Transportation", 
     "salary" : {"Owner Operator Driver": "$3,651 per week", "Truck Driver": "$79,844 per year", "Tanker Driver": "$79,673 per year"}
 },
 { 
@@ -77030,7 +77030,7 @@
 },
 { 
      
-    "name" : "Children"s Home Society of South Dakota", 
+    "name" : "Children's Home Society of South Dakota", 
     "salary" : {"Residential Counselor": "$13.23 per hour", "Youth Counselor": "$13.18 per hour", "Cook": "$12.94 per hour"}
 },
 { 
@@ -77410,7 +77410,7 @@
 },
 { 
      
-    "name" : "Jeni"s Splendid Ice Creams", 
+    "name" : "Jeni's Splendid Ice Creams", 
     "salary" : {"Ice Cream Maker": "$11.34 per hour", "Ambassador": "$11.51 per hour", "Team Leader": "$12.21 per hour"}
 },
 { 
@@ -77715,7 +77715,7 @@
 },
 { 
      
-    "name" : "De Vere"s Irish Pub", 
+    "name" : "De Vere's Irish Pub", 
     "salary" : {}
 },
 { 
@@ -77795,7 +77795,7 @@
 },
 { 
      
-    "name" : "Harvey"s Plumbing and Heating", 
+    "name" : "Harvey's Plumbing and Heating", 
     "salary" : {}
 },
 { 
@@ -77930,7 +77930,7 @@
 },
 { 
      
-    "name" : "Children"s Home Society of Washington", 
+    "name" : "Children's Home Society of Washington", 
     "salary" : {"Educator": "$21.76 per hour", "Case Manager": "$46,411 per year"}
 },
 { 
@@ -78070,7 +78070,7 @@
 },
 { 
      
-    "name" : "King"s Creek Plantation", 
+    "name" : "King's Creek Plantation", 
     "salary" : {"Maintenance Technician": "$12.88 per hour", "Front Desk Agent": "$12.89 per hour", "Shuttle Driver": "$14.20 per hour"}
 },
 { 
@@ -78190,7 +78190,7 @@
 },
 { 
      
-    "name" : "Sportsman"s Warehouse", 
+    "name" : "Sportsman's Warehouse", 
     "salary" : {"Sales Associate": "$10.95 per hour", "Customer Service Representative": "$12.93 per hour", "Associate": "$10.60 per hour"}
 },
 { 
@@ -78270,7 +78270,7 @@
 },
 { 
      
-    "name" : "Bruegger"s Bagels", 
+    "name" : "Bruegger's Bagels", 
     "salary" : {"Shift Manager": "$11.50 per hour", "General Manager": "$51,918 per year", "Baker": "$12.51 per hour"}
 },
 { 
@@ -78610,7 +78610,7 @@
 },
 { 
      
-    "name" : "Miller"s Ale House", 
+    "name" : "Miller's Ale House", 
     "salary" : {"Server": "$11.13 per hour", "Bartender": "$30,223 per year", "Line Cook": "$14.27 per hour"}
 },
 { 
@@ -78720,7 +78720,7 @@
 },
 { 
      
-    "name" : "Arkansas Children"s Hospital", 
+    "name" : "Arkansas Children's Hospital", 
     "salary" : {"Patient Care Technician": "$12.56 per hour", "Unit Secretary": "$21,076 per year", "Registered Nurse": "$71,085 per year"}
 },
 { 
@@ -78785,7 +78785,7 @@
 },
 { 
      
-    "name" : "Kohl"s", 
+    "name" : "Kohl's", 
     "salary" : {"Sales Associate": "$9.90 per hour", "Customer Service Representative": "$10.38 per hour", "Cashier": "$9.99 per hour"}
 },
 { 
@@ -79115,7 +79115,7 @@
 },
 { 
      
-    "name" : "Joe"s Garage Coffee", 
+    "name" : "Joe's Garage Coffee", 
     "salary" : {"Fulfillment Associate": "$14.60 per hour", "Warehouse Worker": "$16.45 per hour", "Maintenance Technician": "$21.00 per hour"}
 },
 { 
@@ -79260,7 +79260,7 @@
 },
 { 
      
-    "name" : "Natchitoches Parish Sheriff"s Office", 
+    "name" : "Natchitoches Parish Sheriff's Office", 
     "salary" : {"Licensed Practical Nurse": "$20.00 per hour", "Assistant": "$12.50 per hour"}
 },
 { 
@@ -79871,7 +79871,7 @@
 { 
      
     "name" : "Happy Place daycare", 
-    "salary" : {"Early Childhood Teacher": "$11.10 per hour", "Preschool Teacher": "$11.25 per hour", \"Teacher"s Aide\": "$10.88 per hour"}
+    "salary" : {"Early Childhood Teacher": "$11.10 per hour", "Preschool Teacher": "$11.25 per hour", \"Teacher's Aide\": "$10.88 per hour"}
 },
 { 
      
@@ -80070,7 +80070,7 @@
 },
 { 
      
-    "name" : "St. Jude Children"s Research Hospital", 
+    "name" : "St. Jude Children's Research Hospital", 
     "salary" : {"Patient Representative": "$37,979 per year", "Clinical Research Associate": "$80,363 per year", "Patient Care Technician": "$34,575 per year"}
 },
 { 
@@ -80090,7 +80090,7 @@
 },
 { 
      
-    "name" : "St. Vincent"s Health System", 
+    "name" : "St. Vincent's Health System", 
     "salary" : {"Patient Care Technician": "$10.72 per hour", "Registered Nurse": "$129,997 per year", "Patient Access Manager": "$18.26 per hour"}
 },
 { 
@@ -80375,7 +80375,7 @@
 },
 { 
      
-    "name" : "Rutter"s", 
+    "name" : "Rutter's", 
     "salary" : {"Team Member": "$11.39 per hour", "Retail Sales Associate": "$10.00 per hour", "Food Service Worker": "$10.19 per hour"}
 },
 { 
@@ -80415,12 +80415,12 @@
 },
 { 
      
-    "name" : "Disney"s Vero Beach Resort", 
+    "name" : "Disney's Vero Beach Resort", 
     "salary" : {}
 },
 { 
      
-    "name" : "P.J. Marley"s", 
+    "name" : "P.J. Marley's", 
     "salary" : {}
 },
 { 
@@ -80445,7 +80445,7 @@
 },
 { 
      
-    "name" : "Women"s Recovery Center", 
+    "name" : "Women's Recovery Center", 
     "salary" : {}
 },
 { 
@@ -80540,7 +80540,7 @@
 },
 { 
      
-    "name" : "Kelli"s Gift Shop Suppliers", 
+    "name" : "Kelli's Gift Shop Suppliers", 
     "salary" : {"Account Executive": "$46,829 per year", "Order Picker": "$12.00 per hour", "Material Handler": "$13.58 per hour"}
 },
 { 
@@ -80610,7 +80610,7 @@
 },
 { 
      
-    "name" : "Edinburg Children"s Hospital", 
+    "name" : "Edinburg Children's Hospital", 
     "salary" : {}
 },
 { 
@@ -80815,7 +80815,7 @@
 },
 { 
      
-    "name" : "Jason"s Deli", 
+    "name" : "Jason's Deli", 
     "salary" : {"Cashier": "$9.91 per hour", "Delivery Driver": "$10.69 per hour", "Customer Service Associate / Cashier": "$10.92 per hour"}
 },
 { 
@@ -80855,7 +80855,7 @@
 },
 { 
      
-    "name" : "Sam"s Club", 
+    "name" : "Sam's Club", 
     "salary" : {"Cashier": "$9.54 per hour", "Associate": "$13.48 per hour", "Member Services Representative": "$12.17 per hour"}
 },
 { 
@@ -81065,7 +81065,7 @@
 },
 { 
      
-    "name" : "Woodie"s Auto Service", 
+    "name" : "Woodie's Auto Service", 
     "salary" : {"Service Technician": "$15.24 per hour", "Lube Technician": "$15.14 per hour", "Automotive Technician": "$25.97 per hour"}
 },
 { 
@@ -81440,7 +81440,7 @@
 },
 { 
      
-    "name" : "Leslie"s Poolmart", 
+    "name" : "Leslie's Poolmart", 
     "salary" : {"Sales Associate": "$9.14 per hour", "Store Manager": "$36,592 per year", "Assistant Store Manager": "$14.45 per hour"}
 },
 { 
@@ -81510,7 +81510,7 @@
 },
 { 
      
-    "name" : "Children"s Aid", 
+    "name" : "Children's Aid", 
     "salary" : {"Facilitator": "$14.42 per hour", "Case Planner": "$39,956 per year", "Camp Counselor": "$10.18 per hour"}
 },
 { 
@@ -81620,7 +81620,7 @@
 },
 { 
      
-    "name" : "Baumhower"s Victory Grille", 
+    "name" : "Baumhower's Victory Grille", 
     "salary" : {"Cook": "$15.00 per hour", "Line Cook": "$14.28 per hour", "Ambassador": "$12.83 per hour"}
 },
 { 
@@ -81655,7 +81655,7 @@
 },
 { 
      
-    "name" : "St. David"s HealthCare", 
+    "name" : "St. David's HealthCare", 
     "salary" : {"Registered Nurse": "$58,801 per year", "Patient Care Technician": "$25,763 per year", "Registrar": "$35,467 per year"}
 },
 { 
@@ -81700,7 +81700,7 @@
 },
 { 
      
-    "name" : "Young"s Commercial Transfer", 
+    "name" : "Young's Commercial Transfer", 
     "salary" : {"Truck Driver": "$1,187 per week", "Shuttle Driver": "$13.56 per hour"}
 },
 { 
@@ -81735,7 +81735,7 @@
 },
 { 
      
-    "name" : "Children"s Service Center of Wyoming Valley Inc.", 
+    "name" : "Children's Service Center of Wyoming Valley Inc.", 
     "salary" : {}
 },
 { 
@@ -81875,7 +81875,7 @@
 },
 { 
      
-    "name" : "Martin"s Famous Pastry Shoppe, Inc.", 
+    "name" : "Martin's Famous Pastry Shoppe, Inc.", 
     "salary" : {"Sanitation Worker": "$51,767 per year", "Maintenance Supervisor": "$82,940 per year", "Packager": "$15.97 per hour"}
 },
 { 
@@ -82010,7 +82010,7 @@
 },
 { 
      
-    "name" : "Gelson"s Markets", 
+    "name" : "Gelson's Markets", 
     "salary" : {}
 },
 { 
@@ -82241,7 +82241,7 @@
 { 
      
     "name" : "EDMOND PUBLIC SCHOOLS", 
-    "salary" : {"Financial Secretary": "$13.44 per hour", \"Teacher"s Aide II\": "$12.76 per hour", "Bus Driver": "$14.55 per hour"}
+    "salary" : {"Financial Secretary": "$13.44 per hour", \"Teacher's Aide II\": "$12.76 per hour", "Bus Driver": "$14.55 per hour"}
 },
 { 
      
@@ -82275,7 +82275,7 @@
 },
 { 
      
-    "name" : "Mike"s Carwash", 
+    "name" : "Mike's Carwash", 
     "salary" : {"Associate": "$28,542 per year", "Assistant Manager": "$36,661 per year", "Customer Service Representative": "$10.30 per hour"}
 },
 { 
@@ -82380,7 +82380,7 @@
 },
 { 
      
-    "name" : "Gail"s Harley-Davidson", 
+    "name" : "Gail's Harley-Davidson", 
     "salary" : {}
 },
 { 
@@ -82945,7 +82945,7 @@
 },
 { 
      
-    "name" : "Leonard"s Express", 
+    "name" : "Leonard's Express", 
     "salary" : {"Truck Driver": "$47,347 per year", "Forklift Operator": "$13.52 per hour", "Sales Representative": "$41,853 per year"}
 },
 { 
@@ -83205,7 +83205,7 @@
 },
 { 
      
-    "name" : "Dick"s Market | Associated Food Stores, Inc", 
+    "name" : "Dick's Market | Associated Food Stores, Inc", 
     "salary" : {}
 },
 { 
@@ -83245,7 +83245,7 @@
 },
 { 
      
-    "name" : "Grandma Hoerner"s Foods, Inc.", 
+    "name" : "Grandma Hoerner's Foods, Inc.", 
     "salary" : {}
 },
 { 
@@ -83260,7 +83260,7 @@
 },
 { 
      
-    "name" : "The Children"s Courtyard", 
+    "name" : "The Children's Courtyard", 
     "salary" : {"Lead Teacher": "$11.85 per hour", "Assistant Teacher": "$10.64 per hour", "Teacher": "$11.48 per hour"}
 },
 { 
@@ -83280,7 +83280,7 @@
 },
 { 
      
-    "name" : "Hemm"s Glass Shops", 
+    "name" : "Hemm's Glass Shops", 
     "salary" : {"Glazier": "$20.43 per hour", "Construction Worker": "$17.84 per hour", "Engineering Manager": "$82,161 per year"}
 },
 { 
@@ -83850,7 +83850,7 @@
 },
 { 
      
-    "name" : "SEMINOLE COUNTY SHERIFF"S OFFICE", 
+    "name" : "SEMINOLE COUNTY SHERIFF's OFFICE", 
     "salary" : {"Deputy Sheriff": "$17.80 per hour", "Licensed Practical Nurse": "$21.17 per hour", "Crossing Guard": "$10.53 per hour"}
 },
 { 
@@ -84446,7 +84446,7 @@
 { 
      
     "name" : "Gulf Health Care Center Port Arthur", 
-    "salary" : {"Nursing Assistant": "$10.35 per hour", \"Nurse"s Aide\": "$10.18 per hour", "Activity Assistant": "$8.50 per hour"}
+    "salary" : {"Nursing Assistant": "$10.35 per hour", \"Nurse's Aide\": "$10.18 per hour", "Activity Assistant": "$8.50 per hour"}
 },
 { 
      
@@ -84455,7 +84455,7 @@
 },
 { 
      
-    "name" : "Choices Women"s Medical Center", 
+    "name" : "Choices Women's Medical Center", 
     "salary" : {}
 },
 { 
@@ -84715,7 +84715,7 @@
 },
 { 
      
-    "name" : "Sarah Reed Children"s Center", 
+    "name" : "Sarah Reed Children's Center", 
     "salary" : {"Clinical Instructor": "$13.97 per hour", "Teacher": "$14.32 per hour", "Youth Counselor": "$12.55 per hour"}
 },
 { 
