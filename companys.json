@@ -6900,7 +6900,7 @@
 },
 { 
  
-    "name" : "Stampin" Up!", 
+    "name" : "Stampin' Up!", 
     "salary" : {"Demonstrator": "$12.90 per hour", "Warehouse Worker": "$14.39 per hour", "Fulfillment Associate": "$12.32 per hour"}
 },
 { 
@@ -7045,7 +7045,7 @@
 },
 { 
  
-    "name" : "Benson"s, Inc.", 
+    "name" : "Benson's, Inc.", 
     "salary" : {"Room Attendant": "$10.00 per hour", "Driver": "$11.00 per hour"}
 },
 { 
@@ -9050,7 +9050,7 @@
 },
 { 
  
-    "name" : "Check "n Go", 
+    "name" : "Check n Go", 
     "salary" : {"Customer Service Representative": "$11.46 per hour", "Store Manager": "$16.14 per hour", "Manager": "$29,325 per year"}
 },
 { 
@@ -10071,7 +10071,7 @@
 { 
  
     "name" : "Peregrine Health Services", 
-    "salary" : {"State Tested Nursing Assistant": "$15.70 per hour", "Licensed Practical Nurse": "$25.12 per hour", \"Nurse's Aide\": "$13.89 per hour"}
+    "salary" : {"State Tested Nursing Assistant": "$15.70 per hour", "Licensed Practical Nurse": "$25.12 per hour", "Nurse's Aide": "$13.89 per hour"}
 },
 { 
  
@@ -11256,7 +11256,7 @@
 { 
  
     "name" : "Montefiore", 
-    "salary" : {"State Tested Nursing Assistant": "$13.94 per hour", "Shift Leader": "$13.96 per hour", \"Nurse's Aide\": "$12.00 per hour"}
+    "salary" : {"State Tested Nursing Assistant": "$13.94 per hour", "Shift Leader": "$13.96 per hour", "Nurse's Aide": "$12.00 per hour"}
 },
 { 
  
@@ -14556,7 +14556,7 @@
 { 
  
     "name" : "ANDRUS", 
-    "salary" : {"Cook": "$13.56 per hour", "Youth Counselor": "$13.20 per hour", \"Teacher's Aide\": "$13.37 per hour"}
+    "salary" : {"Cook": "$13.56 per hour", "Youth Counselor": "$13.20 per hour", "Teacher's Aide": "$13.37 per hour"}
 },
 { 
  
@@ -14935,7 +14935,7 @@
 },
 { 
  
-    "name" : "Movin" On Sounds & Security Inc.", 
+    "name" : "Movin' On Sounds & Security Inc.", 
     "salary" : {}
 },
 { 
@@ -18240,7 +18240,7 @@
 },
 { 
  
-    "name" : "DECISION SCIENCES INT"L CORP", 
+    "name" : "DECISION SCIENCES INT'L CORP", 
     "salary" : {}
 },
 { 
@@ -22820,12 +22820,12 @@
 },
 { 
  
-    "name" : "Eat"n Park Hospitality Group", 
+    "name" : "Eat'n Park Hospitality Group", 
     "salary" : {"Server": "$19,969 per year", "Prep Cook": "$9.70 per hour", "Dishwasher": "$8.46 per hour"}
 },
 { 
  
-    "name" : "O"Gara Coach", 
+    "name" : "O'Gara Coach", 
     "salary" : {"IT Assistant": "$16.23 per hour", "Sales Support Representative": "$36,000 per year", "Car Sales Executive": "$77,611 per year"}
 },
 { 
@@ -23530,7 +23530,7 @@
 },
 { 
  
-    "name" : "Lions" Gate Security Agency", 
+    "name" : "Lion's Gate Security Agency", 
     "salary" : {"Security Officer": "$11.49 per hour", "Security Supervisor": "$15.49 per hour", "Flex Officer": "$15.93 per hour"}
 },
 { 
@@ -23561,7 +23561,7 @@
 { 
  
     "name" : null, 
-    "salary" : {"Nursing Assistant": "$12.84 per hour", "Cook": "$12.01 per hour", \"Nurse's Aide\": "$13.45 per hour"}
+    "salary" : {"Nursing Assistant": "$12.84 per hour", "Cook": "$12.01 per hour", "Nurse's Aide": "$13.45 per hour"}
 },
 { 
  
@@ -26175,7 +26175,7 @@
 },
 { 
  
-    "name" : "O"Brien Automotive of Illinois", 
+    "name" : "O'Brien Automotive of Illinois", 
     "salary" : {}
 },
 { 
@@ -26711,7 +26711,7 @@
 { 
  
     "name" : "HACAP", 
-    "salary" : {\"Teacher's Aide II\": "$14.32 per hour", "Substitute Teacher": "$10.94 per hour", "Early Childhood Teacher": "$20.40 per hour"}
+    "salary" : {"Teacher's Aide II": "$14.32 per hour", "Substitute Teacher": "$10.94 per hour", "Early Childhood Teacher": "$20.40 per hour"}
 },
 { 
  
@@ -27075,7 +27075,7 @@
 },
 { 
  
-    "name" : "L"Oréal", 
+    "name" : "L'Oréal", 
     "salary" : {"Machine Operator": "$38,572 per year", "Beauty Consultant": "$11.86 per hour", "Manager": "$74,455 per year"}
 },
 { 
@@ -30505,7 +30505,7 @@
 },
 { 
  
-    "name" : "Matt O"Neill Real Estate", 
+    "name" : "Matt O'Neill Real Estate", 
     "salary" : {"Realtor": "$105,792 per year", "Real Estate Agent": "$101,387 per year", "Real Estate Associate": "$70,083 per year"}
 },
 { 
@@ -32105,7 +32105,7 @@
 },
 { 
  
-    "name" : "O"Neil & Associates, Inc", 
+    "name" : "O'Neil & Associates, Inc", 
     "salary" : {"Technical Writer": "$46,016 per year", "Business Development Representative": "$81,357 per year", "Business Development Manager": "$79,505 per year"}
 },
 { 
@@ -32285,7 +32285,7 @@
 },
 { 
  
-    "name" : "Bremer Whyte Brown & O"Meara LLP", 
+    "name" : "Bremer Whyte Brown & O'Meara LLP", 
     "salary" : {"Associate Attorney": "$86,888 per year", "Legal Secretary": "$46,086 per year"}
 },
 { 
@@ -34075,7 +34075,7 @@
 },
 { 
  
-    "name" : "O"Neill Healthcare", 
+    "name" : "O'Neill Healthcare", 
     "salary" : {"State Tested Nursing Assistant": "$13.21 per hour", "Charge Nurse": "$19.42 per hour", "Licensed Practical Nurse": "$20.86 per hour"}
 },
 { 
@@ -35176,7 +35176,7 @@
 { 
  
     "name" : "Kidango, Inc.", 
-    "salary" : {\"Teacher's Aide\": "$16.76 per hour", "Associate Teacher": "$23.40 per hour", "School Principal": "$19.08 per hour"}
+    "salary" : {"Teacher's Aide": "$16.76 per hour", "Associate Teacher": "$23.40 per hour", "School Principal": "$19.08 per hour"}
 },
 { 
  
@@ -35271,7 +35271,7 @@
 { 
  
     "name" : "Little Newtons", 
-    "salary" : {\"Teacher's Aide\": "$12.92 per hour", "Teacher": "$17.88 per hour", "Assistant Teacher": "$17.38 per hour"}
+    "salary" : {"Teacher's Aide": "$12.92 per hour", "Teacher": "$17.88 per hour", "Assistant Teacher": "$17.38 per hour"}
 },
 { 
  
@@ -35490,7 +35490,7 @@
 },
 { 
  
-    "name" : "Hawai"i Pacific University", 
+    "name" : "Hawaii Pacific University", 
     "salary" : {}
 },
 { 
@@ -36850,7 +36850,7 @@
 },
 { 
  
-    "name" : "Land O" Frost", 
+    "name" : "Land O' Frost", 
     "salary" : {"Maintenance Technician": "$20.77 per hour", "Production Supervisor": "$63,290 per year", "Industrial Engineer": "$81,590 per year"}
 },
 { 
@@ -37575,7 +37575,7 @@
 },
 { 
  
-    "name" : "Demos" Restaurants", 
+    "name" : "Demos Restaurants", 
     "salary" : {"General Manager": "$63,203 per year", "Restaurant Manager": "$50,605 per year", "Front of House Manager": "$43,467 per year"}
 },
 { 
@@ -38485,7 +38485,7 @@
 },
 { 
  
-    "name" : "O"Neal Steel", 
+    "name" : "O'Neal Steel", 
     "salary" : {}
 },
 { 
@@ -38506,7 +38506,7 @@
 { 
  
     "name" : "B HOMECARE", 
-    "salary" : {\"Nurse's Aide\": "$15.47 per hour", "Caregiver": "$14.16 per hour", "Registered Nurse - Operating Room": "$17.24 per hour"}
+    "salary" : {"Nurse's Aide": "$15.47 per hour", "Caregiver": "$14.16 per hour", "Registered Nurse - Operating Room": "$17.24 per hour"}
 },
 { 
  
@@ -39085,7 +39085,7 @@
 },
 { 
  
-    "name" : "Snyder"s-Lance, Inc.", 
+    "name" : "Snyder's-Lance, Inc.", 
     "salary" : {"Machine Operator": "$18.48 per hour", "Packer": "$15.70 per hour", "Route Sales Representative": "$46,024 per year"}
 },
 { 
@@ -39175,7 +39175,7 @@
 },
 { 
  
-    "name" : "Henrico Doctors" Hospital", 
+    "name" : "Henrico Doctor's Hospital", 
     "salary" : {"Registered Nurse": "$55,699 per year", "Registered Nurse - Medical/Surgical": "$57,178 per year", "Registered Nurse - ICU": "$53,766 per year"}
 },
 { 
@@ -46485,7 +46485,7 @@
 },
 { 
  
-    "name" : "Bashas" Supermarkets", 
+    "name" : "Basha's Supermarkets", 
     "salary" : {"Customer Service Associate / Cashier": "$9.50 per hour", "Deli Associate": "$19,645 per year", "Order Picker": "$19.55 per hour"}
 },
 { 
@@ -46675,7 +46675,7 @@
 },
 { 
  
-    "name" : "Lands" End Inc", 
+    "name" : "Land's End Inc", 
     "salary" : {"Sales Associate": "$11.04 per hour", "Customer Service Representative": "$13.16 per hour", "Order Filler": "$12.91 per hour"}
 },
 { 
@@ -48950,7 +48950,7 @@
 },
 { 
  
-    "name" : "Tennessee State Veterans" Homes", 
+    "name" : "Tennessee State Veteran's Homes", 
     "salary" : {"Licensed Practical Nurse": "$19.73 per hour", "Nursing Assistant": "$24,821 per year", "Charge Nurse": "$38,157 per year"}
 },
 { 
@@ -49695,7 +49695,7 @@
 },
 { 
  
-    "name" : "O"Charley's", 
+    "name" : "O'Charley's", 
     "salary" : {"Server": "$25,471 per year", "Host/Hostess": "$22,832 per year", "Bartender": "$23,626 per year"}
 },
 { 
@@ -50410,7 +50410,7 @@
 },
 { 
      
-    "name" : "FlynnO"Hara Uniforms", 
+    "name" : "Flynn O'Hara Uniforms", 
     "salary" : {"Retail Assistant Manager": "$10.88 per hour", "Assistant Store Manager": "$14.01 per hour", "Retail Sales Associate": "$12.69 per hour"}
 },
 { 
@@ -51620,7 +51620,7 @@
 },
 { 
      
-    "name" : "Chop"t Creative Salad Company", 
+    "name" : "Chop't Creative Salad Company", 
     "salary" : {"Cashier": "$15.47 per hour", "Assembler": "$10.07 per hour", "Shift Manager": "$14.67 per hour"}
 },
 { 
@@ -54140,7 +54140,7 @@
 },
 { 
      
-    "name" : "PAK"nSAVE", 
+    "name" : "PAK 'n SAVE", 
     "salary" : {}
 },
 { 
@@ -55955,7 +55955,7 @@
 },
 { 
      
-    "name" : "D"Amore Healthcare", 
+    "name" : "D'Amore Healthcare", 
     "salary" : {"Behavior Technician": "$18.98 per hour", "Case Manager": "$32.46 per hour", "Licensed Clinical Social Worker": "$69,608 per year"}
 },
 { 
@@ -56225,7 +56225,7 @@
 },
 { 
      
-    "name" : "Keiki O Ka "Aina FLC", 
+    "name" : "Keiki O Ka Aina FLC", 
     "salary" : {"Home Visitor": "$34,943 per year", "Program Facilitator": "$38,524 per year", "Preschool Teacher": "$15.97 per hour"}
 },
 { 
@@ -56241,7 +56241,7 @@
 { 
      
     "name" : "Minds Over Matter Childcare", 
-    "salary" : {\"Teacher's Aide\": "$9.00 per hour", "Early Childhood Teacher": "$10.00 per hour"}
+    "salary" : {"Teacher's Aide": "$9.00 per hour", "Early Childhood Teacher": "$10.00 per hour"}
 },
 { 
      
@@ -56411,7 +56411,7 @@
 { 
      
     "name" : "The Association for the Developmentally Disabled", 
-    "salary" : {"Direct Support Professional": "$11.22 per hour", "Activity Leader": "$10.74 per hour", \"Teacher's Aide\": "$11.64 per hour"}
+    "salary" : {"Direct Support Professional": "$11.22 per hour", "Activity Leader": "$10.74 per hour", "Teacher's Aide": "$11.64 per hour"}
 },
 { 
      
@@ -57930,7 +57930,7 @@
 },
 { 
      
-    "name" : 's & C Electric Company", 
+    "name" : "S & C Electric Company", 
     "salary" : {}
 },
 { 
@@ -58881,7 +58881,7 @@
 { 
      
     "name" : "Northern Arizona Council of Governments", 
-    "salary" : {"Program Specialist": "$16.94 per hour", \"Teacher's Aide\": "$12.71 per hour", "School Principal": "$17.30 per hour"}
+    "salary" : {"Program Specialist": "$16.94 per hour", "Teacher's Aide": "$12.71 per hour", "School Principal": "$17.30 per hour"}
 },
 { 
      
@@ -58906,7 +58906,7 @@
 { 
      
     "name" : "PEARLVIEW REHAB AND WELLNESS CENTER", 
-    "salary" : {"State Tested Nursing Assistant": "$13.05 per hour", "Registered Nurse": "$26.20 per hour", \"Nurse's Aide\": "$11.25 per hour"}
+    "salary" : {"State Tested Nursing Assistant": "$13.05 per hour", "Registered Nurse": "$26.20 per hour", "Nurse's Aide": "$11.25 per hour"}
 },
 { 
      
@@ -59335,7 +59335,7 @@
 },
 { 
      
-    "name" : "Hawai"i Unified", 
+    "name" : "Hawaii Unified", 
     "salary" : {"Technician": "$21.48 per hour", "Tradesman": "$20.98 per hour", "HVAC Technician": "$35.00 per hour"}
 },
 { 
@@ -61000,7 +61000,7 @@
 },
 { 
      
-    "name" : "All Tails "R Waggin"", 
+    "name" : "All Tails 'R Waggin", 
     "salary" : {}
 },
 { 
@@ -61096,7 +61096,7 @@
 { 
      
     "name" : "Saratoga County Economic Opportunity Council", 
-    "salary" : {\"Teacher's Aide\": "$11.22 per hour", "Preschool Teacher": "$14.49 per hour", "Home Visitor": "$12.57 per hour"}
+    "salary" : {"Teacher's Aide": "$11.22 per hour", "Preschool Teacher": "$14.49 per hour", "Home Visitor": "$12.57 per hour"}
 },
 { 
      
@@ -62670,7 +62670,7 @@
 },
 { 
      
-    "name" : "Physicians" Medical Center, P.C.", 
+    "name" : "Physicians Medical Center, P.C.", 
     "salary" : {}
 },
 { 
@@ -62831,7 +62831,7 @@
 { 
      
     "name" : "Woodlands Home Care, LLC", 
-    "salary" : {"Licensed Practical Nurse": "$19.80 per hour", \"Nurse's Aide\": "$12.62 per hour", "Assistant in Nursing": "$18.23 per hour"}
+    "salary" : {"Licensed Practical Nurse": "$19.80 per hour", "Nurse's Aide": "$12.62 per hour", "Assistant in Nursing": "$18.23 per hour"}
 },
 { 
      
@@ -63141,7 +63141,7 @@
 { 
      
     "name" : "Enid Public Schools", 
-    "salary" : {"Teacher": "$39,495 per year", \"Teacher's Aide\": "$9.96 per hour", "Senior Custodian": "$10.45 per hour"}
+    "salary" : {"Teacher": "$39,495 per year", "Teacher's Aide": "$9.96 per hour", "Senior Custodian": "$10.45 per hour"}
 },
 { 
      
@@ -63970,7 +63970,7 @@
 },
 { 
      
-    "name" : "DeLong"s, Inc.", 
+    "name" : "DeLong's, Inc.", 
     "salary" : {"Fabricator/Welder": "$14.36 per hour", "Fabricator": "$14.05 per hour", "CNC Operator": "$13.68 per hour"}
 },
 { 
@@ -64725,7 +64725,7 @@
 },
 { 
      
-    "name" : 's Nimbus LLC", 
+    "name" : "S Nimbus LLC", 
     "salary" : {}
 },
 { 
@@ -65550,7 +65550,7 @@
 },
 { 
      
-    "name" : "Toys "R" Us", 
+    "name" : "Toys R Us", 
     "salary" : {"Sales Associate": "$9.90 per hour", "Cashier": "$9.12 per hour", "Customer Service Representative": "$10.95 per hour"}
 },
 { 
@@ -66460,7 +66460,7 @@
 },
 { 
      
-    "name" : "Circa "21 Dinner Playhouse", 
+    "name" : "Circa 21 Dinner Playhouse", 
     "salary" : {}
 },
 { 
@@ -67650,7 +67650,7 @@
 },
 { 
      
-    "name" : "Fresh n" Lean", 
+    "name" : "Fresh n' Lean", 
     "salary" : {"Executive Assistant": "$25.91 per hour", "Labeler": "$13.62 per hour", "Graphic Designer": "$22.66 per hour"}
 },
 { 
@@ -70216,7 +70216,7 @@
 { 
      
     "name" : "EduKids, Inc.", 
-    "salary" : {\"Teacher's Aide\": "$11.80 per hour", "Lead Teacher": "$15.44 per hour", "Preschool Teacher": "$14.48 per hour"}
+    "salary" : {"Teacher's Aide": "$11.80 per hour", "Lead Teacher": "$15.44 per hour", "Preschool Teacher": "$14.48 per hour"}
 },
 { 
      
@@ -71475,7 +71475,7 @@
 },
 { 
      
-    "name" : "Center for Elders" Independence", 
+    "name" : "Center for Elders Independence", 
     "salary" : {"Medical Clerk": "$43,300 per year", "Nursing Supervisor": "$109,805 per year", "Assistant": "$16.82 per hour"}
 },
 { 
@@ -71941,7 +71941,7 @@
 { 
      
     "name" : "T. C. Harris School", 
-    "salary" : {"Direct Support Professional": "$12.14 per hour", "Program Supervisor": "$13.72 per hour", \"Teacher's Aide\": "$12.39 per hour"}
+    "salary" : {"Direct Support Professional": "$12.14 per hour", "Program Supervisor": "$13.72 per hour", "Teacher's Aide": "$12.39 per hour"}
 },
 { 
      
@@ -72005,7 +72005,7 @@
 },
 { 
      
-    "name" : "Indiana Veterans" Home", 
+    "name" : "Indiana Veteran's Home", 
     "salary" : {"Nursing Assistant": "$25,856 per year", "Food Service Worker": "$9.47 per hour", "Nursing Attendant": "$12.83 per hour"}
 },
 { 
@@ -72161,7 +72161,7 @@
 { 
      
     "name" : "Gersh Academy", 
-    "salary" : {"Paraprofessional": "$13.96 per hour", \"Teacher's Aide\": "$16.04 per hour", "Speech Language Pathologist": "$64,610 per year"}
+    "salary" : {"Paraprofessional": "$13.96 per hour", "Teacher's Aide": "$16.04 per hour", "Speech Language Pathologist": "$64,610 per year"}
 },
 { 
      
@@ -74965,7 +74965,7 @@
 },
 { 
      
-    "name" : "O"Reilly Auto Parts", 
+    "name" : "O'Reilly Auto Parts", 
     "salary" : {"Parts Specialist": "$10.35 per hour", "Retail Sales Associate": "$71,836 per year", "Delivery Driver": "$47,104 per year"}
 },
 { 
@@ -75775,7 +75775,7 @@
 },
 { 
      
-    "name" : 's & R Quisberg Inc", 
+    "name" : "S & R Quisberg Inc", 
     "salary" : {"Customer Service Associate / Cashier": "$9.98 per hour", "Deli Associate": "$10.70 per hour"}
 },
 { 
@@ -75950,7 +75950,7 @@
 },
 { 
      
-    "name" : "Dunkin" Donuts", 
+    "name" : "Dunkin' Donuts", 
     "salary" : {"Crew Member": "$10.81 per hour", "Shift Leader": "$10.67 per hour", "Cashier": "$10.44 per hour"}
 },
 { 
@@ -75961,7 +75961,7 @@
 { 
      
     "name" : "Hillcrest Health & Rehabilitation Center", 
-    "salary" : {"Nursing Assistant": "$10.96 per hour", \"Nurse's Aide\": "$10.85 per hour", "Kitchen Assistant": "$9.10 per hour"}
+    "salary" : {"Nursing Assistant": "$10.96 per hour", "Nurse's Aide": "$10.85 per hour", "Kitchen Assistant": "$9.10 per hour"}
 },
 { 
      
@@ -76241,7 +76241,7 @@
 { 
      
     "name" : "Central MO Community Action (CMCA)", 
-    "salary" : {\"Teacher's Aide\": "$9.63 per hour", "Preschool Teacher": "$13.63 per hour", "Teaching Assistant": "$12.00 per hour"}
+    "salary" : {"Teacher's Aide": "$9.63 per hour", "Preschool Teacher": "$13.63 per hour", "Teaching Assistant": "$12.00 per hour"}
 },
 { 
      
@@ -78355,7 +78355,7 @@
 },
 { 
      
-    "name" : "Dillard"s, Inc.", 
+    "name" : "Dillard's, Inc.", 
     "salary" : {"Sales Associate": "$13.63 per hour", "Customer Service Representative": "$12.34 per hour", "Beauty Consultant": "$14.41 per hour"}
 },
 { 
@@ -78390,7 +78390,7 @@
 },
 { 
      
-    "name" : "Bojangles" Restaurants, Inc", 
+    "name" : "Bojangles Restaurants, Inc", 
     "salary" : {"Crew Member": "$8.73 per hour", "Cashier": "$8.27 per hour", "Cook": "$8.50 per hour"}
 },
 { 
@@ -79530,7 +79530,7 @@
 },
 { 
      
-    "name" : "D"Addario & Company, Inc", 
+    "name" : "D'Addario & Company, Inc", 
     "salary" : {}
 },
 { 
@@ -79871,7 +79871,7 @@
 { 
      
     "name" : "Happy Place daycare", 
-    "salary" : {"Early Childhood Teacher": "$11.10 per hour", "Preschool Teacher": "$11.25 per hour", \"Teacher's Aide\": "$10.88 per hour"}
+    "salary" : {"Early Childhood Teacher": "$11.10 per hour", "Preschool Teacher": "$11.25 per hour", "Teacher's Aide": "$10.88 per hour"}
 },
 { 
      
@@ -82035,7 +82035,7 @@
 },
 { 
      
-    "name" : "Dunkin" Brands", 
+    "name" : "Dunkin Brands", 
     "salary" : {"Crew Member": "$10.92 per hour", "Cashier": "$8.34 per hour", "Shift Leader": "$8.86 per hour"}
 },
 { 
@@ -82241,7 +82241,7 @@
 { 
      
     "name" : "EDMOND PUBLIC SCHOOLS", 
-    "salary" : {"Financial Secretary": "$13.44 per hour", \"Teacher's Aide II\": "$12.76 per hour", "Bus Driver": "$14.55 per hour"}
+    "salary" : {"Financial Secretary": "$13.44 per hour", "Teacher's Aide II": "$12.76 per hour", "Bus Driver": "$14.55 per hour"}
 },
 { 
      
@@ -83765,7 +83765,7 @@
 },
 { 
      
-    "name" : "The Boys" Club of New York", 
+    "name" : "The Boys Club of New York", 
     "salary" : {"Tutor": "$25.48 per hour", "Program Assistant": "$15.58 per hour", "Camp Counselor": "$21.33 per hour"}
 },
 { 
@@ -84446,7 +84446,7 @@
 { 
      
     "name" : "Gulf Health Care Center Port Arthur", 
-    "salary" : {"Nursing Assistant": "$10.35 per hour", \"Nurse's Aide\": "$10.18 per hour", "Activity Assistant": "$8.50 per hour"}
+    "salary" : {"Nursing Assistant": "$10.35 per hour", "Nurse's Aide": "$10.18 per hour", "Activity Assistant": "$8.50 per hour"}
 },
 { 
      
