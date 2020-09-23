@@ -1,4 +1,4 @@
-# Project 3
+# EmployerInsider
 
 ## App Basics
 
@@ -13,7 +13,7 @@ React, Node, MongoDB/Mongoose, Chrome, multiple APIs, Chart JS, Bootstrap, Passp
 ## Team Member Responsibilities
 
 Ramon - Back-End/Database
-Ehson - Project Management 
+Ehson - Project Management
 Tolu- Research
 Mina - Front-End
 
