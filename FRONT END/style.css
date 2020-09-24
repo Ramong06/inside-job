@@ -1,5 +1,16 @@
 a {
   color: #f6f6f2 !important;
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  background: #f6f6f2;
+}
+
+h2 {
+  text-align: center;
+  color: #388087;
+  font-family: "Roboto", sans-serif;
 }
 
 .navbar {
@@ -54,4 +65,13 @@ a {
 .hoverable:focus:before {
   opacity: 1;
   transform: translateY(-5px);
+}
+
+.card {
+  background: transparent;
+  margin-top: 3vh;
+}
+
+.card-link {
+  color: black;
 }

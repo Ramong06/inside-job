@@ -1,0 +1,137 @@
+body {
+  font-family: "small arial", sans-serif;
+}
+
+.wrap {
+  min-width: 800px;
+}
+
+li {
+  margin: 0;
+  list-style: none;
+  display: inline;
+}
+
+a {
+  text-decoration: none;
+  font-size: 13px;
+  line-height: 24px;
+  color: #404040;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/*HEADER*/
+
+header {
+  overflow: hidden;
+}
+
+header ul {
+  margin-right: 5px;
+  letter-spacing: 1px;
+}
+
+header ul li {
+  margin-right: 14px;
+}
+
+header ul li a:hover {
+  color: black;
+}
+
+.apps:hover {
+  cursor: default;
+  color: black;
+}
+
+.button {
+  background: #4683ea;
+  box-sizing: border-box;
+  padding: 0.5em 0.75em;
+  line-height: 28px;
+  letter-spacing: normal;
+}
+
+.button a {
+  color: white;
+  font-weight: bold;
+}
+
+.button a:hover {
+  text-decoration: none;
+  cursor: default;
+  color: white;
+}
+
+/*Main Content*/
+
+.main {
+  clear: both;
+  width: 100%;
+}
+
+.main img {
+  display: block;
+  margin: auto;
+  height: 95px;
+  padding-top: 112px;
+}
+
+form {
+  text-align: center;
+}
+
+#searchbox {
+  font-size: 16px;
+  height: 26px;
+  width: 600px;
+  margin-top: 30px;
+}
+
+.submit {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  background: #ededed;
+  font-weight: bold;
+  height: 29px;
+  line-height: 29px;
+  margin: 16px 8px;
+  color: #444;
+}
+
+.submit:hover {
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  color: black;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);
+}
+
+/*Footer*/
+
+footer {
+  overflow: auto;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  min-width: 800px;
+  height: 40px;
+  background: #ededed;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  padding-bottom: 15px;
+}
+
+footer a {
+  margin-right: 30px;
+  letter-spacing: 1px;
+}
+
+footer .left {
+  float: left;
+}
+
+footer .right,
+header ul {
+  float: right;
+}

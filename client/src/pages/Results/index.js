@@ -7,15 +7,17 @@ function Results({ searchData, handleSearchResults }) {
     <React.Fragment>
       <SearchForm handleSearchResults={handleSearchResults} />
       {searchData.length ? (
-        <div>
-          <ul>
-            {searchData.map((company) => {
-              <Link to={"company/" + company.symbol}>
-                <li>{company.name}</li>
-              </Link>;
-            })}
-          </ul>
-        </div>
+        <ul>
+        {searchData.map(company => (
+          <li key={company.symbol}>
+            <Link to={"/company/" + company.symbol}>
+              <strong>
+                {company.name}
+              </strong>
+            </Link>
+          </li>
+        ))}
+        </ul>
       ) : (
         <div>No Results</div>
       )}
