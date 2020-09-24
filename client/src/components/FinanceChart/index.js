@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import API from "../../utils/FinanceAPI";
 
-function FinanceChart(props) {
+function FinanceChart({ticker}) {
     const [companyName, setCompany] = useState("");
     const [ticker, setTicker] = useState("");
 
