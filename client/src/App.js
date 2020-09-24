@@ -25,7 +25,6 @@ function App() {
 
   return (
     <Router>
-      <Navbar />
       <Route exact path="/">
         <Home handleSearchResults={handleSearchResults} />
       </Route>
