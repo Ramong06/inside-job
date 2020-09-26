@@ -4,9 +4,9 @@ import API from "../../utils/FinanceAPI";
 import SearchForm from "../../components/SearchForm";
 import Navbar from "../../components/Navbar";
 import ResultsCard from "../../components/ResultsCard";
+import { Container } from "react-bootstrap";
 
 function Results({ searchData, handleSearchResults }) {
-
   console.log(searchData);
   return (
     <React.Fragment>
