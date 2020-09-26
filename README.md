@@ -2,6 +2,8 @@
 
 ## App Basics
 
+Testing out merge conflicts
+
 ## What is it?
 
 Develop an app that holds information about companies that users are interested in starting a career with. The database will pull information like company bio, history, financial information, and latest news. This is going to be useful for users who need information about companies they want to interview for or want to research how to start up their own company.
