@@ -1,37 +1,81 @@
-# EmployerInsider
+# Inside Job
 
-TODO Polish readMe and upload the solution architecture
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+![MERN Stack](https://img.shields.io/badge/MERN-Stack-brightgreen)
+![Website Up](https://img.shields.io/badge/Website-Up-red)
 
-## App Basics
-
-## What is it?
+## Description: What is it?
 
 Develop an app that holds information about companies that users are interested in starting a career with. The database will pull information like company bio, history, financial information, and latest news. This is going to be useful for users who need information about companies they want to interview for or want to research how to start up their own company.
 
-## Technologies
+## Table of Contents (Optional)
 
-React, Node, MongoDB/Mongoose, Chrome, multiple APIs, Chart JS, Bootstrap, Passport
+- [Usage](#usage)
+- [Credits](#credits)
+- [Technology](#technology)
+- [Contributing](#contributing)
+- [License](#license)
+- [Future Development](#future-development)
 
-## Team Member Responsibilities
+## Usage
 
-- Ramon - Back-End/Database
-- Ehson - Project Management
-- Tolu- Research
-- Mina - Front-End
+# LiveLink
 
-## UI/UX & User Flow
+Navigate to the website [Inside Job](google.com/).
 
-- Welcome Page with Navbar
-- If users want to sign up so they can save searches there is a log in button
-- Search Bar where they can start searching for company by name
-- Once you click on a company name a sub menu will pop up with nav bar - info, history, financial info, graphs, etc.
-- Stretch Goal: filter by location and/or business category
-- Color Scheme: grey & blue & dark green & silver?
+After navigating to our website's landing page, type in the name of the company that you want to search and select the desired company from the provided results. After navigating to the company page - you will be greeted with several snapshots of the financial health, the public profile and what the insiders think of the organization.
 
-### StateVariable Flow
+## Credits
 
-SearchForm component is appended to each page. App.js holds the searchData state variable. App.js also has the handleSearchResults function which sets searchData to the searchData parameter that is passed into it, and uses the history context to push that searchData state variable to the /results page. Now the App.js takes the handleSearchResults prop and drills it down to the SearchForm component where it is actually used. When the SearchForm is submitted, handleSearchResults is called and accepts the results of the API call as a parameter (searchData). HandleSearchResults takes the searchData parameter, assigns it to the searchData state variable in App.js, and we're back to the start of the explanation.
+List of collaborators
 
-### Tolu's Todos
+- [Tolu Alimi](https://github.com/ta05)
+- [Ramon Garza III](https://github.com/Ramong06)
+- [Mina Ghaffar](https://github.com/mghaffar89)
+- [Ehson Raza](https://github.com/ehsonraza1)
 
-Find a way to pass both the company data from the companys.json and financial modeling api call (now profile.json) to the stateVariable in App.js to be used on the Company page. Right now the user types in a company name, whcih may find a match in the API, company database or both. If it exists in just the api or in both, the ticker should be used to pull info. If it only exists in the company database, then a different id must be used to pull company information.
+## Technology
+
+- [React.js](https://reactjs.org/)
+- [Node.js](https://nodejs.org/en/)
+- [MongoDB](https://docs.mongodb.com/drivers/node/)
+- [mongo import](https://docs.mongodb.com/manual/reference/program/mongoimport/)
+- [BootStrap 4](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+- [Chart.js](https://www.chartjs.org/)
+- [Axios](https://www.npmjs.com/package/axios)
+- [Financial Modeling Prep API](https://financialmodelingprep.com/developer)
+- [News API](https://newsapi.org/docs/get-started)
+
+## Contributing
+
+This application is for educational purposes, please refer to the LICENSE tab, [Github Repository](https://github.com/Ramong06/project3) and dev-team's contact information with regards to collaboration for future development.
+
+## License
+
+MIT License ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+
+Copyright (c) 2020 Malcolm Barnes, Ehson Raza, Elizabeth Sosa, Nicholas Foreman
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+## Future Development
+
+#### Login Security
+
+Any future future team working building on this code base will need to implement OAuth authorization and will need to configure security around logins and user-profile for Business Owners, that restricts their edit access to their business page.
