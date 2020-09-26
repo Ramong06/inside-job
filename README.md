@@ -1,5 +1,7 @@
 # EmployerInsider
 
+TODO Polish readMe and upload the solution architecture
+
 ## App Basics
 
 ## What is it?
