@@ -9,7 +9,7 @@ function Foot() {
         <div className="fixed-bottom" id="footer">  
             <Navbar color="dark" dark>
                 <Container>
-                    <NavbarBrand>Footer</NavbarBrand>
+                    <NavbarBrand><span className="copyright d-none d-sm-block" id="navBrand"> © Ehson Raza, Mariam Ghaffar, Tolu Alimi, Ramon Garza III 2020</span></NavbarBrand>
                 </Container>
             </Navbar>
         </div>

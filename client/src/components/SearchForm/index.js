@@ -24,7 +24,7 @@ function SearchForm({ handleSearchResults }) {
 
   return (
     <div className="form">
-      <input
+      <input 
         value={search}
         onChange={handleInputChange}
         name="results"
