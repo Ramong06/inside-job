@@ -6,6 +6,7 @@ import API from "../../utils/FinanceAPI";
 function Home({ handleSearchResults }) {
   return (
     <div>
+      <Navbar />
       <SearchForm handleSearchResults={handleSearchResults} />
     </div>
   );
