@@ -20,3 +20,10 @@ form {
   width: 600px;
   margin-top: 30px;
 }
+.Searchbutton {
+  background: #4683ea;
+  box-sizing: border-box;
+  padding: 0.5em 0.75em;
+  line-height: 28px;
+  letter-spacing: normal;
+}

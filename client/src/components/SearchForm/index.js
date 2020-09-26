@@ -23,14 +23,18 @@ function SearchForm({ handleSearchResults }) {
   };
 
   return (
-    <div className="form">
-      <input
-        value={search}
-        onChange={handleInputChange}
-        name="results"
-        className="searchbox"
-      />
-      <button onClick={handleFormSubmit}>Submit</button>
+    <div className="container">
+      <div className="form">
+        <input
+          value={search}
+          onChange={handleInputChange}
+          name="results"
+          className="searchbox"
+        />
+        <button className="Searchbutton" onClick={handleFormSubmit}>
+          Search
+        </button>
+      </div>
     </div>
   );
 }
