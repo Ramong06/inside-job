@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import API from "../../utils/FinanceAPI";
 import { useHistory } from "react-router-dom";
+import "./index.css";
 
 function SearchForm({ handleSearchResults }) {
   const [search, setSearch] = useState("");
@@ -22,12 +23,12 @@ function SearchForm({ handleSearchResults }) {
   };
 
   return (
-    <div className="form-group">
+    <div className="form">
       <input
         value={search}
         onChange={handleInputChange}
         name="results"
-        className="form-control"
+        className="searchbox"
       />
       <button onClick={handleFormSubmit}>Submit</button>
     </div>
