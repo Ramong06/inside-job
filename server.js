@@ -1,3 +1,4 @@
+require('dotenv').config();
 const express = require("express");
 const path = require("path");
 const PORT = process.env.PORT || 3001;
@@ -10,6 +11,12 @@ app.use(express.json());
 if (process.env.NODE_ENV === "production") {
     app.use(express.static("client/build"));
 }
+
+let MONGODB_URI = "mongodb+srv://ramon5406:Achilles54@project3cluster.ri0rv.mongodb.net/companies_db?retryWrites=true&w=majority"
+mongoose.connect(MONGODB_URI, {
+  useNewUrlParser: true,
+  useFindAndModify: false
+});
 
 // Define API routes here
 
