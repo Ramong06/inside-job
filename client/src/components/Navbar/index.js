@@ -1,6 +1,5 @@
 import React from "react";
 import "./style.css";
-// import { Button, Nav, FormControl, Form } from "react-bootstrap";
 
 function Navbar() {
   return (
@@ -10,7 +9,7 @@ function Navbar() {
         href="#"
         style={{ fontFamily: '"Poiret One", cursive', fontWeight: "bold" }}
       >
-        Employee Insider
+        Inside Job
       </a>
       <button
         className="navbar-toggler"
@@ -32,7 +31,7 @@ function Navbar() {
           </li>
           <li className="nav-item">
             <a className="nav-link hoverable" href="#">
-              Random{" "}
+              Results{" "}
             </a>
           </li>
           <li className="nav-item">
@@ -47,5 +46,3 @@ function Navbar() {
 }
 
 export default Navbar;
-
-//background of navbar should be #388087 with #F6F6F2 font from color scheme colors
