@@ -1,19 +1,25 @@
 import React from "react";
-import { Card } from "react-bootstrap";
 import "./style.css";
 
 function ResultsCard() {
   return (
-    <div className="card" style={{ width: "60rem" }}>
-      <div className="card-body">
-        <h5 className="card-title">Company Name</h5>
-        <p className="card-text">Company Blurb - description etc.</p>
-        <a href="#" className="card-link">
-          Link to company website
-        </a>
-        <a href="#" className="card-link" style={{ color: "black" }}>
-          Link to our company page?
-        </a>
+    <div className="row justify-content-center">
+      <div className="card mb-3" style={{ width: "540px" }}>
+        <div className="row no-gutters">
+          <div className="col-md-4">
+            <img src="./1997444.png" className="card-img" alt="company logo" />
+          </div>
+          <div className="col-md-8">
+            <div className="card-body">
+              <h5 className="card-title">Company Name</h5>
+              <p className="card-text">Description</p>
+              <p className="card-text">Ticker - Industry - Sector</p>
+              <a href="#" className="card-link">
+                Link to company website
+              </a>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   );
