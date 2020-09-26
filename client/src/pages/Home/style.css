@@ -1,16 +1,25 @@
-.container {
+.logoImg {
+  padding-top: 50px;
   width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-.main img {
+.searchBarHomePage {
+  padding-left: 75px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* .main img {
   display: block;
   margin: auto;
   height: 95px;
   padding-top: 112px;
-}
+} */ 
 
 /* .centralImg {
   width: 70%;

@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from "react";
 import SearchForm from "../../components/SearchForm";
 import Navbar from "../../components/Navbar";
+import Row from "../../components/Row";
+import Col from "../../components/Col"
 import API from "../../utils/FinanceAPI";
 import "./style.css";
 
@@ -10,9 +12,15 @@ function Home({ handleSearchResults }) {
       <Navbar />
       <div className="container">
         <Row>
-          <img src={require("./dude.jpg")} height="200px" width="400px" />
+          <Col size="md-12" className="logoImg">
+            <img src={require("./1997444.png")} height="300px" width="500px" />
+          </Col>
         </Row>
-        <SearchForm handleSearchResults={handleSearchResults} />
+        <Row>
+          <Col size="md-12" className="searchBarHomePage">
+            <SearchForm handleSearchResults={handleSearchResults} />
+          </Col>
+        </Row>
       </div>
     </div>
   );
