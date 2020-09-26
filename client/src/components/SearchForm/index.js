@@ -29,10 +29,10 @@ function SearchForm({ handleSearchResults }) {
         onChange={handleInputChange}
         name="results"
         className="searchbox"
+        placeholder="Search Company Name"
       />
       <button className="Searchbutton" onClick={handleFormSubmit}>
-        <span class="glyphicon glyphicon-name"></span>
-        Search
+        <i class="fa fa-search" id="searchIcon"></i>
       </button>
     </div>
   );
