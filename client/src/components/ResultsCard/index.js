@@ -1,18 +1,21 @@
 import React from "react";
 import { Card } from "react-bootstrap";
+import "./style.css";
 
 function ResultsCard() {
   return (
-    <Card style={{ width: "18rem" }}>
-      <Card.Body>
-        <Card.Title>Card Title</Card.Title>
-        <Card.Text>
-          Some quick example text to build on the card title and make up the
-          bulk of the card's content.
-        </Card.Text>
-        <Card.Link href="#">Card Link</Card.Link>
-      </Card.Body>
-    </Card>
+    <div className="card" style={{ width: "60rem" }}>
+      <div className="card-body">
+        <h5 className="card-title">Company Name</h5>
+        <p className="card-text">Company Blurb - description etc.</p>
+        <a href="#" className="card-link">
+          Link to company website
+        </a>
+        <a href="#" className="card-link" style={{ color: "black" }}>
+          Link to our company page?
+        </a>
+      </div>
+    </div>
   );
 }
 
