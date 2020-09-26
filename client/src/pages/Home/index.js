@@ -9,7 +9,9 @@ function Home({ handleSearchResults }) {
     <div>
       <Navbar />
       <div className="container">
-        <img src={require("./dude.jpg")} height="200px" width="400px" />
+        <Row>
+          <img src={require("./dude.jpg")} height="200px" width="400px" />
+        </Row>
         <SearchForm handleSearchResults={handleSearchResults} />
       </div>
     </div>
