@@ -75,3 +75,9 @@ h2 {
 .card-link {
   color: black !important;
 }
+
+.searchRow {
+  padding-top: 0.5vh;
+  padding-left: 800px;
+  text-align: center;
+}
