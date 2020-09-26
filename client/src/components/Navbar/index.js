@@ -1,9 +1,10 @@
 import React from "react";
-import { Button, Nav, FormControl, Form } from "react-bootstrap";
+import "./style.css";
+// import { Button, Nav, FormControl, Form } from "react-bootstrap";
 
 function Navbar() {
   return (
-    <nav className="navbar navbar-expand-lg navbar-light bg-light">
+    <nav className="navbar navbar-expand-lg navbar-light ">
       <a
         className="navbar-brand"
         href="#"
