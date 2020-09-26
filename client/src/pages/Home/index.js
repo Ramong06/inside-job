@@ -2,12 +2,14 @@ import React, { useState, useEffect } from "react";
 import SearchForm from "../../components/SearchForm";
 import Navbar from "../../components/Navbar";
 import API from "../../utils/FinanceAPI";
+import "./style.css";
 
 function Home({ handleSearchResults }) {
   return (
     <div>
       <Navbar />
-      <div class="main">
+      <div className="container">
+        <img src={require("./dude.jpg")} height="200px" width="200px" />
         <SearchForm handleSearchResults={handleSearchResults} />
       </div>
     </div>

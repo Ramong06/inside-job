@@ -1,0 +1,17 @@
+.container {
+  clear: both;
+  width: 100%;
+  justify-content: center;
+}
+
+.main img {
+  display: block;
+  margin: auto;
+  height: 95px;
+  padding-top: 112px;
+}
+
+/* .centralImg {
+  width: 70%;
+  height: 65%;
+} */
