@@ -52,7 +52,7 @@ This application is for educational purposes, please refer to the LICENSE tab, [
 
 ## License
 
-MIT License ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+MIT License 
 
 Copyright (c) 2020 Tolu Alimi, Ehson Raza, Mina Ghaffar, Ramon Garza III
 
