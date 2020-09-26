@@ -2,7 +2,6 @@ import React, { useState, useEffect } from "react";
 import SearchForm from "../../components/SearchForm";
 import { Link, useParams } from "react-router-dom";
 import API from "../../utils/FinanceAPI";
-
 import Navbar from "../../components/Navbar";
 
 function Company({ handleSearchResults }) {
@@ -14,6 +13,7 @@ function Company({ handleSearchResults }) {
   return (
     // Format Components (Chart, Article Headlines, Ratings, Description, Salary etc.)
     <div>
+      <Navbar />
       <SearchForm handleSearchResults={handleSearchResults} />
     </div>
   );
