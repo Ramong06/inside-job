@@ -1,8 +1,8 @@
 # EmployerInsider
 
-## App Basics
+TODO Polish readMe and upload the solution architecture
 
-Testing out merge conflicts
+## App Basics
 
 ## What is it?
 
