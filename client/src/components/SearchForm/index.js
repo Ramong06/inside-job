@@ -30,7 +30,10 @@ function SearchForm({ handleSearchResults }) {
         name="results"
         className="searchbox"
       />
-      <button onClick={handleFormSubmit}>Submit</button>
+      <button className="Searchbutton" onClick={handleFormSubmit}>
+        <span class="glyphicon glyphicon-name"></span>
+        Search
+      </button>
     </div>
   );
 }

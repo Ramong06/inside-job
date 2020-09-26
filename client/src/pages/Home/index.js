@@ -7,7 +7,9 @@ function Home({ handleSearchResults }) {
   return (
     <div>
       <Navbar />
-      <SearchForm handleSearchResults={handleSearchResults} />
+      <div class="main">
+        <SearchForm handleSearchResults={handleSearchResults} />
+      </div>
     </div>
   );
 }
