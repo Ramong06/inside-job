@@ -8,7 +8,7 @@
 
 Develop an app that holds information about companies that users are interested in starting a career with. The database will pull information like company bio, history, financial information, and latest news. This is going to be useful for users who need information about companies they want to interview for or want to research how to start up their own company.
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Usage](#usage)
 - [Credits](#credits)
@@ -54,7 +54,7 @@ This application is for educational purposes, please refer to the LICENSE tab, [
 
 MIT License ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-Copyright (c) 2020 Malcolm Barnes, Ehson Raza, Elizabeth Sosa, Nicholas Foreman
+Copyright (c) 2020 Tolu Alimi, Ehson Raza, Mina Ghaffar, Ramon Garza III
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
