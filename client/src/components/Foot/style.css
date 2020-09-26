@@ -1,0 +1,12 @@
+#footer {
+  position: fixed;
+  bottom: 0%;
+  width: 100%;
+  color: white !important;
+  /* background-blend-mode: hard-light; */
+  background-color: black !important;
+  /* opacity: 0.5; */
+  /* // This is in the form rgba(R,G,B,a) where a is your opacity */
+  /* // The rest of your CSS */
+  font-size: 17px;
+}
