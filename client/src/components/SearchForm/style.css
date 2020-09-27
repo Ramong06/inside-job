@@ -15,9 +15,11 @@ form {
 }
 
 .searchbox {
+  max-width: 600px;
   font-size: 16px;
   height: 26px;
-  width: 600px;
+  /* subtracting the width of the button from the with to fit the button */
+  width: calc(100% - 26px);
   margin-top: 30px;
   border-width: thick;
 }
@@ -25,7 +27,7 @@ form {
 .Searchbutton {
   border-radius: 5px;
   font-family: "Roboto", sans-serif;
+  width: 26px;
   height: 26px;
   text-align: center;
 }
-
