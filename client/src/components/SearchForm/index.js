@@ -50,7 +50,7 @@ function SearchForm({ handleSearchResults }) {
         onChange={handleInputChange}
         name="results"
         className="searchbox"
-        placeholder="Search Company Name"
+        placeholder=" Get the Inside scoop..."
       />
       <button className="Searchbutton" onClick={handleFormSubmit}>
         <i class="fa fa-search" id="searchIcon"></i>
