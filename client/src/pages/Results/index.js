@@ -11,18 +11,13 @@ function Results({ searchData, handleSearchResults }) {
   return (
     <React.Fragment>
       <Navbar />
-      <ResultsCard />
+
       <SearchForm handleSearchResults={handleSearchResults} />
       {searchData.length ? (
         <ul>
           {searchData.map((company) => (
             <li key={company.symbol}>
-              <Link to={"/company/" + company.symbol}>
-                <strong>{company.name}</strong>
-                <p>{company.symbol}</p>
-                <p>{company.industry}</p>
-                <p>{company.description}</p>
-              </Link>
+              <ResultsCard company={company} />
             </li>
           ))}
         </ul>
