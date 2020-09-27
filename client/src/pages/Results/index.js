@@ -4,6 +4,7 @@ import API from "../../utils/FinanceAPI";
 import SearchForm from "../../components/SearchForm";
 import Navbar from "../../components/Navbar";
 import ResultsCard from "../../components/ResultsCard";
+import Footer from "../../components/Footer";
 import { Container } from "react-bootstrap";
 
 function Results({ searchData, handleSearchResults }) {
@@ -11,24 +12,20 @@ function Results({ searchData, handleSearchResults }) {
   return (
     <React.Fragment>
       <Navbar />
-      <ResultsCard />
+      <h2>Results</h2>
       <SearchForm handleSearchResults={handleSearchResults} />
       {searchData.length ? (
         <ul>
           {searchData.map((company) => (
             <li key={company.symbol}>
-              <Link to={"/company/" + company.symbol}>
-                <strong>{company.name}</strong>
-                <p>{company.symbol}</p>
-                <p>{company.industry}</p>
-                <p>{company.description}</p>
-              </Link>
+              <ResultsCard company={company} />
             </li>
           ))}
         </ul>
       ) : (
         <div>No Results</div>
       )}
+      <Footer />
     </React.Fragment>
   );
 }
