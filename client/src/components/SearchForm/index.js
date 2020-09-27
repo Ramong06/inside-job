@@ -35,8 +35,7 @@ function SearchForm({ handleSearchResults }) {
           image: newCompany.data[0].image,
         }));
         setSearchData(companyList);
-        console.log(companyList);
-        debugger
+
         handleSearchResults(companyList, history);
       });
     });
