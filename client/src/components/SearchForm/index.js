@@ -21,7 +21,9 @@ function SearchForm({ handleSearchResults }) {
         throw new Error("No results found.");
       }
 
-      const companyPromises = results.data.map((company) => API.companyProfile(company.symbol));
+      const companyPromises = results.data.map((company) =>
+        API.companyProfile(company.symbol)
+      );
       Promise.all(companyPromises).then((companies) => {
         console.log(companies);
 
@@ -40,12 +42,10 @@ function SearchForm({ handleSearchResults }) {
       });
     });
   };
-    
-
 
   return (
-    <div className="form">
-      <input 
+    <div className="SearchForm form">
+      <input
         value={search}
         onChange={handleInputChange}
         name="results"
