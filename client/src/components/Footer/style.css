@@ -1,14 +1,14 @@
 .footer {
-  margin-top: 0rem;
-  padding: 1rem;
   font-family: "Roboto", sans-serif;
   font-weight: bold;
   font-size: 17px;
   color: #6fb3b8;
   background-color: transparent;
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  width: 100%;
   text-align: center;
+  position: fixed;
+  width: 100%;
+  left: 0px;
+  bottom: 0px;
+  margin-top: 1rem;
+  padding: 1rem;
 }
