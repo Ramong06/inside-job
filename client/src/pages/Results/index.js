@@ -12,7 +12,7 @@ function Results({ searchData, handleSearchResults }) {
   return (
     <React.Fragment>
       <Navbar />
-
+      <h2>Results</h2>
       <SearchForm handleSearchResults={handleSearchResults} />
       {searchData.length ? (
         <ul>
