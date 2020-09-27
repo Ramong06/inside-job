@@ -1,11 +1,37 @@
-.logoImg {
-  padding-top: 50px;
-  width: 100%;
+/* .logoImg {
+   padding-top: 50px;
+  width: 100%; 
   display: flex;
   justify-content: center;
   align-items: center;
+}  */
+.Hero {
+  background-size: 800px;
+  width: 100vw;
+  height: 200px;
+  /* background-color: blue; */
+  background-image: url(./logofinal3.png);
+  background-repeat: no-repeat;
+  background-position: center 0px;
+  position: relative;
 }
-
+/* Hook into the Selector for this page only - used for sizing and padding etc */
+.Hero .SearchForm {
+  position: absolute;
+  top: 100%;
+  width: 100%;
+  max-width: 550px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+@media (max-width: 800px) {
+  .Hero {
+    width: 90vw;
+    margin: 0 auto;
+    background-size: contain;
+  }
+}
 .searchBarHomePage {
   padding-left: 75px;
   width: 100%;
@@ -14,12 +40,13 @@
   align-items: center;
 }
 
-/* .main img {
+.logoImg {
   display: block;
   margin: auto;
   height: 95px;
-  padding-top: 112px;
-} */ 
+  padding-top: 50px;
+  padding-right: 100px;
+}
 
 /* .centralImg {
   width: 70%;
