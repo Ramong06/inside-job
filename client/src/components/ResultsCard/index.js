@@ -34,7 +34,3 @@ function ResultsCard(props) {
 }
 
 export default ResultsCard;
-
-//need to add shadwow box effect, round edges, and possibly colored header
-// box-shadow: 10px 10px 5px grey;
-//border-radius: 10px; or create a class rounded to put on the cards

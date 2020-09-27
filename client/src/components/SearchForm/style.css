@@ -15,17 +15,30 @@ form {
 }
 
 .searchbox {
+  max-width: 600px;
   font-size: 16px;
-  height: 26px;
-  width: 600px;
+  height: 40px;
+  /* subtracting the width of the button from the with to fit the button */
+  width: calc(100% - 30px);
+
+  /* height: 40px;
+  width: 600px; */
+
   margin-top: 30px;
-  border-width: thick;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px grey;
+  border-width: thin;
 }
 
 .Searchbutton {
-  border-radius: 5px;
+  border-radius: 11px;
   font-family: "Roboto", sans-serif;
-  height: 26px;
+
+  width: 30px;
+  height: 30px;
+
+  /* height: 35px;
+  width: 40px; */
+
   text-align: center;
 }
-
