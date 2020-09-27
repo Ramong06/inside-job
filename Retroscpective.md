@@ -21,3 +21,10 @@ SearchForm component is appended to each page. App.js holds the searchData state
 ### Tolu's Todos
 
 Find a way to pass both the company data from the companys.json and financial modeling api call (now profile.json) to the stateVariable in App.js to be used on the Company page. Right now the user types in a company name, whcih may find a match in the API, company database or both. If it exists in just the api or in both, the ticker should be used to pull info. If it only exists in the company database, then a different id must be used to pull company information.
+
+TODO
+Need to update the Star Rating system to display the Reviews
+
+- Change the reviews from a String to a decimal to populate the star rating symbol
+
+Add a Banner and Logo
