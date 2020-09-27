@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import SearchForm from "../../components/SearchForm";
+import FinanceChart from "../../components/FinanceChart";
 import { Link, useParams } from "react-router-dom";
 import API from "../../utils/FinanceAPI";
 import Navbar from "../../components/Navbar";
@@ -23,12 +24,13 @@ function Company({ handleSearchResults }) {
   else {
     // Call CompanyData by id
   }
-  
+
   return (
     // Format Components (Chart, Article Headlines, Ratings, Description, Salary etc.)
     <div>
       <Navbar />
       <SearchForm handleSearchResults={handleSearchResults} />
+      <FinanceChart financeData={financeData} />
     </div>
   );
 }

@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from "react";
-import API from "../../utils/FinanceAPI";
+import { Bar } from "react-chartjs-2";
 
-function FinanceChart({ticker}) {
+function FinanceChart({ data }) {
+    console.log(data);
     const [companyName, setCompany] = useState("");
     const [ticker, setTicker] = useState("");
 
