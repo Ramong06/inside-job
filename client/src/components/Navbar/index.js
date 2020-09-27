@@ -25,17 +25,17 @@ function Navbar() {
       <div className="collapse navbar-collapse" id="navbarNav">
         <ul className="navbar-nav ml-auto">
           <li className="nav-item active">
-            <a className="nav-link hoverable" href="#">
+            <a className="nav-link hoverable" href="/">
               Home <span className="sr-only">(current)</span>
             </a>
           </li>
           <li className="nav-item">
-            <a className="nav-link hoverable" href="#">
+            <a className="nav-link hoverable" href="/results">
               Results{" "}
             </a>
           </li>
           <li className="nav-item">
-            <a className="nav-link hoverable" href="#">
+            <a className="nav-link hoverable" href="/about">
               About
             </a>
           </li>
