@@ -1,5 +1,5 @@
 const router = require("express").Router();
-const profileController = require("../../controllers/profileController");
+const profileController = require("../../controllers/financialModelingController");
 
 
 router
