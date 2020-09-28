@@ -11,8 +11,12 @@ h2 {
 .card {
   background: transparent;
   margin-top: 3vh;
+  color: black !important;
+  font-family: "Roboto", sans-serif;
 }
 
 .card-link {
   color: black !important;
+  font-weight: bolder;
+  font-style: italic;
 }

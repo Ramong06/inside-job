@@ -21,7 +21,10 @@ function Results({ searchData, handleSearchResults }) {
         <ul>
           {searchData.map((company) => (
             <li key={company.symbol}>
-              <Link to={"/company/" + company.symbol}>
+              <Link
+                to={"/company/" + company.symbol}
+                style={{ color: "black" }}
+              >
                 <ResultsCard company={company} />
               </Link>
             </li>
