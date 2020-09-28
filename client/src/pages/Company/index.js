@@ -4,6 +4,7 @@ import FinanceChart from "../../components/FinanceChart";
 import { Link, useParams } from "react-router-dom";
 import API from "../../utils/FinanceAPI";
 import Navbar from "../../components/Navbar";
+import NewsCard from "../../components/NewsCard";
 import "./style.css";
 
 function Company({ handleSearchResults }) {
@@ -33,6 +34,9 @@ function Company({ handleSearchResults }) {
         <SearchForm handleSearchResults={handleSearchResults} />
       </div>
       <FinanceChart financeData={financeData} />
+      <NewsCard />
+
+      <Footer />
     </div>
   );
 }
