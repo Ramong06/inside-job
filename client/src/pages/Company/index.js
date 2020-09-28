@@ -53,7 +53,7 @@ function Company({ handleSearchResults }) {
       </div>
       <FinanceChart financeData={financeData} />
       <NewsCard />
-
+      <CompanyCard company={company} />
       <Footer />
     </div>
   );
