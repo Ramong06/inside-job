@@ -4,11 +4,11 @@ import { Bar } from "react-chartjs-2";
 function FinanceChart({ financeData }) {
   console.log(financeData);
   
-  const X_LABELS = financeData.map(statement =>
+  const X_LABELS = financeData.map((statement) =>
     statement.date.splice(0, 4) + statement.period
   ).reverse();
 
-  const DATA = financeData.map(statement =>
+  const DATA = financeData.map((statement) =>
     statement.grossProfit
   ).reverse();
 
