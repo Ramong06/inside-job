@@ -5,6 +5,7 @@ import { Link, useParams } from "react-router-dom";
 import API from "../../utils/API";
 import Navbar from "../../components/Navbar";
 import NewsCard from "../../components/NewsCard";
+import CompanyCard from "../../components/CompanyCard";
 import Footer from "../../components/Footer";
 import "./style.css";
 
@@ -21,24 +22,24 @@ function Company({ handleSearchResults }) {
 
   // If we have the ticker symbol for the company then call the financial modeling APIs and look up company by ids in database
   if (!(ticker.length > 16)) {
-    API.companyProfile(ticker).then(company => {
+    API.companyProfile(ticker).then((company) => {
       setProfile(company);
       setCompanyName(company.data[0].companyName);
-    })
-    API.incomeStatement(ticker).then(res => setFinanceData(res));
-    API.getTickerCompany(ticker).then(res => setCompanyData(res));
+    });
+    API.incomeStatement(ticker).then((res) => setFinanceData(res));
+    API.getTickerCompany(ticker).then((res) => setCompanyData(res));
   }
 
-    // Set call to CompanyData by Ticker
+  // Set call to CompanyData by Ticker
   else {
     // Call CompanyData by id
-    API.getNoTickerCompany(ticker).then(res => {
+    API.getNoTickerCompany(ticker).then((res) => {
       setCompanyData(res);
       setCompanyName(res.name);
     });
   }
 
-  API.companyHeadlines(companyName).then(res => setHeadline(res));
+  API.companyHeadlines(companyName).then((res) => setHeadline(res));
 
   return (
     // Format Components (Chart, Article Headlines, Ratings, Description, Salary etc.)
