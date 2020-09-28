@@ -3,21 +3,31 @@ import SearchForm from "../../components/SearchForm";
 import FinanceChart from "../../components/FinanceChart";
 import { Link, useParams } from "react-router-dom";
 import API from "../../utils/API";
-import Footer from "../../components/Footer";
 import Navbar from "../../components/Navbar";
 import NewsCard from "../../components/NewsCard";
 import CompanyCard from "../../components/CompanyCard";
-
+import Footer from "../../components/Footer";
 import "./style.css";
 
 function Company({ handleSearchResults }) {
   const [companyName, setCompanyName] = useState("");
   const [companyData, setCompanyData] = useState({});
-  const [financeData, setFinanceData] = useState({});
+  const [financeData, setFinanceData] = useState([]);
   const [profile, setProfile] = useState({});
   const [headline, setHeadline] = useState(null);
 
   const { ticker } = useParams();
+  // API.companyProfile(ticker).then((company) => {
+  //   setProfile(company);
+  // });
+  const getFinanceData = () => {
+    API.incomeStatement(ticker).then((res) => {
+      console.log("res", res);
+
+      return res;
+    });
+  };
+
   useEffect(() => {
     // Call APIs and retrieve company information from the databases
 
@@ -27,9 +37,11 @@ function Company({ handleSearchResults }) {
         setProfile(company);
         setCompanyName(company.data[0].companyName);
         console.log("API.companyProfile(ticker).then((company) => {");
+        console.log("profile", profile);
+        console.log("com", companyName);
       });
       API.incomeStatement(ticker).then((res) => setFinanceData(res));
-      API.getTickerCompany(ticker).then((res) => setCompanyData(res));
+      // API.getTickerCompany(ticker).then((res) => setCompanyData(res));
     }
 
     // Set call to CompanyData by Ticker
@@ -42,13 +54,12 @@ function Company({ handleSearchResults }) {
       });
     }
   }, []);
-
-  useEffect(() => {
-    API.companyHeadlines(companyName).then((res) => {
-      setHeadline(res.data.articles[0]);
-      console.log("res", res);
-    });
-  }, [companyName]);
+  // useEffect(() => {
+  //   API.companyHeadlines(companyName).then((res) => {
+  //     setHeadline(res.data.articles[0]);
+  //     console.log("res", res);
+  //   });
+  // }, [companyName]);
 
   return (
     // Format Components (Chart, Article Headlines, Ratings, Description, Salary etc.)

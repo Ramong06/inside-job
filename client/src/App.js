@@ -20,8 +20,6 @@ function App() {
   const handleSearchResults = (searchData, history) => {
     setSearchData(searchData);
 
-    debugger;
-
     history.push("results");
   };
 
@@ -39,12 +37,12 @@ function App() {
       <Route exact path="/company/:ticker">
         <Company handleSearchResults={handleSearchResults} />
       </Route>
-      <Route exact path="/About">
+      {/* <Route exact path="/About">
         <About />
-      </Route>
-      <Route exact path="/star">
+      </Route> */}
+      {/* <Route exact path="/star">
         <StarRating />
-      </Route>
+      </Route> */}
     </Router>
   );
 }
