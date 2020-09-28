@@ -1,0 +1,20 @@
+.results .SearchForm {
+  transform: translate(65%, 10%);
+}
+
+h3 {
+  text-align: center;
+  color: #388087;
+  font-weight: bolder;
+  font-family: "Roboto", sans-serif;
+}
+
+h4 {
+  font-size: 20px;
+  text-align: center;
+  padding-top: 10rem;
+}
+
+ul {
+  list-style-type: none;
+}

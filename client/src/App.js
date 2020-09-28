@@ -8,6 +8,7 @@ import {
 import Company from "./pages/Company";
 import Home from "./pages/Home";
 import Results from "./pages/Results";
+import About from "./pages/About";
 import logo from "./logo.svg";
 import "./App.css";
 import StarRating from "./components/StarRating";
@@ -37,6 +38,9 @@ function App() {
       </Route>
       <Route exact path="/company/:ticker">
         <Company handleSearchResults={handleSearchResults} />
+      </Route>
+      <Route exact path="/About">
+        <About />
       </Route>
       <Route exact path="/star">
         <StarRating />

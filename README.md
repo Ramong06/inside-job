@@ -21,7 +21,7 @@ Develop an app that holds information about companies that users are interested 
 
 # LiveLink
 
-Navigate to the website [Inside Job](google.com/).
+Navigate to the website [Inside Job](https://inside-job.herokuapp.com/).
 
 After navigating to our website's landing page, type in the name of the company that you want to search and select the desired company from the provided results. After navigating to the company page - you will be greeted with several snapshots of the financial health, the public profile and what the insiders think of the organization.
 
@@ -52,7 +52,7 @@ This application is for educational purposes, please refer to the LICENSE tab, [
 
 ## License
 
-MIT License 
+MIT License
 
 Copyright (c) 2020 Tolu Alimi, Ehson Raza, Mina Ghaffar, Ramon Garza III
 

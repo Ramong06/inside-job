@@ -4,6 +4,8 @@ import FinanceChart from "../../components/FinanceChart";
 import { Link, useParams } from "react-router-dom";
 import API from "../../utils/API";
 import Navbar from "../../components/Navbar";
+import NewsCard from "../../components/NewsCard";
+import "./style.css";
 
 function Company({ handleSearchResults }) {
   const [companyName, setCompanyName] = useState("");
@@ -15,7 +17,7 @@ function Company({ handleSearchResults }) {
   const { ticker } = useParams();
 
   // Call APIs and retrieve company information from the databases
-  
+
   // If we have the ticker symbol for the company then call the financial modeling APIs and look up company by ids in database
   if (!(ticker.length > 16)) {
     API.companyProfile(ticker).then(company => {
@@ -25,9 +27,9 @@ function Company({ handleSearchResults }) {
     API.incomeStatement(ticker).then(res => setFinanceData(res));
   }
 
+    // Set call to CompanyData by Ticker
   else {
     // Call CompanyData by id
-    API.companyData
   }
 
   API.companyHeadlines(companyName).then(res => setHeadline(res));
@@ -39,8 +41,13 @@ function Company({ handleSearchResults }) {
     // Use headlines for the Headline
     <div>
       <Navbar />
-      <SearchForm handleSearchResults={handleSearchResults} />
+      <div className="search">
+        <SearchForm handleSearchResults={handleSearchResults} />
+      </div>
       <FinanceChart financeData={financeData} />
+      <NewsCard />
+
+      <Footer />
     </div>
   );
 }
