@@ -53,10 +53,9 @@ function Company({ handleSearchResults }) {
       </div>
       <FinanceChart financeData={financeData} />
       <NewsCard />
-      <CompanyCard company={company} />
-      <Footer />
+      <CompanyCard />
     </div>
   );
 }
-
+//add company ={company} in line 56
 export default Company;

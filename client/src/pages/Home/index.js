@@ -6,7 +6,7 @@ import Col from "../../components/Col";
 import Footer from "../../components/Footer";
 
 import Container from "../../components/Container";
-import API from "../../utils/FinanceAPI";
+import API from "../../utils/API";
 import "./style.css";
 
 function Home({ handleSearchResults }) {
