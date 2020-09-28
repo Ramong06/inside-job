@@ -8,6 +8,11 @@ h2 {
   font-family: "Roboto", sans-serif;
 }
 
+h5 {
+  font-weight: bold;
+  font-size: x-large;
+}
+
 .card {
   background: transparent;
   margin-top: 3vh;

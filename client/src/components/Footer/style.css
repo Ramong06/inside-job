@@ -3,12 +3,14 @@
   font-weight: bold;
   font-size: 17px;
   color: #6fb3b8;
-  background-color: transparent;
+  background-color: #f6f6f2;
   text-align: center;
   position: fixed;
   width: 100%;
   left: 0px;
   bottom: 0px;
-  margin-top: 1rem;
-  padding: 1rem;
+  margin-top: 0rem;
+  margin-bottom: orem;
+  padding: 0rem;
+  height: 40px;
 }
