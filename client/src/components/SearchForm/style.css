@@ -20,25 +20,28 @@ form {
   height: 40px;
   /* subtracting the width of the button from the with to fit the button */
   width: calc(100% - 30px);
+  outline: none;
 
   /* height: 40px;
   width: 600px; */
 
   margin-top: 30px;
-  border-radius: 20px;
+  border-radius: 20px 0 0 20px;
   box-shadow: 5px 5px 5px grey;
   border-width: thin;
 }
 
 .Searchbutton {
-  border-radius: 11px;
+  border-radius: 0 20px 20px 0;
   font-family: "Roboto", sans-serif;
 
   width: 30px;
-  height: 30px;
-
+  height: 41px;
+  border-width: thin;
+  box-shadow: 5px 5px 5px grey;
   /* height: 35px;
   width: 40px; */
 
   text-align: center;
+  outline: none !important;
 }
