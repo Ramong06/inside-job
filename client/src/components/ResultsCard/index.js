@@ -2,7 +2,7 @@ import React from "react";
 import "./style.css";
 
 function ResultsCard(props) {
-  console.log(props);
+  let description = props.company.description.length > 250 ? props.company.description + "..." : props.company.description;
   return (
     <div className="row justify-content-center">
       <div className="card mb-3" style={{ width: "540px" }}>
@@ -17,7 +17,7 @@ function ResultsCard(props) {
           <div className="col-md-8">
             <div className="card-body">
               <h5 className="card-title">{props.company.name}</h5>
-              <p className="card-text">{props.company.description}</p>
+              <p className="card-text">{description}</p>
               <p className="card-text">
                 {props.company.symbol} - {props.company.industry} -{" "}
                 {props.company.sector}
