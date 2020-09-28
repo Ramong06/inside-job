@@ -14,45 +14,52 @@ function Company({ handleSearchResults }) {
   const [companyData, setCompanyData] = useState({});
   const [financeData, setFinanceData] = useState({});
   const [profile, setProfile] = useState({});
-  const [headline, setHeadline] = useState({});
+  const [headline, setHeadline] = useState(null);
 
   const { ticker } = useParams();
+  useEffect(() => {
+    // Call APIs and retrieve company information from the databases
 
-  // Call APIs and retrieve company information from the databases
+    // If we have the ticker symbol for the company then call the financial modeling APIs and look up company by ids in database
+    if (!(ticker.length > 16)) {
+      API.companyProfile(ticker).then((company) => {
+        setProfile(company);
+        setCompanyName(company.data[0].companyName);
+        console.log("API.companyProfile(ticker).then((company) => {");
+      });
+      API.incomeStatement(ticker).then((res) => setFinanceData(res));
+      API.getTickerCompany(ticker).then((res) => setCompanyData(res));
+    }
 
-  // If we have the ticker symbol for the company then call the financial modeling APIs and look up company by ids in database
-  if (!(ticker.length > 16)) {
-    API.companyProfile(ticker).then((company) => {
-      setProfile(company);
-      setCompanyName(company.data[0].companyName);
+    // Set call to CompanyData by Ticker
+    else {
+      // Call CompanyData by id
+      API.getNoTickerCompany(ticker).then((res) => {
+        setCompanyData(res);
+        setCompanyName(res.name);
+        console.log("API.getNoTickerCompany(ticker).then((res) => {");
+      });
+    }
+  }, []);
+  useEffect(() => {
+    API.companyHeadlines(companyName).then((res) => {
+      setHeadline(res.data.articles[0]);
+      console.log("res", res);
     });
-    API.incomeStatement(ticker).then((res) => setFinanceData(res));
-    API.getTickerCompany(ticker).then((res) => setCompanyData(res));
-  }
-
-  // Set call to CompanyData by Ticker
-  else {
-    // Call CompanyData by id
-    API.getNoTickerCompany(ticker).then((res) => {
-      setCompanyData(res);
-      setCompanyName(res.name);
-    });
-  }
-
-  API.companyHeadlines(companyName).then((res) => setHeadline(res));
+  }, [companyName]);
 
   return (
     // Format Components (Chart, Article Headlines, Ratings, Description, Salary etc.)
     // Use profile for the Company Profile from the Finance API
     // Use companyData for the reviews, salary etc.
     // Use headlines for the Headline
-    <div>
+    <div className="Company">
       <Navbar />
       <div className="search">
         <SearchForm handleSearchResults={handleSearchResults} />
       </div>
       <FinanceChart financeData={financeData} />
-      <NewsCard />
+      {headline && <NewsCard headline={headline} />}
       <CompanyCard />
     </div>
   );
