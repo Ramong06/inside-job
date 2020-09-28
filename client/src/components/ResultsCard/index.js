@@ -2,7 +2,7 @@ import React from "react";
 import "./style.css";
 
 function ResultsCard(props) {
-  console.log(props);
+  let description = props.company.description.length > 250 ? props.company.description + "..." : props.company.description;
   return (
     <div className="row justify-content-center">
       <div className="card mb-3" style={{ width: "540px" }}>

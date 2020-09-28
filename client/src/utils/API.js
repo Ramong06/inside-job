@@ -17,10 +17,10 @@ const companyProfile = function (query) {
 };
 
 const incomeStatement = function (ticker) {
-  return axios.get(
-    `https://financialmodelingprep.com/api/v3/income-statement-as-reported/${ticker}?period=quarter&apikey=${FinanceAPIKey}`
-  );
-};
+    return axios.get(
+        `https://financialmodelingprep.com/api/v3/income-statement/${ticker}?period=quarter&limit=20&apikey=${FinanceAPIKey}`
+    );
+}
 
 const companyHeadlines = function (query) {
   return axios.get(

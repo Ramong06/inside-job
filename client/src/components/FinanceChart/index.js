@@ -2,29 +2,34 @@ import React, { useState, useEffect } from "react";
 import { Bar } from "react-chartjs-2";
 
 function FinanceChart({ financeData }) {
-    console.log(financeData);
-    
-    const [companyName, setCompany] = useState("");
-    const [ticker, setTicker] = useState("");
+  console.log(financeData);
+  
+  const X_LABELS = financeData.map(statement =>
+    statement.date.splice(0, 4) + statement.period
+  ).reverse();
+
+  const DATA = financeData.map(statement =>
+    statement.grossProfit
+  ).reverse();
 
     const data = {
-        labels: ['January', 'February', 'March', 'April', 'May', 'June', 'July'],
+        labels: X_LABELS,
         datasets: [
           {
-            label: 'My First dataset',
+            label: 'Net Revenue',
             backgroundColor: 'rgba(255,99,132,0.2)',
             borderColor: 'rgba(255,99,132,1)',
             borderWidth: 1,
             hoverBackgroundColor: 'rgba(255,99,132,0.4)',
             hoverBorderColor: 'rgba(255,99,132,1)',
-            data: [65, 59, 80, 81, 56, 55, 40]
+            data: DATA
           }
         ]
       };
 
     return (
         <div>
-              <h2>Bar Example (custom size)</h2>
+              <h2>{financeData.data[0].symbol}</h2>
               <Bar
                 data={data}
                 width={100}
