@@ -15,7 +15,7 @@ function Company({ handleSearchResults }) {
   // Call APIs and retrieve company information from the databases
   
   // If we have the ticker symbol for the company then call the financial modeling APIs and look up company by ids in database
-  if (!(ticker[0] >= "0" && ticker[0] <= "9")) {
+  if (!(ticker.length > 16)) {
     API.companyProfile(ticker).then(res => setProfile(res));
     API.incomeStatement(ticker).then(res => setFinanceData(res));
 
