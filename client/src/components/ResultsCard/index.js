@@ -17,15 +17,19 @@ function ResultsCard(props) {
           <div className="col-md-8">
             <div className="card-body">
               <h5 className="card-title">{props.company.name}</h5>
-              <p className="card-text">{description}</p>
-              <p className="card-text">
-                {props.company.symbol} - {props.company.industry} -{" "}
-                {props.company.sector}
-              </p>
-              <a href={props.company.website} className="card-link">
-                Website
-              </a>
             </div>
+          </div>
+          <div className="col-md-12">
+            <p className="card-text">
+              {props.company.description.substring(0, 300) + " ..."}
+            </p>
+            <p className="card-text">
+              {props.company.symbol} - {props.company.industry} -{" "}
+              {props.company.sector}
+            </p>
+            <a href={props.company.website} className="card-link">
+              Website
+            </a>
           </div>
         </div>
       </div>
@@ -34,3 +38,7 @@ function ResultsCard(props) {
 }
 
 export default ResultsCard;
+
+// var snippetText = {props.company.description};
+//        if (snippetText.length > 200) {
+//          snippetText = snippetText.slice(0, 200);}
