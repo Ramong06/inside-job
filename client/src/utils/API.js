@@ -28,4 +28,12 @@ const companyHeadlines = function (query) {
     );
 };
 
-export default { tickerSearch, companyProfile, incomeStatement, companyHeadlines };
+const getTickerCompany = function (ticker) {
+    return axios.get("/api/tickercompany/" + ticker);
+}
+
+const getNoTickerCompany = function (id) {
+    return axios.get("/api/notickercompany/" + id);
+}
+
+export default { tickerSearch, companyProfile, incomeStatement, companyHeadlines, getTickerCompany, getNoTickerCompany };

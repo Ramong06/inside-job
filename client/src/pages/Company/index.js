@@ -25,11 +25,16 @@ function Company({ handleSearchResults }) {
       setCompanyName(company.data[0].companyName);
     })
     API.incomeStatement(ticker).then(res => setFinanceData(res));
+    API.getTickerCompany(ticker).then(res => setCompanyData(res));
   }
 
     // Set call to CompanyData by Ticker
   else {
     // Call CompanyData by id
+    API.getNoTickerCompany(ticker).then(res => {
+      setCompanyData(res);
+      setCompanyName(res.name);
+    });
   }
 
   API.companyHeadlines(companyName).then(res => setHeadline(res));
