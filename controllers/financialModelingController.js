@@ -5,7 +5,7 @@ module.exports = {
   //TODO Need to add FindAll
   //Grabs the Salary info from the Mongoose model using the ticker -> Returns and Object
 
-   companyProfile: function(req, res) {
+  companyProfile: function(req, res) {
     const query = req;
     axios
       .get(`https://financialmodelingprep.com/api/v3/profile/${query}?apikey=${REACT_APP_FINANCE_API_KEY}`)
@@ -20,7 +20,7 @@ module.exports = {
           image: newCompany.data[0].image,
         }))
       )
-      .then(companies => res.json(companies))
+      .then(company => res.json(company))
       .catch(err => res.status(422).json(err));
   },
   incomeStatement: function (req, res) {

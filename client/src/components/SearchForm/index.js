@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import API from "../../utils/FinanceAPI";
+import API from "../../utils/API";
 import { useHistory } from "react-router-dom";
 import "./style.css";
 
