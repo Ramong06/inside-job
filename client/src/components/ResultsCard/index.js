@@ -34,3 +34,7 @@ function ResultsCard(props) {
 }
 
 export default ResultsCard;
+
+// var snippetText = {props.company.description};
+//        if (snippetText.length > 200) {
+//          snippetText = snippetText.slice(0, 200);}

@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
-import API from "../../utils/FinanceAPI";
+import API from "../../utils/API";
 import SearchForm from "../../components/SearchForm";
 import Navbar from "../../components/Navbar";
 import ResultsCard from "../../components/ResultsCard";
