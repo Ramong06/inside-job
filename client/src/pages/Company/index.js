@@ -5,6 +5,7 @@ import { Link, useParams } from "react-router-dom";
 import API from "../../utils/FinanceAPI";
 import Navbar from "../../components/Navbar";
 import NewsCard from "../../components/NewsCard";
+import Footer from "../../components/Footer";
 import "./style.css";
 
 function Company({ handleSearchResults }) {
