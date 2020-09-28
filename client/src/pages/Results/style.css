@@ -14,3 +14,7 @@ h4 {
   text-align: center;
   padding-top: 10rem;
 }
+
+ul {
+  list-style-type: none;
+}
