@@ -5,19 +5,19 @@ module.exports = {
   //TODO Need to add FindAll
   //Grabs the Salary info from the Mongoose model using the ticker -> Returns and Object
   findByTicker: function (req, res) {
-    db.Salary.findOne({ ticker: req.params.ticker })
+    db.Company.findOne({ ticker: req.params.ticker })
       .then((dbModel) => res.json(dbModel))
       .catch((err) => res.status(422).json(err));
   },
 
   findById: function (req, res) {
-    db.Salary.findOne({ id: req.params.ticker })
+    db.Company.findOne({ id: req.params.ticker })
       .then((dbModel) => res.json(dbModel))
       .catch((err) => res.status(422).json(err));
   },
 
-   findAll: function(req, res) {
-    db.Salary.find(req.query)
+  findAll: function(req, res) {
+    db.Company.find(req.query)
       .then(dbModel => res.json(dbModel))
       .catch(err => res.status(422).json(err));
 
