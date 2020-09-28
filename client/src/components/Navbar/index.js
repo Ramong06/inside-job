@@ -30,11 +30,6 @@ function Navbar() {
             </a>
           </li>
           <li className="nav-item">
-            <a className="nav-link hoverable" href="/results">
-              Results{" "}
-            </a>
-          </li>
-          <li className="nav-item">
             <a className="nav-link hoverable" href="/about">
               About
             </a>
