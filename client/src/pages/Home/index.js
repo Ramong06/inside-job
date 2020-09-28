@@ -17,7 +17,6 @@ function Home({ handleSearchResults }) {
         <Row>
           <Col size="md-12" className="logoImg">
 
-           
             <img src={require("./logofinal2.png")} width="150%" />
           </Col>
         </Row>

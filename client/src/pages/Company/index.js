@@ -3,6 +3,7 @@ import SearchForm from "../../components/SearchForm";
 import FinanceChart from "../../components/FinanceChart";
 import { Link, useParams } from "react-router-dom";
 import API from "../../utils/API";
+import Footer from "../../components/Footer";
 import Navbar from "../../components/Navbar";
 import NewsCard from "../../components/NewsCard";
 import CompanyCard from "../../components/CompanyCard";
@@ -19,6 +20,7 @@ function Company({ handleSearchResults }) {
   const { ticker } = useParams();
   useEffect(() => {
     // Call APIs and retrieve company information from the databases
+
 
     // If we have the ticker symbol for the company then call the financial modeling APIs and look up company by ids in database
     if (!(ticker.length > 16)) {
@@ -41,6 +43,7 @@ function Company({ handleSearchResults }) {
       });
     }
   }, []);
+  
   useEffect(() => {
     API.companyHeadlines(companyName).then((res) => {
       setHeadline(res.data.articles[0]);
