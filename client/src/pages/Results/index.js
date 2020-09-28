@@ -30,7 +30,6 @@ function Results({ searchData, handleSearchResults }) {
       ) : (
         <h4>No Results</h4>
       )}
-      <Footer />
     </React.Fragment>
   );
 }
