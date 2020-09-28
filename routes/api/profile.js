@@ -3,8 +3,7 @@ const profileController = require("../../controllers/profileController");
 
 
 router
-  .route("/:id")
-    .get(profileController.findById)
-    .get(profileController.findByTicker)
+  .route("/:name")
+  .get(profileController.findAll)
 
 module.exports = router;
