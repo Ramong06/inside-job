@@ -1,22 +1,19 @@
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
-import API from "../../utils/FinanceAPI";
+import API from "../../utils/API";
 import SearchForm from "../../components/SearchForm";
 import Navbar from "../../components/Navbar";
 import ResultsCard from "../../components/ResultsCard";
 import Footer from "../../components/Footer";
 import { Container } from "react-bootstrap";
-import "./style.css";
 
 function Results({ searchData, handleSearchResults }) {
   console.log(searchData);
   return (
     <React.Fragment>
       <Navbar />
-      <h3 style={{ fontSize: "40px" }}>Results</h3>
-      <div className="results">
-        <SearchForm handleSearchResults={handleSearchResults} />
-      </div>
+      <h2>Results</h2>
+      <SearchForm handleSearchResults={handleSearchResults} />
       {searchData.length ? (
         <ul>
           {searchData.map((company) => (
@@ -28,7 +25,7 @@ function Results({ searchData, handleSearchResults }) {
           ))}
         </ul>
       ) : (
-        <h4>No Results</h4>
+        <div>No Results</div>
       )}
       <Footer />
     </React.Fragment>

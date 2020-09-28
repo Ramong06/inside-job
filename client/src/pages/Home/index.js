@@ -6,7 +6,7 @@ import Col from "../../components/Col";
 import Footer from "../../components/Footer";
 
 import Container from "../../components/Container";
-import API from "../../utils/FinanceAPI";
+import API from "../../utils/API";
 import "./style.css";
 
 function Home({ handleSearchResults }) {
@@ -17,7 +17,6 @@ function Home({ handleSearchResults }) {
         <Row>
           <Col size="md-12" className="logoImg">
 
-           
             <img src={require("./logofinal2.png")} width="150%" />
           </Col>
         </Row>

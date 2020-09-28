@@ -3,6 +3,7 @@ import SearchForm from "../../components/SearchForm";
 import FinanceChart from "../../components/FinanceChart";
 import { Link, useParams } from "react-router-dom";
 import API from "../../utils/API";
+import Footer from "../../components/Footer";
 import Navbar from "../../components/Navbar";
 import NewsCard from "../../components/NewsCard";
 import "./style.css";
@@ -24,7 +25,7 @@ function Company({ handleSearchResults }) {
       setProfile(company);
       setCompanyName(company.data[0].companyName);
     })
-    API.incomeStatement(ticker).then(res => setFinanceData(res));
+    API.incomeStatement(ticker).then(res => setFinanceData(res.data));
     API.getTickerCompany(ticker).then(res => setCompanyData(res));
   }
 
