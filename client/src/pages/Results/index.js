@@ -6,14 +6,17 @@ import Navbar from "../../components/Navbar";
 import ResultsCard from "../../components/ResultsCard";
 import Footer from "../../components/Footer";
 import { Container } from "react-bootstrap";
+import "./style.css";
 
 function Results({ searchData, handleSearchResults }) {
   console.log(searchData);
   return (
     <React.Fragment>
       <Navbar />
-      <h2>Results</h2>
-      <SearchForm handleSearchResults={handleSearchResults} />
+      <h3 style={{ fontSize: "40px" }}>Results</h3>
+      <div className="results">
+        <SearchForm handleSearchResults={handleSearchResults} />
+      </div>
       {searchData.length ? (
         <ul>
           {searchData.map((company) => (
@@ -23,7 +26,7 @@ function Results({ searchData, handleSearchResults }) {
           ))}
         </ul>
       ) : (
-        <div>No Results</div>
+        <h4>No Results</h4>
       )}
       <Footer />
     </React.Fragment>
