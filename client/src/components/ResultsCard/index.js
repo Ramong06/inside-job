@@ -2,7 +2,10 @@ import React from "react";
 import "./style.css";
 
 function ResultsCard(props) {
-  let description = props.company.description.length > 250 ? props.company.description + "..." : props.company.description;
+  let description =
+    props.company.description.length > 250
+      ? props.company.description + "..."
+      : props.company.description;
   return (
     <div className="row justify-content-center">
       <div className="card mb-3" style={{ width: "540px" }}>
@@ -12,6 +15,7 @@ function ResultsCard(props) {
               src={props.company.image}
               className="card-img"
               alt="company logo"
+              style={{ maxWidth: "100px" }}
             />
           </div>
           <div className="col-md-8">

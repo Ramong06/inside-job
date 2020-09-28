@@ -7,7 +7,7 @@ import Footer from "../../components/Footer";
 import Navbar from "../../components/Navbar";
 import NewsCard from "../../components/NewsCard";
 import CompanyCard from "../../components/CompanyCard";
-import Footer from "../../components/Footer";
+
 import "./style.css";
 
 function Company({ handleSearchResults }) {
@@ -20,7 +20,6 @@ function Company({ handleSearchResults }) {
   const { ticker } = useParams();
   useEffect(() => {
     // Call APIs and retrieve company information from the databases
-
 
     // If we have the ticker symbol for the company then call the financial modeling APIs and look up company by ids in database
     if (!(ticker.length > 16)) {
@@ -43,7 +42,7 @@ function Company({ handleSearchResults }) {
       });
     }
   }, []);
-  
+
   useEffect(() => {
     API.companyHeadlines(companyName).then((res) => {
       setHeadline(res.data.articles[0]);
