@@ -36,7 +36,7 @@ function FinanceChart({ financeData }) {
       <Bar
         data={data}
         width={100}
-        height={50}
+        height={400}
         options={{
           maintainAspectRatio: false,
         }}
