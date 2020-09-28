@@ -18,7 +18,9 @@ function Results({ searchData, handleSearchResults }) {
         <ul>
           {searchData.map((company) => (
             <li key={company.symbol}>
-              <ResultsCard company={company} />
+              <Link to={"/company/" + company.symbol}>
+                <ResultsCard company={company} />
+              </Link>
             </li>
           ))}
         </ul>
