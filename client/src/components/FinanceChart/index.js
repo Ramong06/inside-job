@@ -1,11 +1,11 @@
 import React, { useState, useEffect } from "react";
 import { Bar } from "react-chartjs-2";
 
-function FinanceChart({ financeData }) {
-  console.log("financedata", financeData);
+function FinanceChart({ financeData, companyName }) {
   let DATA = [];
   let data = {};
   let X_LABELS = [];
+
   if (financeData && financeData.data) {
     DATA = financeData.data.map((statement) => statement.grossProfit).reverse();
     X_LABELS = financeData.data
@@ -28,16 +28,18 @@ function FinanceChart({ financeData }) {
       ],
     };
   }
+
   return (
     <div>
       {financeData && financeData.data ? (
-        <h2>{financeData.data[0].symbol}</h2>
+        <h2>{companyName}</h2>
       ) : null}
       <Bar
         // Styling for chart
         data={data}
         width={100}
         height={401}
+
         options={{
           maintainAspectRatio: false,
         }}
