@@ -36,9 +36,6 @@ function Company({ handleSearchResults }) {
       API.companyProfile(ticker).then((company) => {
         setProfile(company);
         setCompanyName(company.data[0].companyName);
-        console.log("API.companyProfile(ticker).then((company) => {");
-        console.log("profile", profile);
-        console.log("com", companyName);
       });
       API.incomeStatement(ticker).then((res) => setFinanceData(res));
       // API.getTickerCompany(ticker).then((res) => setCompanyData(res));
@@ -50,7 +47,6 @@ function Company({ handleSearchResults }) {
       API.getNoTickerCompany(ticker).then((res) => {
         setCompanyData(res);
         setCompanyName(res.name);
-        console.log("API.getNoTickerCompany(ticker).then((res) => {");
       });
     }
   }, []);
@@ -73,9 +69,9 @@ function Company({ handleSearchResults }) {
       </div>
       <FinanceChart financeData={financeData} />
       {headline && <NewsCard headline={headline} />}
-      <CompanyCard />
+      <CompanyCard profile={profile}/>
     </div>
   );
 }
-//add company ={company} in line 56
+
 export default Company;
