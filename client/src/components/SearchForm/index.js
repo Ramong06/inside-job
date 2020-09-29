@@ -25,7 +25,6 @@ function SearchForm({ handleSearchResults }) {
         API.companyProfile(company.symbol)
       );
       Promise.all(companyPromises).then((companies) => {
-        console.log(companies);
 
         const companyList = companies.map((newCompany) => ({
           name: newCompany.data[0].companyName,
