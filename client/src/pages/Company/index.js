@@ -67,7 +67,7 @@ function Company({ handleSearchResults }) {
       <div className="search">
         <SearchForm handleSearchResults={handleSearchResults} />
       </div>
-      <FinanceChart financeData={financeData} />
+      <FinanceChart financeData={financeData} companyName={companyName}/>
       {headline && <NewsCard headline={headline} />}
       <CompanyCard profile={profile}/>
     </div>
