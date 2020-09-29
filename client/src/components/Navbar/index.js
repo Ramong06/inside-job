@@ -6,7 +6,7 @@ function Navbar() {
     <nav className="navbar navbar-expand-lg navbar-light ">
       <a
         className="navbar-brand"
-        href="#"
+        href="/"
         style={{ fontFamily: '"Poiret One", cursive', fontWeight: "bold" }}
       >
         Inside Job
