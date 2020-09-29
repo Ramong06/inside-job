@@ -34,6 +34,7 @@ function FinanceChart({ financeData }) {
         <h2>{financeData.data[0].symbol}</h2>
       ) : null}
       <Bar
+        // Styling for chart
         data={data}
         width={100}
         height={400}
