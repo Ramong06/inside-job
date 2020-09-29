@@ -2,7 +2,7 @@ import React from "react";
 import "./style.css";
 
 function CompanyCard({profile}) {
-  return ( 
+  return (profile.length ? 
     <div className="row justify-content-center">
       <div className="col col-lg-8">
         <div className="card-group">
@@ -19,7 +19,7 @@ function CompanyCard({profile}) {
           </div>
         </div>
       </div>
-    </div>
+    </div> : <div></div>
   );
 }
 
