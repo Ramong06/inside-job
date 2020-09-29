@@ -38,7 +38,8 @@ function FinanceChart({ financeData, companyName }) {
         // Styling for chart
         data={data}
         width={100}
-        height={320}
+        height={401}
+
         options={{
           maintainAspectRatio: false,
         }}
