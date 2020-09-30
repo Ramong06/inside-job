@@ -15,18 +15,18 @@ function Company({ handleSearchResults }) {
   const [financeData, setFinanceData] = useState([]);
   const [profile, setProfile] = useState({});
   const [headline, setHeadline] = useState(null);
+  const [selectItem, setSelectItem] = useState(0);
 
   const { ticker } = useParams();
-  // API.companyProfile(ticker).then((company) => {
-  //   setProfile(company);
-  // });
-  const getFinanceData = () => {
-    API.incomeStatement(ticker).then((res) => {
-      console.log("res", res);
 
-      return res;
-    });
-  };
+  const chartList = [
+    {}
+  ];
+
+  const handleSelectChange = (event) => {
+    setSelectItem(event.target.value);
+  }
+
 
   useEffect(() => {
     // Call APIs and retrieve company information from the databases
@@ -67,7 +67,7 @@ function Company({ handleSearchResults }) {
       <div className="search">
         <SearchForm handleSearchResults={handleSearchResults} />
       </div>
-      <FinanceChart financeData={financeData} companyName={companyName}/>
+      <FinanceChart selectItem={selectItem} financeData={financeData} companyName={companyName}/>
       {headline && <NewsCard headline={headline} />}
       <CompanyCard profile={profile}/>
     </div>
