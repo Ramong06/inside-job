@@ -1,3 +1,4 @@
 module.exports = {
-    Salary: require("./salary")
+    Company: require("./company"),
+    Profile: require("./profile")
 };

@@ -21,6 +21,7 @@ function App() {
     setSearchData(searchData);
 
     history.push("/results");
+    // return <Redirect push to='/results' />
   };
 
   return (
