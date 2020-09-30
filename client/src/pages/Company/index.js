@@ -57,6 +57,7 @@ function Company({ handleSearchResults }) {
       });
     }
   }, []);
+  
   // useEffect(() => {
   //   API.companyHeadlines(companyName).then((res) => {
   //     setHeadline(res.data.articles[0]);
