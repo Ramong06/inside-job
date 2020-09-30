@@ -20,7 +20,7 @@ function App() {
   const handleSearchResults = (searchData, history) => {
     setSearchData(searchData);
 
-    history.push("/results");
+    history.push("results");
   };
 
   return (
