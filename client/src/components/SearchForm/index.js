@@ -54,7 +54,7 @@ function SearchForm({ handleSearchResults }) {
         placeholder=" Get the Inside scoop..."
       />
       <button className="Searchbutton" onClick={handleFormSubmit}>
-        <i class="fa fa-search" id="searchIcon"></i>
+        <i className="fa fa-search" id="searchIcon"></i>
       </button>
     </div>
   );

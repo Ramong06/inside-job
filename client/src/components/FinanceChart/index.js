@@ -13,8 +13,7 @@ function FinanceChart({ chartList, financeData, companyName, selectItem }) {
     X_LABELS = financeData.data
       .map((statement) => statement.date.substring(0, 4) + statement.period)
       .reverse();
-    console.log("data", DATA);
-    console.log("x", X_LABELS);
+
     data = {
       labels: X_LABELS,
       datasets: [
