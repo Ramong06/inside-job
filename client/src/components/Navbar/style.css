@@ -7,10 +7,6 @@ a {
   margin-bottom: 10vh;
 }
 
-.navbar-collapse.in {
-  display: block !important;
-}
-
 .hoverable {
   display: inline-block;
   backface-visibility: hidden;
