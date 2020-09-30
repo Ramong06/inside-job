@@ -17,7 +17,7 @@ function FinanceChart({ financeData, companyName }) {
       labels: X_LABELS,
       datasets: [
         {
-          label: "Net Revenue",
+          label: "Gross Profit",
           backgroundColor: "rgba(255,99,132,0.2)",
           borderColor: "rgba(255,99,132,1)",
           borderWidth: 1,
