@@ -1,12 +1,13 @@
 import React, { useState, useEffect } from "react";
+import { Link, useParams } from "react-router-dom";
 import SearchForm from "../../components/SearchForm";
 import FinanceChart from "../../components/FinanceChart";
-import { Link, useParams } from "react-router-dom";
-import API from "../../utils/API";
 import Navbar from "../../components/Navbar";
 import NewsCard from "../../components/NewsCard";
 import CompanyCard from "../../components/CompanyCard";
+import SelectForm from "../../components/SelectForm";
 import Footer from "../../components/Footer";
+import API from "../../utils/API";
 import "./style.css";
 
 function Company({ handleSearchResults }) {
@@ -57,7 +58,7 @@ function Company({ handleSearchResults }) {
       });
     }
   }, []);
-  
+
   // useEffect(() => {
   //   API.companyHeadlines(companyName).then((res) => {
   //     setHeadline(res.data.articles[0]);
@@ -75,7 +76,8 @@ function Company({ handleSearchResults }) {
       <div className="search">
         <SearchForm handleSearchResults={handleSearchResults} />
       </div>
-      <FinanceChart selectItem={selectItem} financeData={financeData} companyName={companyName}/>
+      <FinanceChart chartList={chartList} selectItem={selectItem} financeData={financeData} companyName={companyName} />
+      <SelectForm itemList={chartList} handleChange={handleSelectChange} selectItem={selectItem}/>
       {headline && <NewsCard headline={headline} />}
       <CompanyCard profile={profile}/>
     </div>
