@@ -20,7 +20,14 @@ function Company({ handleSearchResults }) {
   const { ticker } = useParams();
 
   const chartList = [
-    {}
+    { item: "revenue", label: "Revenue"},
+    { item: "costOfRevenue", label: "Cost of Revenue"},
+    { item: "grossProfit", label: "Gross Profit"},
+    { item: "operatingExpenses", label: "Operating Expenses"},
+    { item: "ebitda", label: "EBITDA"},
+    { item: "operatingIncome", label: "Operating Income"},
+    { item: "incomeBeforeTax", label: "Income Before Tax"},
+    { item: "netIncome", label: "Net Income"}
   ];
 
   const handleSelectChange = (event) => {
