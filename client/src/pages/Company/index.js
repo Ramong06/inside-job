@@ -19,6 +19,10 @@ function Company({ handleSearchResults }) {
 
   const { ticker } = useParams();
 
+  const chartList = [
+    {}
+  ];
+
   const handleSelectChange = (event) => {
     setSelectItem(event.target.value);
   }
