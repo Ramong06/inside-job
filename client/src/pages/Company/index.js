@@ -15,7 +15,7 @@ function Company({ handleSearchResults }) {
   const [companyData, setCompanyData] = useState({});
   const [financeData, setFinanceData] = useState([]);
   const [profile, setProfile] = useState({});
-  const [headline, setHeadline] = useState(null);
+  const [articles, setArticles] = useState([]);
   const [selectItem, setSelectItem] = useState(0);
 
   const { ticker } = useParams();
@@ -59,12 +59,15 @@ function Company({ handleSearchResults }) {
     }
   }, []);
 
-  // useEffect(() => {
-  //   API.companyHeadlines(companyName).then((res) => {
-  //     setHeadline(res.data.articles[0]);
-  //     console.log("res", res);
-  //   });
-  // }, [companyName]);
+  useEffect(() => {
+    API.companyHeadlines(companyName).then((res) => {
+      if (res.data && res.data.totalResults > 3)
+        setArticles(res.data.articles.splice(0, 3));
+      else
+      setArticles(res.data.articles);
+      console.log("res", res);
+    });
+  }, [companyName]);
 
   return (
     // Format Components (Chart, Article Headlines, Ratings, Description, Salary etc.)
@@ -78,8 +81,16 @@ function Company({ handleSearchResults }) {
       </div>
       <FinanceChart chartList={chartList} selectItem={selectItem} financeData={financeData} companyName={companyName} />
       <SelectForm itemList={chartList} handleChange={handleSelectChange} selectItem={selectItem}/>
-      {headline && <NewsCard headline={headline} />}
-      <CompanyCard profile={profile}/>
+      {articles ? (
+        <ul>
+          {articles.map((article) => (
+            <li key={article.url}>
+              <NewsCard article={article} />
+            </li>
+          ))}
+        </ul>
+      ) : null }
+      <CompanyCard profile={profile} />
     </div>
   );
 }

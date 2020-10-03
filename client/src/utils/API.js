@@ -26,7 +26,6 @@ const incomeStatement = function (ticker) {
 const companyHeadlines = function (query) {
   return axios.get(
     `https://newsapi.org/v2/top-headlines?q=${query}&apiKey=${NewsAPIKey}`
-    // https://newsapi.org/v2/top-headlines?apiKey=d81ac61ae04549568cc53bd35de7e642&q=apple
   );
 };
 
