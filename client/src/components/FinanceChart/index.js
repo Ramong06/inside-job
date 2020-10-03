@@ -43,6 +43,20 @@ function FinanceChart({ chartList, financeData, companyName, selectItem }) {
 
         options={{
           maintainAspectRatio: false,
+          scales: {
+            yAxes: [{
+                ticks: {
+                    // Include a dollar sign in the ticks
+                  callback: function (value, index, values) {
+                    if (value >= 1000)
+                      return "$" + value.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+                    else if (value < 1)
+                      return "$" + value.toFixed(2);
+                    return "$" + value;
+                  }
+                }
+            }]
+          }
         }}
       />
     </div>
