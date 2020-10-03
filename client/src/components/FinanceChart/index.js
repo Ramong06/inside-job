@@ -48,14 +48,24 @@ function FinanceChart({ chartList, financeData, companyName, selectItem }) {
                 ticks: {
                     // Include a dollar sign in the ticks
                   callback: function (value, index, values) {
-                    if (value >= 1000)
+                    if (value >= 1000 || value <= 1000)
                       return "$" + value.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
-                    else if (value < 1)
+                    else if (value < 1 && value > -1)
                       return "$" + value.toFixed(2);
                     return "$" + value;
                   }
                 }
             }]
+          },
+          tooltips: {
+            callbacks: {
+              label: function (tooltipItem, data) {
+                const value = data['datasets'][0]['data'][tooltipItem['index']]
+                if (value >= 1000 || value <= 1000)
+                  return "$" + value.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+                return "$" + value;
+              }
+            }
           }
         }}
       />
