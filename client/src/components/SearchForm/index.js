@@ -25,17 +25,18 @@ function SearchForm({ handleSearchResults }) {
         API.companyProfile(company.symbol)
       );
       Promise.all(companyPromises).then((companies) => {
-        console.log(companies);
-
-        const companyList = companies.map((newCompany) => ({
-          name: newCompany.data[0].companyName,
-          symbol: newCompany.data[0].symbol,
-          description: newCompany.data[0].description,
-          industry: newCompany.data[0].industry,
-          website: newCompany.data[0].website,
-          sector: newCompany.data[0].sector,
-          image: newCompany.data[0].image,
-        }));
+        const companyList = companies
+          .filter(newCompany => newCompany.data.length)
+          .map((newCompany) => ({
+            name: newCompany.data[0].companyName,
+            symbol: newCompany.data[0].symbol,
+            description: newCompany.data[0].description,
+            industry: newCompany.data[0].industry,
+            website: newCompany.data[0].website,
+            sector: newCompany.data[0].sector,
+            image: newCompany.data[0].image,
+          }));
+        
         setSearchData(companyList);
 
         handleSearchResults(companyList, history);
@@ -53,7 +54,7 @@ function SearchForm({ handleSearchResults }) {
         placeholder=" Get the Inside scoop..."
       />
       <button className="Searchbutton" onClick={handleFormSubmit}>
-        <i class="fa fa-search" id="searchIcon"></i>
+        <i className="fa fa-search" id="searchIcon"></i>
       </button>
     </div>
   );

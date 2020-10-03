@@ -9,7 +9,6 @@ import { Container } from "react-bootstrap";
 import "./style.css";
 
 function Results({ searchData, handleSearchResults }) {
-  console.log(searchData);
   return (
     <React.Fragment>
       <Navbar />

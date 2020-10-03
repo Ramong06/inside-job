@@ -1,12 +1,13 @@
 import React, { useState, useEffect } from "react";
+import { Link, useParams } from "react-router-dom";
 import SearchForm from "../../components/SearchForm";
 import FinanceChart from "../../components/FinanceChart";
-import { Link, useParams } from "react-router-dom";
-import API from "../../utils/API";
 import Navbar from "../../components/Navbar";
 import NewsCard from "../../components/NewsCard";
 import CompanyCard from "../../components/CompanyCard";
+import SelectForm from "../../components/SelectForm";
 import Footer from "../../components/Footer";
+import API from "../../utils/API";
 import "./style.css";
 
 function Company({ handleSearchResults }) {
@@ -14,19 +15,26 @@ function Company({ handleSearchResults }) {
   const [companyData, setCompanyData] = useState({});
   const [financeData, setFinanceData] = useState([]);
   const [profile, setProfile] = useState({});
-  const [headline, setHeadline] = useState(null);
+  const [articles, setArticles] = useState([]);
+  const [selectItem, setSelectItem] = useState(0);
 
   const { ticker } = useParams();
-  // API.companyProfile(ticker).then((company) => {
-  //   setProfile(company);
-  // });
-  const getFinanceData = () => {
-    API.incomeStatement(ticker).then((res) => {
-      console.log("res", res);
 
-      return res;
-    });
-  };
+  const chartList = [
+    { item: "revenue", label: "Revenue"},
+    { item: "costOfRevenue", label: "Cost of Revenue"},
+    { item: "grossProfit", label: "Gross Profit"},
+    { item: "operatingExpenses", label: "Operating Expenses"},
+    { item: "ebitda", label: "EBITDA"},
+    { item: "operatingIncome", label: "Operating Income"},
+    { item: "incomeBeforeTax", label: "Income Before Tax"},
+    { item: "netIncome", label: "Net Income"}
+  ];
+
+  const handleSelectChange = (event) => {
+    setSelectItem(event.target.value);
+  }
+
 
   useEffect(() => {
     // Call APIs and retrieve company information from the databases
@@ -50,12 +58,16 @@ function Company({ handleSearchResults }) {
       });
     }
   }, []);
-  // useEffect(() => {
-  //   API.companyHeadlines(companyName).then((res) => {
-  //     setHeadline(res.data.articles[0]);
-  //     console.log("res", res);
-  //   });
-  // }, [companyName]);
+
+  useEffect(() => {
+    API.companyHeadlines(companyName).then((res) => {
+      if (res.data && res.data.totalResults > 3)
+        setArticles(res.data.articles.splice(0, 3));
+      else
+      setArticles(res.data.articles);
+      console.log("res", res);
+    });
+  }, [companyName]);
 
   return (
     // Format Components (Chart, Article Headlines, Ratings, Description, Salary etc.)
@@ -67,9 +79,18 @@ function Company({ handleSearchResults }) {
       <div className="search">
         <SearchForm handleSearchResults={handleSearchResults} />
       </div>
-      <FinanceChart financeData={financeData} />
-      {headline && <NewsCard headline={headline} />}
-      <CompanyCard profile={profile}/>
+      <FinanceChart chartList={chartList} selectItem={selectItem} financeData={financeData} companyName={companyName} />
+      <SelectForm itemList={chartList} handleChange={handleSelectChange} selectItem={selectItem}/>
+      {articles ? (
+        <ul>
+          {articles.map((article) => (
+            <li key={article.url}>
+              <NewsCard article={article} />
+            </li>
+          ))}
+        </ul>
+      ) : null }
+      <CompanyCard profile={profile} />
     </div>
   );
 }
