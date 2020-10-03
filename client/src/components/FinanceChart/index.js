@@ -60,7 +60,7 @@ function FinanceChart({ chartList, financeData, companyName, selectItem }) {
           tooltips: {
             callbacks: {
               label: function (tooltipItem, data) {
-                const value = data['datasets'][0]['data'][tooltipItem['index']]
+                const value = Math.round(data['datasets'][0]['data'][tooltipItem['index']]);
                 if (value >= 1000 || value <= -1000)
                   return "$" + value.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
                 return "$" + value;
