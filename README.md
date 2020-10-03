@@ -1,7 +1,7 @@
 # Inside Job
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-![MERN Stack](https://img.shields.io/badge/MERN-Stack-brightgreen)
+![Stack MERN](https://img.shields.io/badge/stack-MERN-brightgreen)
 ![Website Up](https://img.shields.io/badge/Website-Up-red)
 
 ## Description: What is it?
