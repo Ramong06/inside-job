@@ -10,29 +10,37 @@ Inside Job is an app that holds information about companies that users are inter
 
 ## Table of Contents
 
+- [Inside Job](#inside-job)
+  - [Description: What is it?](#description-what-is-it)
+  - [Table of Contents](#table-of-contents)
 - [Usage](#usage)
+  - [LiveLink](#livelink)
 - [Credits](#credits)
-- [Technology](#technology)
-- [Contributing](#contributing)
-- [License](#license)
-- [Future Development](#future-development)
+  - [List of collaborators](#list-of-collaborators)
+  - [Technology](#technology)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Future Development](#future-development)
+      - [Login Security](#login-security)
 
-## Usage
+# Usage
 
-# LiveLink
+## LiveLink
 
 Navigate to the website [Inside Job](https://inside-job.herokuapp.com/).
 
 After navigating to our website's landing page, type in the name of the company that you want to search and select the desired company from the provided results. After navigating to the company page - you will be greeted with several snapshots of the financial health, the public profile and what the insiders think of the organization.
 
-## Credits
+# Credits
 
-List of collaborators
+## List of collaborators
 
-- [Tolu Alimi](https://github.com/ta05)
-- [Ramon Garza III](https://github.com/Ramong06)
-- [Mina Ghaffar](https://github.com/mghaffar89)
-- [Ehson Raza](https://github.com/ehsonraza1)
+| Team Member | Role              |                                     Github Links                                      |                                                                  LinkedIn                                                                  |
+| ----------- | ----------------- | :-----------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
+| Mina        | UI/UX Design      | [![img](client/public/Asset/PNG/GitHub-Mark-32px.png)](https://github.com/mghaffar89) |    [![img](client/public/Asset/iconfinder_1_Linkedin_unofficial_colored_svg_5296501.png)](https://www.linkedin.com/in/mariam-ghaffar/)     |
+| Ehson       | Project Managment | [![img](client/public/Asset/PNG/GitHub-Mark-32px.png)](https://github.com/ehsonraza1) |       [![img](client/public/Asset/iconfinder_1_Linkedin_unofficial_colored_svg_5296501.png)](https://www.linkedin.com/in/ehsonraza/)       |
+| Ramon       | Database Engineer |  [![img](client/public/Asset/PNG/GitHub-Mark-32px.png)](https://github.com/Ramong06)  | [![img](client/public/Asset/iconfinder_1_Linkedin_unofficial_colored_svg_5296501.png)](https://www.linkedin.com/in/ramon-garza-908611199/) |
+| Tolu        | Back-End Engineer |    [![img](client/public/Asset/PNG/GitHub-Mark-32px.png)](https://github.com/ta05)    | [![img](client/public/Asset/iconfinder_1_Linkedin_unofficial_colored_svg_5296501.png)](https://www.linkedin.com/in/tolu-alimi-1a54161a1/)  |
 
 ## Technology
 

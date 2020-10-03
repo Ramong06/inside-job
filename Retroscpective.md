@@ -1,38 +1,37 @@
-# Team Member Roles
+# Dev Team
 
-| Name  | Role                |
-| ----- | ------------------- |
-| Ramon | Database Management |
-| Ehson | Project Management  |
-| Tolu  | Back-End Engineer   |
-| Mina  | UI/UX Designer      |
-|       |                     |
+| Developer                               |           Role            |
+| --------------------------------------- | :-----------------------: |
+| [Ramon ](https://github.com/Ramong06)   |    Database Management    |
+| [Ehson ](https://github.com/ehsonraza1) | Project Management & Flex |
+| [Tolu](https://github.com/ta05)         |     Back-End Engineer     |
+| [Mina ](https://github.com/mghaffar89)  |   UI/UX Designer & Flex   |
 
 # Application Wire Frame
 
-> ### <center>Website Landing
+> ### Website Landing
 
-![alt text for screen readers](client/public/Asset/landing.png "Landing Page")
+![Landing Page for the website](client/public/Asset/landing.png "Landing Page")
 
-> ### <center>Results
+> ### Results
 
-![alt text for screen readers](client/public/Asset/results.png "Results")
+![Results Page for the website](client/public/Asset/results.png "Results")
 
-> ### <center>Company/Organization Page
+> ### Company/Organization Page
 
-![alt text for screen readers](client/public/Asset/companyPage.png "Company Profile")
+![Company profile page for the website](client/public/Asset/companyPage.png "Company Profile")
 
-## <center>Theme
+## Theme
 
-![alt text for screen readers](client/public/Asset/theme.jpg "Colors/Theme")
+![Themes for the website](client/public/Asset/theme.jpg "Colors/Theme")
 
 # Challenges
 
-> ## <center>Database
+> ## Database
 
 When estimating time and effort to allot to each user story, we allocated approximately 40% of our time to massaging the data and getting it into a workable state. However, what we didnt account for was the relative inexperince of the team while working distorted data tables. This lead to some spill over effects and the Database taking up 70% of team's capacity dedicated towards the project.
 
-> ## <center>Spillover Consequnces
+> ## Spillover Consequnces
 
 Due to the challenges team faced with the database, the capacity and focus came under some strain, which lead to some downstream ripple effects and some deadlines being missed related to: UI implementation for the company page, the news component and company card(housing data related to company culture) being in an unfinished state
 
@@ -72,7 +71,7 @@ setSearchData(searchData);
 }
 ```
 
-> ## <center>Search Form
+> ## Search Form
 
 ```JSX
 
