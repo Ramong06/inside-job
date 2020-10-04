@@ -14,27 +14,26 @@ function Company({ handleSearchResults }) {
   const [companyName, setCompanyName] = useState("");
   const [companyData, setCompanyData] = useState({});
   const [financeData, setFinanceData] = useState([]);
-  const [profile, setProfile] = useState({});
+  const [profile, setProfile] = useState(null);
   const [articles, setArticles] = useState([]);
   const [selectItem, setSelectItem] = useState(0);
 
   const { ticker } = useParams();
 
   const chartList = [
-    { item: "revenue", label: "Revenue"},
-    { item: "costOfRevenue", label: "Cost of Revenue"},
-    { item: "grossProfit", label: "Gross Profit"},
-    { item: "operatingExpenses", label: "Operating Expenses"},
-    { item: "ebitda", label: "EBITDA"},
-    { item: "operatingIncome", label: "Operating Income"},
-    { item: "incomeBeforeTax", label: "Income Before Tax"},
-    { item: "netIncome", label: "Net Income"}
+    { item: "revenue", label: "Revenue" },
+    { item: "costOfRevenue", label: "Cost of Revenue" },
+    { item: "grossProfit", label: "Gross Profit" },
+    { item: "operatingExpenses", label: "Operating Expenses" },
+    { item: "ebitda", label: "EBITDA" },
+    { item: "operatingIncome", label: "Operating Income" },
+    { item: "incomeBeforeTax", label: "Income Before Tax" },
+    { item: "netIncome", label: "Net Income" },
   ];
 
   const handleSelectChange = (event) => {
     setSelectItem(event.target.value);
-  }
-
+  };
 
   useEffect(() => {
     // Call APIs and retrieve company information from the databases
@@ -42,6 +41,7 @@ function Company({ handleSearchResults }) {
     // If we have the ticker symbol for the company then call the financial modeling APIs and look up company by ids in database
     if (!(ticker.length > 16)) {
       API.companyProfile(ticker).then((company) => {
+        console.log("company", company);
         setProfile(company);
         setCompanyName(company.data[0].companyName);
       });
@@ -58,13 +58,15 @@ function Company({ handleSearchResults }) {
       });
     }
   }, []);
-
+  //TODO Issue: [Company Name Match] Apple Inc. returns smaller data size due to "Inc." var singleName gets rid of "Inc" and just searches for Apple
   useEffect(() => {
-    API.companyHeadlines(companyName).then((res) => {
+    let singleName = companyName.split(" ")[0];
+    API.companyHeadlines(singleName).then((res) => {
+      console.log("company Name", companyName);
+      console.log("response", res);
       if (res.data && res.data.totalResults > 3)
         setArticles(res.data.articles.splice(0, 3));
-      else
-      setArticles(res.data.articles);
+      else setArticles(res.data.articles);
       console.log("res", res);
     });
   }, [companyName]);
@@ -79,8 +81,17 @@ function Company({ handleSearchResults }) {
       <div className="search">
         <SearchForm handleSearchResults={handleSearchResults} />
       </div>
-      <FinanceChart chartList={chartList} selectItem={selectItem} financeData={financeData} companyName={companyName} />
-      <SelectForm itemList={chartList} handleChange={handleSelectChange} selectItem={selectItem}/>
+      <FinanceChart
+        chartList={chartList}
+        selectItem={selectItem}
+        financeData={financeData}
+        companyName={companyName}
+      />
+      <SelectForm
+        itemList={chartList}
+        handleChange={handleSelectChange}
+        selectItem={selectItem}
+      />
       {articles ? (
         <ul>
           {articles.map((article) => (
@@ -89,8 +100,13 @@ function Company({ handleSearchResults }) {
             </li>
           ))}
         </ul>
-      ) : null }
-      <CompanyCard profile={profile} />
+      ) : null}
+      {/* Checks to make data exists before drilling more into the Object and Rendering*/}
+      {/* {profile && profile.data && profile.data[0] && (
+        <CompanyCard data={profile.data[0]} />
+      )} */}
+      {/* Line Above equivalent to line Below */}
+      {profile?.data?.[0] && <CompanyCard data={profile.data[0]} />}
     </div>
   );
 }

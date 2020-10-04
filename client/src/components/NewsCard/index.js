@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 
-function NewsCard({article}) {
+function NewsCard({ article }) {
   console.log("NewsCard", article);
   return (
     <div className="row justify-content-center">
@@ -9,9 +9,13 @@ function NewsCard({article}) {
         <div className="card-group">
           <div className="card" style={{ width: "100%" }}>
             <div className="card-body">
-              <p className="card-text">{article.title}</p>
+              <a target="_blank" href={article.url} className="card-text">
+                {article.title}
+              </a>
               <p className="card-text">
-                <small className="text-muted">{(new Date(article.publishedAt)).toDateString()}</small>
+                <small className="text-muted">
+                  {new Date(article.publishedAt).toDateString()}
+                </small>
               </p>
             </div>
           </div>
