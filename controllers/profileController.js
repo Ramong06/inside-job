@@ -8,6 +8,5 @@ module.exports = {
     db.Profile.findOne({ symbol: req.params.symbol })
       .then(dbModel => res.json(dbModel))
       .catch(err => res.status(422).json(err));
-
   },
 };

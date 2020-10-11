@@ -1,5 +1,8 @@
 const axios = require("axios");
+
+const API_KEY = process.env.REACT_APP_API_KEY || "2a4568cb592dd5395bf91d7c44544431";
 // Defining methods for the financialModelingController
+
 module.exports = {
   //Grabs the companyProfile and incomeStatement info from the Financial Modeling API -> Returns an Object
 
@@ -7,7 +10,7 @@ module.exports = {
     const query = req.params.id;
     console.log(query);
     axios
-      .get(`https://financialmodelingprep.com/api/v3/profile/${query}?apikey=${REACT_APP_FINANCE_API_KEY}`)
+      .get(`https://financialmodelingprep.com/api/v3/profile/${query}?apikey=${API_KEY}`)
       .then(companies =>
         companies.map((newCompany) => ({
           name: newCompany.data[0].companyName,
@@ -19,16 +22,15 @@ module.exports = {
           image: newCompany.data[0].image,
         }))
       )
-      .then(company => {
-        console.log(company);
-        res.json(company);
-      })
+      .then(company => 
+        res.json(company)
+      )
       .catch(err => res.status(422).json(err));
   },
   incomeStatement: function (req, res) {
-    const query = req;
-    axios.get(`https://financialmodelingprep.com/api/v3/income-statement-as-reported/${query}?period=quarter&apikey=${REACT_APP_FINANCE_API_KEY}`)
-      .then(company => res.json(company))
+    const query = req.params.id;
+    axios.get(`https://financialmodelingprep.com/api/v3/income-statement-as-reported/${query}?period=quarter&apikey=${API_KEY}`)
+      .then(company => { res.json(company); console.log(company); })
       .catch(err => res.status(422).json(err));
   }
 };
