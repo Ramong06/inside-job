@@ -50,7 +50,7 @@ function FinanceChart({ chartList, financeData, companyName, selectItem }) {
                   callback: function (value, index, values) {
                     if (value >= 1000 || value <= -1000)
                       return "$" + value.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
-                    else if (value < 1 && value > -1)
+                    else if (value < 1 && value > -1 && value !== 0)
                       return "$" + value.toFixed(2);
                     return "$" + value;
                   }
