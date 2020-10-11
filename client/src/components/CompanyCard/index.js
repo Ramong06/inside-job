@@ -2,7 +2,6 @@ import React from "react";
 import "./style.css";
 
 function CompanyCard({ data }) {
-  console.log("data", data);
   return data ? (
     <div className="row justify-content-center">
       <div className="col col-lg-8">

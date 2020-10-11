@@ -2,7 +2,6 @@ import React from "react";
 import "./style.css";
 
 function NewsCard({ article }) {
-  console.log("NewsCard", article);
   return (
     <div className="row justify-content-center">
       <div className="col-8">
