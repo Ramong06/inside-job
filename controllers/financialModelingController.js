@@ -1,9 +1,11 @@
+const axios = require("axios");
 // Defining methods for the financialModelingController
 module.exports = {
   //Grabs the companyProfile and incomeStatement info from the Financial Modeling API -> Returns an Object
 
   companyProfile: function(req, res) {
     const query = req.params.id;
+    console.log(query);
     axios
       .get(`https://financialmodelingprep.com/api/v3/profile/${query}?apikey=${REACT_APP_FINANCE_API_KEY}`)
       .then(companies =>
@@ -17,7 +19,10 @@ module.exports = {
           image: newCompany.data[0].image,
         }))
       )
-      .then(company => res.json(company))
+      .then(company => {
+        console.log(company);
+        res.json(company);
+      })
       .catch(err => res.status(422).json(err));
   },
   incomeStatement: function (req, res) {
