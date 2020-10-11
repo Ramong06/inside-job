@@ -9,6 +9,6 @@ const companySchema = new Schema({
   salary: { type: Object },
 });
 
-const Company = mongoose.model("Company", salarySchema);
+const Company = mongoose.model("Company", companySchema);
 
 module.exports = Company;
