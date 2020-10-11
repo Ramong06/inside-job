@@ -19,7 +19,7 @@ function Navbar() {
         aria-controls="navbarNav"
         aria-expanded="false"
         aria-label="Toggle navigation"
-      >
+      >                                          https://fontmeme.com/temporary/1018d5d5fe3c76f055e3042916d9b6bc.png
         <span className="navbar-toggler-icon" />
       </button>
       <div className="collapse navbar-collapse" id="navbarNav">
