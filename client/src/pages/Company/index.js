@@ -41,12 +41,14 @@ function Company({ handleSearchResults }) {
     // If we have the ticker symbol for the company then call the financial modeling APIs and look up company by ids in database
     if (!(ticker.length > 16)) {
       API.companyProfile(ticker).then((company) => {
-        console.log("company", company);
         setProfile(company);
         setCompanyName(company.data[0].companyName);
       });
       API.incomeStatement(ticker).then((res) => setFinanceData(res));
-      // API.getTickerCompany(ticker).then((res) => setCompanyData(res));
+      API.getTickerCompany(ticker).then((res) => {
+        console.log(res);
+        setCompanyData(res);
+      });
     }
 
     // Set call to CompanyData by Ticker
@@ -62,12 +64,9 @@ function Company({ handleSearchResults }) {
   useEffect(() => {
     let singleName = companyName.split(" ")[0];
     API.companyHeadlines(singleName).then((res) => {
-      console.log("company Name", companyName);
-      console.log("response", res);
       if (res.data && res.data.totalResults > 3)
         setArticles(res.data.articles.splice(0, 3));
       else setArticles(res.data.articles);
-      console.log("res", res);
     });
   }, [companyName]);
 

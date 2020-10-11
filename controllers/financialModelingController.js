@@ -1,9 +1,8 @@
 const db = require("../models");
 
-// Defining methods for the booksController
+// Defining methods for the financialModelingController
 module.exports = {
-  //TODO Need to add FindAll
-  //Grabs the Salary info from the Mongoose model using the ticker -> Returns and Object
+  //Grabs the companyProfile and incomeStatement info from the Financial Modeling API -> Returns an Object
 
   companyProfile: function(req, res) {
     const query = req;
