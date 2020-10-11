@@ -17,11 +17,13 @@ if (process.env.NODE_ENV === "production") {
     app.use(express.static("client/build"));
 }
 
-let MONGODB_URI = "mongodb+srv://ramon5406:Achilles54@project3cluster.ri0rv.mongodb.net/companies_db?retryWrites=true&w=majority"
-mongoose.connect(MONGODB_URI, {
-  useNewUrlParser: true,
-  useFindAndModify: false
-});
+mongoose.connect(
+    process.env.MONGODB_URI || "mongodb+srv://ramon5406:Achilles54@project3cluster.ri0rv.mongodb.net/companies_db?retryWrites=true&w=majority",
+    {
+        useNewUrlParser: true,
+        useFindAndModify: false
+    }
+);
 
 // Define API routes here
 app.use(routes);
