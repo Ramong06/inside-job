@@ -1,12 +1,14 @@
 const path = require("path");
 const router = require("express").Router();
-const financialModelingRoutes = require("./financialmodeling");
+const companyProfileRoutes = require("./companyprofile");
+const incomeStatementRoutes = require("./incomestatement");
 const notTickerCompanyRoutes = require("./notickercompany");
 const profileRoutes = require("./profile");
 const tickerCompanyRoutes = require("./tickercompany");
 
 // Financial Modeling routes
-router.use("/financialmodeling", financialModelingRoutes);
+router.use("/companyprofile", companyProfileRoutes);
+router.use("/incomestatement", incomeStatementRoutes);
 
 // Not Ticker Company Routes
 router.use("/notickercompany", notTickerCompanyRoutes);

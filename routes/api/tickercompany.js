@@ -3,7 +3,7 @@ const companyController = require("../../controllers/companyController");
 
 
 router
-  .route("/:id")
+  .route("/:ticker")
     .get(companyController.findByTicker)
 
 module.exports = router;

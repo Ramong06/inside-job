@@ -3,7 +3,7 @@ const profileController = require("../../controllers/profileController");
 
 
 router
-  .route("/:name")
-  .get(profileController.findAll)
+  .route("/:symbol")
+  .get(profileController.find)
 
 module.exports = router;
